@@ -1,0 +1,39 @@
+---
+layout: layout.html
+pagination:
+  data: entries
+  size: 1
+  alias: entry
+permalink: "entries/{{ entry.id }}/index.html"
+eleventyComputed:
+  title: "{{ entry.name | default('', true) }}"
+---
+
+<article>
+  <h1>{{ entry.name | default("", true) }}</h1>
+
+  <p>{{ entry.desc | default("", true) }}</p>
+
+  <p>
+    Group: {{ entry.group | default("", true) }}
+  </p>
+
+  <p>
+    Tags: {{ entry.tags | default([], true) | join(", ") }}
+  </p>
+
+  <div class="grid">
+    {% for image in entry.images %}
+      <div class="card">
+        <img
+          class="detail-image"
+          src="/images/{{ image.path  | default('', true) }}"
+          alt="{{ entry.title | default('', true) | escape }}"
+          loading="lazy"
+        >
+      </div>
+    {% endfor %}
+  </div>
+
+  <p><a href="/">← Back to catalog</a></p>
+</article>

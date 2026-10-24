@@ -1,0 +1,33 @@
+{% macro bugCard(entry) %}
+    <article
+        class="card"
+        data-name="{{ entry.name | default("", true) | escape }}"
+        data-desc="{{ entry.desc | default("", true) | escape }}"
+        data-category="{{ entry.order | default("", true) | escape }}"
+        data-sub_category="{{ entry.group | default("", true) | escape }}"
+        data-tags="{{ (entry.tags | default([], true)) | join(' ') | escape }}"
+    >
+    {% if entry.images and entry.images.length %}
+        <a href="/entries/{{ entry.id }}/">
+        <img
+            src="/images/{{ entry.images[0].path }}"
+            alt="{{ entry.name | escape }}"
+            loading="lazy"
+        >
+        </a>
+    {% endif %}
+
+    <h2>
+        <a href="/entries/{{ entry.id }}/">
+        {{ entry.name }}
+        </a>
+    </h2>
+
+    <p>{{ entry.desc }}</p>
+    <p class="tags">
+        {{ entry.group | default("Uncategorized") }}
+        ·
+        {{ (entry.tags | default([], true)) | join(", ") }}
+    </p>
+    </article>
+{% endmacro %}

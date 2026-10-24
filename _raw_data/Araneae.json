@@ -1,0 +1,610 @@
+[
+  {
+    "id": "Ant Mimic Synemosyna",
+    "name": "Ant Mimic Spider",
+    "scientific": "Synemosyna species",
+    "order": "Araneae",
+    "group": "Salticidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Araneae/Ant Mimic Spider Synemosyna.avif",
+        "location": "Coastal Virginia",
+        "date": "2025-04"
+      }
+    ]
+  },
+  {
+    "id": "Ant Mimic Peckhamia",
+    "name": "Ant Mimic Spider",
+    "scientific": "Peckhamia species",
+    "order": "Araneae",
+    "group": "Salticidae",
+    "desc": "Note how this spider raises its second pair of legs, presumably mimicking ant antennae.",
+    "images": [
+      {
+        "path": "Araneae/Peckhamia1.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-05",
+        "width": "49%"
+      },
+      {
+        "path": "Araneae/Peckhamia2.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-05",
+        "width": "49%"
+      }
+    ]
+  },
+  {
+    "id": "Bicolor-ant-mimic Jumping Spider",
+    "name": "Bicolor-ant-mimic Jumping Spider",
+    "scientific": "Myrmarachne melanocephala",
+    "order": "Araneae",
+    "group": "Salticidae",
+    "desc": null,
+    "tags": ["Nepal"],
+    "images": [
+      {
+        "path": "Araneae/bicolor-ant-mimic jumper2.avif",
+        "location": "Nepal",
+        "date": "2025-10",
+        "width": "62.8%"
+      },
+      {
+        "path": "Araneae/bicolor-ant-mimic jumper.avif",
+        "location": "Nepal",
+        "date": "2025-10",
+        "width": "35.2%"
+      }
+    ]
+  },
+  {
+    "id": "Southern Black Widow",
+    "name": "Southern Black Widow",
+    "scientific": "Latrodectus mactans",
+    "order": "Araneae",
+    "group": "Theridiidae",
+    "desc": "Males are much smaller than females.",
+    "images": [
+      {
+        "path": "Araneae/southern black widow3.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-07",
+        "width": "49%"
+      },
+      {
+        "path": "Araneae/southern black widow4.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-07",
+        "width": "49%"
+      },
+      {
+        "path": "Araneae/Southern Black Widow.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-07",
+        "width": "36.7%"
+      },
+      {
+        "path": "Araneae/southern black widow2.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-08",
+        "width": "61.3%"
+      },
+      {
+        "path": "Araneae/southern black widow male.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-05",
+        "width": "42%"
+      },
+      {
+        "path": "Araneae/southern black widow male 2.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-05",
+        "width": "56%"
+      }
+    ]
+  },
+  {
+    "id": "Northern Black Widow",
+    "name": "Northern Black Widow",
+    "scientific": "Latrodectus variolus",
+    "order": "Araneae",
+    "group": "Theridiidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Araneae/northern black widow.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-07",
+        "width": "49%"
+      },
+      {
+        "path": "Araneae/northern black widow (2).avif",
+        "location": "Southwest Virginia",
+        "date": "2023-10",
+        "width": "49%"
+      }
+    ]
+  },
+  {
+    "id": "Wolf Spider",
+    "name": "Wolf Spider",
+    "scientific": null,
+    "order": "Araneae",
+    "group": "Lycosidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Araneae/wolf spider1.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-06"
+      }
+    ]
+  },
+  {
+    "id": "Arrowhead Orbweaver",
+    "name": "Arrowhead Orbweaver",
+    "scientific": "Verrucosa arenata",
+    "order": "Araneae",
+    "group": "Araneidae",
+    "desc": "This one seems to have captured some kind of sawfly.",
+    "images": [
+      {
+        "path": "Araneae/arrowhead orbweaver.avif",
+        "location": "Southwest Virginia",
+        "date": "2022-08"
+      }
+    ]
+  },
+  {
+    "id": "Hentzia species",
+    "name": "Hentzia species",
+    "scientific": "Hentzia species",
+    "order": "Araneae",
+    "group": "Salticidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Araneae/Hentzia species.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-05"
+      }
+    ]
+  },
+  {
+    "id": "Dark Fishing Spider",
+    "name": "Dark Fishing Spider",
+    "scientific": "Dolomedes tenebrosus",
+    "order": "Araneae",
+    "group": "Dolomedidae",
+    "desc": "Like water striders, fishing spiders are able to float on the water's surface using water tension. They hunt along the edges of bodies of water, capturing prey that is trapped on the surface. While this species tends to be more arboreal and less dependent on aquatic habitats, this individual was found only a few feet from the riverside.",
+    "images": [
+      {
+        "path": "Araneae/dark fishing spider.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-06"
+      }
+    ]
+  },
+  {
+    "id": "Orchard Orbweaver",
+    "name": "Orchard Orbweaver",
+    "scientific": "Leucauge venusta",
+    "order": "Araneae",
+    "group": "Tetragnathidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Araneae/orchard orbweaver.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-07"
+      }
+    ]
+  },
+  {
+    "id": "Wolf Spider Spiderlings",
+    "name": "Wolf Spider",
+    "scientific": null,
+    "order": "Araneae",
+    "group": "Lycosidae",
+    "desc": "This spider is carrying a group of spiderlings.",
+    "images": [
+      {
+        "path": "Araneae/wolf spider with spiderlings.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-08"
+      }
+    ]
+  },
+  {
+    "id": "Sergiolus capulatus",
+    "name": "Sergiolus capulatus",
+    "scientific": "Sergiolus capulatus",
+    "order": "Araneae",
+    "group": "Gnaphosidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Araneae/Sergiolus capulatus.avif",
+        "location": "Coastal Virginia",
+        "date": "2025-06"
+      }
+    ]
+  },
+  {
+    "id": "Magnolia Green Jumper",
+    "name": "Magnolia Green Jumper",
+    "scientific": "Lyssomanes viridis",
+    "order": "Araneae",
+    "group": "Salticidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Araneae/Magnolia Green Jumper.avif",
+        "location": "Coastal Virginia",
+        "date": "2025-06"
+      }
+    ]
+  },
+  {
+    "id": "Marbled Orbweaver",
+    "name": "Marbled Orbweaver",
+    "scientific": "Araneus marmoreus",
+    "order": "Araneae",
+    "group": "Araneidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Araneae/marbled orbweaver.avif",
+        "location": "Coastal Virginia",
+        "date": "2023-10"
+      }
+    ]
+  },
+  {
+    "id": "Adanson's House Jumper",
+    "name": "Adanson's House Jumper",
+    "scientific": "Hasarius adansoni",
+    "order": "Araneae",
+    "group": "Salticidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Araneae/Adanson's house jumper.avif",
+        "location": "Coastal Virginia",
+        "date": "2023-10"
+      }
+    ]
+  },
+  {
+    "id": "Long-jawed Orbweaver",
+    "name": "Long-jawed Orbweaver",
+    "scientific": "Tetragnatha species",
+    "order": "Araneae",
+    "group": "Tetragnathidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Araneae/long-jawed orbweaver.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-07"
+      }
+    ]
+  },
+  {
+    "id": "Jumping Spider",
+    "name": "Jumping Spider",
+    "scientific": null,
+    "order": "Araneae",
+    "group": "Salticidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Araneae/jumping spider.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-08"
+      }
+    ]
+  },
+  {
+    "id": "Arrow-shaped Micrathena",
+    "name": "Arrow-shaped Micrathena",
+    "scientific": "Micrathena sagittata",
+    "order": "Araneae",
+    "group": "Araneidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Araneae/arrow-shaped micrathena.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-08"
+      }
+    ]
+  },
+  {
+    "id": "Red-femured Spotted Orbweaver",
+    "name": "Red-femured Spotted Orbweaver",
+    "scientific": "Neoscona domiciliorum",
+    "order": "Araneae",
+    "group": "Araneidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Araneae/spotted orbweaver.avif",
+        "location": "Coastal Virginia",
+        "date": "2024-08"
+      }
+    ]
+  },
+  {
+    "id": "Furrow Orbweaver",
+    "name": "Furrow Orbweaver",
+    "scientific": "Larinioides cornutus",
+    "order": "Araneae",
+    "group": "Araneidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Araneae/furrow orbweaver.avif",
+        "location": "Coastal Virginia",
+        "date": "2025-04"
+      }
+    ]
+  },
+  {
+    "id": "Signature Spider",
+    "name": "Signature Spider",
+    "scientific": "Argiope anasuja",
+    "order": "Araneae",
+    "group": "Araneidae",
+    "desc": null,
+    "tags": ["Nepal"],
+    "images": [
+      {
+        "path": "Araneae/signature spider.avif",
+        "location": "Nepal",
+        "date": "2025-10",
+        "width": "49%"
+      },
+      {
+        "path": "Araneae/signature spider2.avif",
+        "location": "Nepal",
+        "date": "2025-10",
+        "width": "49%"
+      }
+    ]
+  },
+  {
+    "id": "Joro Spider",
+    "name": "Joro Spider",
+    "scientific": "Trichonephila clavata",
+    "order": "Araneae",
+    "group": "Nephilidae",
+    "desc": "Very common in Nepal.",
+    "tags": ["Nepal"],
+    "images": [
+      {
+        "path": "Araneae/joro spider.avif",
+        "location": "Nepal",
+        "date": "2025-10",
+        "width": "49%"
+      },
+      {
+        "path": "Araneae/joro spider below.avif",
+        "location": "Nepal",
+        "date": "2025-10",
+        "width": "49%"
+      }
+    ]
+  },
+  {
+    "id": "Jumping Spider Nepal",
+    "name": "Jumping Spider",
+    "scientific": null,
+    "order": "Araneae",
+    "group": "Salticidae",
+    "desc": null,
+    "tags": ["Nepal"],
+    "images": [
+      {
+        "path": "Araneae/jumping spider nepal.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ]
+  },
+  {
+    "id": "Grey Wall Jumping Spider",
+    "name": "Grey Wall Jumping Spider",
+    "scientific": "Menemerus bivittatus",
+    "order": "Araneae",
+    "group": "Salticidae",
+    "desc": null,
+    "tags": ["Nepal"],
+    "images": [
+      {
+        "path": "Araneae/grey wall jumping spider.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ]
+  },
+  {
+    "id": "Whitebanded Crab Spider",
+    "name": "Whitebanded Crab Spider",
+    "scientific": "Misumenoides formosipes",
+    "order": "Araneae",
+    "group": "Thomisidae",
+    "desc": "They exibit a wide variety of colorations with females being mostly white or yellow while males are a darker orange and green with dark legs.",
+    "images": [
+      {
+        "path": "Araneae/Whitebanded Crab Spider Male.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-08"
+      }
+    ]
+  },
+  {
+    "id": "Bold Jumper",
+    "name": "Bold Jumper",
+    "scientific": "Phidippus audax",
+    "order": "Araneae",
+    "group": "Salticidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Araneae/Bold Jumper.avif",
+        "location": "Southwest Virginia",
+        "date": "2022-05"
+      },
+      {
+        "path": "Araneae/Bold Jumping Spider2.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-06",
+        "width": "49%"
+      },
+      {
+        "path": "Araneae/Bold Jumping Spider3.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-06",
+        "width": "49%"
+      }
+    ]
+  },
+  {
+    "id": "Heptagonal Orbweaver",
+    "name": "Heptagonal Orbweaver",
+    "scientific": "Gea heptagon",
+    "order": "Araneae",
+    "group": "Araneidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Araneae/Heptagonal Orbweaver.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-05"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": null,
+    "scientific": null,
+    "order": "Araneae",
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Araneae/",
+        "location": "Southwest Virginia",
+        "date": "2025-10"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": null,
+    "scientific": null,
+    "order": "Araneae",
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Araneae/",
+        "location": "Southwest Virginia",
+        "date": "2025-10"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": null,
+    "scientific": null,
+    "order": "Araneae",
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Araneae/",
+        "location": "Southwest Virginia",
+        "date": "2025-10"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": null,
+    "scientific": null,
+    "order": "Araneae",
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Araneae/",
+        "location": "Southwest Virginia",
+        "date": "2025-10"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": null,
+    "scientific": null,
+    "order": "Araneae",
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Araneae/",
+        "location": "Southwest Virginia",
+        "date": "2025-10"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": null,
+    "scientific": null,
+    "order": "Araneae",
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Araneae/",
+        "location": "Southwest Virginia",
+        "date": "2025-10"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": null,
+    "scientific": null,
+    "order": "Araneae",
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Araneae/",
+        "location": "Southwest Virginia",
+        "date": "2025-10"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": null,
+    "scientific": null,
+    "order": "Araneae",
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Araneae/",
+        "location": "Southwest Virginia",
+        "date": "2025-10"
+      }
+    ]
+  }
+]

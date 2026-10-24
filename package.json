@@ -1,0 +1,17 @@
+{
+  "name": "buggywebsite",
+  "version": "1.0.0",
+  "description": "Trying to simplify bug website\r using Eleventy static site generate that runs off of Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "clean": "rm -r _site",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.7"
+  },
+  "type": "module"
+}
