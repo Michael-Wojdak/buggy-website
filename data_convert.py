@@ -3,8 +3,11 @@ import yaml
 from datetime import datetime
 
 # Script to convert yml data files to json format while updating date format
+
+
 def parse_mixed_date(date_str):
     # Define acceptable formats in order of priority
+    # %b matches abreviated month names while %B matches the full name
     formats = ["%b %Y", "%b. %Y", "%B %Y", "%Y-%m", "%m/%Y", "%Y.%m"]
 
     for fmt in formats:
@@ -16,17 +19,14 @@ def parse_mixed_date(date_str):
     raise ValueError(f"No matching format found for date: {date_str}")
 
 
-filename = "Araneae"
+filename = "Coleoptera"
 
 with open(filename+'.yml') as f:
   data = yaml.safe_load(f)
 
-# 1. Define your input text and its exact match format
-# Use %B for full month name (e.g., "October"), %b for short name (e.g., "Oct")
-date_string = "Oct 2026"
-input_format = "%b %Y"
-
 for entry in data:
+  if not entry["name"]:
+     continue
   for img in entry["images"]:
     date_string = img["date"]
     date_obj = parse_mixed_date(date_string)

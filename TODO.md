@@ -3,7 +3,7 @@ format multiple images
 
 transer data files
 
-transfer/convert images
+~~transfer/convert images~~
 
 random bug
 
@@ -19,6 +19,8 @@ home page
 
 design template for main page and ui
 
-create git repo
+~~create git repo~~
+
+escape `'` and other special chars
 
 transfer github pages site

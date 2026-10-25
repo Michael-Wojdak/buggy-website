@@ -5,7 +5,7 @@ title: Catalog
 
 {% from "src/macros.njk" import bugCard %}
 
-<h1>Browse the catalog</h1>
+<h1>Search the Bug Catalog</h1>
 
 <label for="search">Search entries</label>
 <input
@@ -17,7 +17,13 @@ title: Catalog
 <label for="category">Category</label>
 <select id="category">
   <option value="">All</option>
-  {# Add categories for all orders #}
+  <option value="Araneae">Spiders (Araneae)</option>
+  <option value="Chilopoda">Centipedes (Chilopoda)</option>
+  <option value="Coleoptera">Beetles (Coleoptera)</option>
+
+  {# 
+    Adds an option for every order in the data
+    Might as well just use a manual list since I need to write common names anyway
   {% set known_orders = [] %}
   {% for entry in entries %}
     {% if entry.order and entry.order not in known_orders %}
@@ -27,6 +33,7 @@ title: Catalog
       </option>
     {% endif %}
   {% endfor %}
+  #}
 </select>
 
 <p id="count" aria-live="polite"></p>

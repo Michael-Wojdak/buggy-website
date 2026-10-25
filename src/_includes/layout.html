@@ -3,13 +3,51 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ title }} — My Catalog</title>
+  <title>{{ title }} — Buggy Website</title>
   <style>
     body {
-      max-width: 1100px;
-      margin: 2rem auto;
-      padding: 0 1rem;
+      margin: 0;
       font-family: system-ui, sans-serif;
+      background-color: #dededeff;
+      min-height: 100dvh;
+    }
+    header {
+      /* max-width: 1100px; */
+      margin: 2rem auto;
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+    main {
+      overflow: auto;
+      /* max-width: 1100px; */
+      margin: 0;
+      padding-left: 10px;
+      padding-right: 10px;
+      border-left: 1px solid #555;
+      border-right: 1px solid #555;
+      background-color: #dededeff;
+      min-height: 100dvh;
+    }
+    .page-content {
+      flex: 0 1 1100px; /* Start at max size, shrink if needed */
+      min-width: 0;
+    }
+    .navbar {
+      display: flex;
+      width: auto;
+      padding: 10px;
+      gap: 20px;
+      border: 1px solid #555;
+      background-color: #e8dbf0ff;
+    }
+    .sidebar {
+      flex: 1; /* Fill remaining space on the page */
+      min-width: 0;
+      background-color: #ff8a00;
+      background-image: linear-gradient(to right, #9341ff, #aa60ff);
+    }
+    .sidebar.right {
+      background-image: linear-gradient(to left, #9341ff, #aa60ff);
     }
     .grid {
       display: grid;
@@ -18,9 +56,10 @@
       gap: 1rem;
     }
     .card {
-      border: 1px solid #ddd;
-      border-radius: 8px;
+      /* border: 1px solid #ddd; */
+      /* border-radius: 8px; */
       padding: 1rem;
+      border-bottom: 1px solid #ccc;
     }
     .card img, .detail-image {
       width: 100%;
@@ -39,11 +78,20 @@
   </style>
 </head>
 <body>
-  <header>
-    <a href="/">My Catalog</a>
-  </header>
-  <main>
-    {{ content | safe }}
-  </main>
+  <div style="display: flex; flex-grow: 1; ">
+    <div class="sidebar"></div>
+    <div class="page-content">
+      <header class="navbar">
+        <a href="/">Buggy Website</a>
+        <a style="margin-left: auto;" href="/About">About</a>
+        <a href="/">\_o_/</a>
+      </header>
+      <main>
+        {{ content | safe }}
+      </main>
+    </div>
+    <div class="sidebar right"></div>
+  </div>
+  
 </body>
 </html>

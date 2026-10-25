@@ -1,7 +1,8 @@
 
 import { readFile } from "node:fs/promises";
+import { glob } from 'glob';
 
-const files = ["./_raw_data/Araneae.json"]
+const files = await glob("./_raw_data/*.json");
 
 export default async function () {
   const entries = (await Promise.all(
