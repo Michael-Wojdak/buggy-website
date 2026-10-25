@@ -1,0 +1,983 @@
+[
+  {
+    "id": "Lesser Stag Beetle",
+    "name": "Lesser Stag Beetle",
+    "scientific": "Dorcus parallelipipedus",
+    "order": "Coleoptera",
+    "group": "Lucanidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/Lesser Stage Beetle.avif",
+        "location": "Bosnia",
+        "date": "2025-06"
+      }
+    ]
+  },
+  {
+    "id": "Ridged Carrion Beetle",
+    "name": "Ridged Carrion Beetle",
+    "scientific": "Oiceoptoma inaequale",
+    "order": "Coleoptera",
+    "group": "Staphylinidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/Ridged Carrion Beetle.avif",
+        "location": "Coastal Virginia",
+        "date": "2025-05"
+      }
+    ]
+  },
+  {
+    "id": "Oak Timberworm",
+    "name": "Oak Timberworm",
+    "scientific": "Arrenodes minutus",
+    "order": "Coleoptera",
+    "group": "Brentidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/Oak Timberworm.avif",
+        "location": "Coastal Virginia",
+        "date": "2025-05"
+      }
+    ]
+  },
+  {
+    "id": "Eastern Eyed Click Beetle",
+    "name": "Eastern Eyed Click Beetle",
+    "scientific": "Alaus oculatus",
+    "order": "Coleoptera",
+    "group": "Elateridae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/Eastern Eyed Click Beetle.avif",
+        "location": "Coastal Virginia",
+        "date": "2025-05"
+      }
+    ]
+  },
+  {
+    "id": "Wireworm",
+    "name": "Wireworm",
+    "scientific": null,
+    "order": "Coleoptera",
+    "group": "Elateridae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/click beelte larva.avif",
+        "location": "Southwest Virginia",
+        "date": "2022-06"
+      }
+    ]
+  },
+  {
+    "id": "Fringed Diving Beetle",
+    "name": "Fringed Diving Beetle",
+    "scientific": "Cybister fimbriolatus",
+    "order": "Coleoptera",
+    "group": "Dytiscidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/Fringed Diving Beetle.avif",
+        "location": "Coastal Virginia",
+        "date": "2025-04"
+      }
+    ]
+  },
+  {
+    "id": "Reticulated Net-winged Beetle",
+    "name": "Reticulated Net-winged Beetle",
+    "scientific": "Calopteron reticulatum",
+    "order": "Coleoptera",
+    "group": "Lycidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/Reticulated Net-winged Beetle.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-04",
+        "width": "47%"
+      },
+      {
+        "path": "Coleoptera/Reticulated Net-winged Beetle2.avif",
+        "location": "Southwest Virginia",
+        "date": "2022-08",
+        "width": "51%"
+      }
+    ]
+  },
+  {
+    "id": "Horned Passalus Beetle",
+    "name": "Horned Passalus Beetle",
+    "scientific": "Odontotaenius disjunctus",
+    "order": "Coleoptera",
+    "group": "Passalidae",
+    "desc": "a.k.a. the patent-leather beetle. Generally found in rotting logs, they feed on decaying wood. Like some other beetles, the passalus beetle is able to produce a scratching/squeaking sound by rubbing their wings on their body. This is called stridulation. It can be heard when the beetles are disturbed, but is also used as a method of communication between members of a colony.",
+    "images": [
+      {
+        "path": "Coleoptera/Horned Passalus Beetle.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-07"
+      },
+      {
+        "path": "Coleoptera/Horned Passalus Beetle2.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-07"
+      },
+      {
+        "path": "Coleoptera/Horned Passalus Beetle3.avif",
+        "location": "Coastal Virginia",
+        "date": "2024-05"
+      }
+    ]
+  },
+  {
+    "id": "Protaetia angustata",
+    "name": "Protaetia angustata",
+    "scientific": "Protaetia angustata",
+    "order": "Coleoptera",
+    "group": "Scarabaeidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/Protaetia angustata.avif",
+        "location": "Croatia",
+        "date": "2024-06"
+      }
+    ]
+  },
+  {
+    "id": "American Carrion Beetle",
+    "name": "American Carrion Beetle",
+    "scientific": "Necrophila americana",
+    "order": "Coleoptera",
+    "group": "Staphylinidae",
+    "desc": "Carrion beetles and their larvae feed on rotting carrion. These beetles were found near a dead squirrel.",
+    "images": [
+      {
+        "path": "Coleoptera/american carrion beetle.avif",
+        "location": "Coastal Virginia",
+        "date": "2024-04",
+        "width": "49%"
+      },
+      {
+        "path": "Coleoptera/american carrion beetle2.avif",
+        "location": "Coastal Virginia",
+        "date": "2024-04",
+        "width": "49%"
+      }
+    ]
+  },
+  {
+    "id": "Carrion Beetle Larva",
+    "name": "Carrion Beetle Larva",
+    "scientific": null,
+    "order": "Coleoptera",
+    "group": "Staphylinidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/Carrion Beetle Larva.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-05"
+      }
+    ]
+  },
+  {
+    "id": "Purplescent Longhorn Beetle",
+    "name": "Purplescent Longhorn Beetle",
+    "scientific": "Purpuricenus paraxillaris",
+    "order": "Coleoptera",
+    "group": "Cerambycidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/Purpuricenus paraxillaris.avif",
+        "location": "Southwest Virginia",
+        "date": "2022-06"
+      }
+    ]
+  },
+  {
+    "id": "Fiery Searcher",
+    "name": "Fiery Searcher",
+    "scientific": "Calosoma scrutator",
+    "order": "Coleoptera",
+    "group": "Carabidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/Fiery Searcher.avif",
+        "location": "Coastal Virginia",
+        "date": "2025-04"
+      }
+    ]
+  },
+  {
+    "id": "Metallic Wood-boring Beetle",
+    "name": "Metallic Wood-boring Beetle",
+    "scientific": null,
+    "order": "Coleoptera",
+    "group": "Buprestidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/buprestid.avif",
+        "location": "Coastal Virginia",
+        "date": "2024-02"
+      }
+    ]
+  },
+  {
+    "id": "Buprestis rufipes",
+    "name": "Buprestis rufipes",
+    "scientific": "Buprestis rufipes",
+    "order": "Coleoptera",
+    "group": "Buprestidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/Buprestis rufipes.JPEG",
+        "location": "Southwest Virginia",
+        "date": "2025-09"
+      }
+    ]
+  },
+  {
+    "id": "Dicerca species",
+    "name": "Dicerca species",
+    "scientific": "Dicerca species",
+    "order": "Coleoptera",
+    "group": "Buprestidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/dicerca species.avif",
+        "location": "Coastal Virginia",
+        "date": "2024-05"
+      }
+    ]
+  },
+  {
+    "id": "Reddish-brown Stag Beetle",
+    "name": "Reddish-brown Stag Beetle",
+    "scientific": "Lucanus capreolus",
+    "order": "Coleoptera",
+    "group": "Lucanidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/reddish-brown stag beetle.avif",
+        "location": "Central Kentucky",
+        "date": "2024-07",
+        "width": "62.8%"
+      },
+      {
+        "path": "Coleoptera/reddish-brown stag beetle (2).avif",
+        "location": "Southwest Virginia",
+        "date": "2025-08",
+        "width": "35.2%"
+      }
+    ]
+  },
+  {
+    "id": "Pleasing Fungus Beetle",
+    "name": "Pleasing Fungus Beetle",
+    "scientific": "Megalodacne heros",
+    "order": "Coleoptera",
+    "group": "Erotylidae",
+    "desc": "They feed on fungus growing from rotting logs and are not often seen due to being nocturnal.",
+    "images": [
+      {
+        "path": "Coleoptera/pleasing fungus beetle.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-05",
+        "width": "47.5%"
+      },
+      {
+        "path": "Coleoptera/Pleasing Fungus Beetle2.avif",
+        "location": "Great Smoky Mountains, Tennessee",
+        "date": "2026-05",
+        "width": "50.5%"
+      },
+      {
+        "path": "Coleoptera/Pleasing Fungus Beetle3.avif",
+        "location": "Great Smoky Mountains, Tennessee",
+        "date": "2026-05",
+        "width": "99%"
+      }
+    ]
+  },
+  {
+    "id": "Six-spotted Tiger Beetle",
+    "name": "Six-spotted Tiger Beetle",
+    "scientific": "Cicindela sexguttata",
+    "order": "Coleoptera",
+    "group": "Cicindelidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/six spotted tiger.avif",
+        "location": "Coastal Virginia",
+        "date": "2024-04",
+        "width": "49%"
+      },
+      {
+        "path": "Coleoptera/six spotted tiger (2).avif",
+        "location": "Coastal Virginia",
+        "date": "2024-03",
+        "width": "49%"
+      },
+      {
+        "path": "Coleoptera/six spotted tiger (3).avif",
+        "location": "Coastal Virginia",
+        "date": "2023-03"
+      }
+    ]
+  },
+  {
+    "id": "One-spotted Tiger Beetle",
+    "name": "One-spotted Tiger Beetle",
+    "scientific": "Apterodela unipunctata",
+    "order": "Coleoptera",
+    "group": "Cicindelidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/one-spotted tiger beetle.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-07"
+      }
+    ]
+  },
+  {
+    "id": "June Beetle",
+    "name": "June Beetle",
+    "scientific": "Cotinis nitida",
+    "order": "Coleoptera",
+    "group": "Scarabaeidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/June Beetle.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-06"
+      },
+      {
+        "path": "Coleoptera/June Beetle 2.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-07"
+      }
+    ]
+  },
+  {
+    "id": "Grapevine Beetle",
+    "name": "Grapevine Beetle",
+    "scientific": "Pelidnota punctata",
+    "order": "Coleoptera",
+    "group": "Scarabaeidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/Grapevine Beetle.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-07"
+      }
+    ]
+  },
+  {
+    "id": "Larger Elm Leaf Beetle",
+    "name": "Larger Elm Leaf Beetle",
+    "scientific": "Monocesta coryli",
+    "order": "Coleoptera",
+    "group": "Chrysomelidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/Larger Elm Leaf Beetle.avif",
+        "location": "Coastal Virginia",
+        "date": "2025-06",
+        "width": "49%"
+      },
+      {
+        "path": "Coleoptera/Larger Elm Leaf Beetle Larva.avif",
+        "location": "Southwest Virginia",
+        "date": "2022-08",
+        "width": "49%"
+      }
+    ]
+  },
+  {
+    "id": "Ant-like Flower Beetle",
+    "name": "Ant-like Flower Beetle",
+    "scientific": null,
+    "order": "Coleoptera",
+    "group": "Anthicidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/Anthelephila species.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ]
+  },
+  {
+    "id": "Cistelomorpha flavovirens",
+    "name": "Cistelomorpha flavovirens",
+    "scientific": "Cistelomorpha flavovirens",
+    "order": "Coleoptera",
+    "group": "Tenebrionidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/Cistelomorpha flavovirens.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ]
+  },
+  {
+    "id": "Diving Beetle",
+    "name": "Diving Beetle",
+    "scientific": null,
+    "order": "Coleoptera",
+    "group": "Dytiscidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/nepali diving beetle.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ]
+  },
+  {
+    "id": "Weevil",
+    "name": "Weevil",
+    "scientific": null,
+    "order": "Coleoptera",
+    "group": "Curculionidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/nepali weevil.avif",
+        "location": "Nepal",
+        "date": "2025-10",
+        "width": "35.2%"
+      },
+      {
+        "path": "Coleoptera/nepali weevil (2).avif",
+        "location": "Nepal",
+        "date": "2025-10",
+        "width": "62.8%"
+      }
+    ]
+  },
+  {
+    "id": "Sawyer Beetle",
+    "name": "Sawyer Beetle",
+    "scientific": "Monochamus species",
+    "order": "Coleoptera",
+    "group": "Cerambycidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/sawyer beetle.avif",
+        "location": "Coastal Virginia",
+        "date": "2023-10"
+      }
+    ]
+  },
+  {
+    "id": "Northeastern Pine Sawyer",
+    "name": "Northeastern Pine Sawyer",
+    "scientific": "Monochamus notatus",
+    "order": "Coleoptera",
+    "group": "Cerambycidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/northeastern pine sawyer.avif",
+        "location": "Southwest Virginia",
+        "date": "2022-06"
+      }
+    ]
+  },
+  {
+    "id": "Red Milkweed Beetle",
+    "name": "Red Milkweed Beetle",
+    "scientific": "Tetraopes tetrophthalmus",
+    "order": "Coleoptera",
+    "group": "Cerambycidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/red milkweed beetle.avif",
+        "location": "Southwest Virginia",
+        "date": "2022-06"
+      }
+    ]
+  },
+  {
+    "id": "Dogbane Beetle",
+    "name": "Dogbane Beetle",
+    "scientific": "Chrysochus auratus",
+    "order": "Coleoptera",
+    "group": "Chrysomelidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/dogbane beetle.avif",
+        "location": "Southwest Virginia",
+        "date": "2022-06",
+        "width": "49%"
+      },
+      {
+        "path": "Coleoptera/dogbane beetle (2).avif",
+        "location": "Southwest Virginia",
+        "date": "2024-07",
+        "width": "49%"
+      }
+    ]
+  },
+  {
+    "id": "Brassy Blister Beetle",
+    "name": "Brassy Blister Beetle",
+    "scientific": "Lytta aenea",
+    "order": "Coleoptera",
+    "group": "Meloidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/brassy blister beetle.avif",
+        "location": "Coastal Virginia",
+        "date": "2023-04",
+        "width": "56%"
+      },
+      {
+        "path": "Coleoptera/brassy blister beetle (2).avif",
+        "location": "Coastal Virginia",
+        "date": "2024-04",
+        "width": "42%"
+      },
+      {
+        "path": "Coleoptera/brassy blister beetle (3).avif",
+        "location": "Coastal Virginia",
+        "date": "2025-03",
+        "width": "99%"
+      }
+    ]
+  },
+  {
+    "id": "Margined Leatherwing Beetle",
+    "name": "Margined Leatherwing Beetle",
+    "scientific": "Chauliognathus marginatus",
+    "order": "Coleoptera",
+    "group": "Cantharidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/margined leatherwing beetle.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-05"
+      }
+    ]
+  },
+  {
+    "id": "Lady Beetle",
+    "name": "Lady Beetle",
+    "scientific": null,
+    "order": "Coleoptera",
+    "group": "Coccinellidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/lady beetle family.avif",
+        "location": "Coastal Virginia",
+        "date": "2024-11",
+        "width": "62.8%"
+      },
+      {
+        "path": "Coleoptera/lady beetle larva.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-05",
+        "width": "35.2%"
+      }
+    ]
+  },
+  {
+    "id": "Squash Lady Beetle",
+    "name": "Squash Lady Beetle",
+    "scientific": "Epilachna borealis",
+    "order": "Coleoptera",
+    "group": "Coccinellidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/squash lady beetle.avif",
+        "location": "Southwest Virginia",
+        "date": "2022-08"
+      },
+      {
+        "path": "Coleoptera/Squash Lady Beetle Larva.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-07"
+      }
+    ]
+  },
+  {
+    "id": "Twice-stabbed Lady Beetle",
+    "name": "Twice-stabbed Lady Beetle",
+    "scientific": "Chilocorus stigma",
+    "order": "Coleoptera",
+    "group": "Coccinellidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/twice-stabbed lady beetle.avif",
+        "location": "Coastal Virginia",
+        "date": "2024-11"
+      }
+    ]
+  },
+  {
+    "id": "Spotted Pink Lady Beetle",
+    "name": "Spotted Pink Lady Beetle",
+    "scientific": "Coleomegilla maculata",
+    "order": "Coleoptera",
+    "group": "Coccinellidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/spotted pink lady beetle.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-08"
+      }
+    ]
+  },
+  {
+    "id": "Rose Chafer",
+    "name": "Rose Chafer",
+    "scientific": "Macrodactylus subspinosus",
+    "order": "Coleoptera",
+    "group": "Scarabaeidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/rose chafer.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-05"
+      }
+    ]
+  },
+  {
+    "id": "Rove Beetle",
+    "name": "Rove Beetle",
+    "scientific": null,
+    "order": "Coleoptera",
+    "group": "Staphylinidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/Rove Beetle.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-06"
+      }
+    ]
+  },
+  {
+    "id": "Pine Weevil",
+    "name": "Pine Weevil",
+    "scientific": "Hylobius species",
+    "order": "Coleoptera",
+    "group": "Curculionidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/pine weevil.avif",
+        "location": "Coastal Virginia",
+        "date": "2024-03"
+      }
+    ]
+  },
+  {
+    "id": "Acorn Weevil",
+    "name": "Acorn Weevil",
+    "scientific": "Curculio species",
+    "order": "Coleoptera",
+    "group": "Curculionidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/curculio species.avif",
+        "location": "Coastal Virginia",
+        "date": "2024-10"
+      }
+    ]
+  },
+  {
+    "id": "Stenosphenus notatus",
+    "name": "Stenosphenus notatus",
+    "scientific": "Stenosphenus notatus",
+    "order": "Coleoptera",
+    "group": "Cerambycidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/stenosphenus notatus.avif",
+        "location": "Coastal Virginia",
+        "date": "2025-04"
+      }
+    ]
+  },
+  {
+    "id": "Darkling Beetle",
+    "name": "Darkling Beetle",
+    "scientific": null,
+    "order": "Coleoptera",
+    "group": "Tenebrionidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/darkling beetle.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-06"
+      }
+    ]
+  },
+  {
+    "id": "Soldier Beetle Larva",
+    "name": "Soldier Beetle Larva",
+    "scientific": null,
+    "order": "Coleoptera",
+    "group": "Cantharidae",
+    "desc": "These predacious larvae produce a white defensive liquid when threatened.",
+    "images": [
+      {
+        "path": "Coleoptera/Soldier Beetle Larva.avif",
+        "location": "Coastal Virginia",
+        "date": "2024-09"
+      }
+    ]
+  },
+  {
+    "id": "Three-ribbed Soldier Beetle",
+    "name": "Three-ribbed Soldier Beetle",
+    "scientific": "Podabrus tricostatus",
+    "order": "Coleoptera",
+    "group": "Cantharidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/Three-ribbed Soldier Beetle.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-05"
+      }
+    ]
+  },
+  {
+    "id": "Flower Longhorn Beetle",
+    "name": "Flower Longhorn Beetle",
+    "scientific": "Metacmaeops vittata",
+    "order": "Coleoptera",
+    "group": "Cerambycidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/Flower Longhorn Beetle.avif",
+        "location": "Southwest Virginia",
+        "date": "2022-06"
+      }
+    ]
+  },
+  {
+    "id": "Scarab Pupa",
+    "name": "Scarab Pupa",
+    "scientific": null,
+    "order": "Coleoptera",
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/Scarab Pupa.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-06"
+      }
+    ]
+  },
+  {
+    "id": "Asian Lady Beetle",
+    "name": "Asian Lady Beetle",
+    "scientific": "Harmonia axyridis",
+    "order": "Coleoptera",
+    "group": "Coccinellidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/Asian Lady Beetle.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-04",
+        "width": "49%"
+      },
+      {
+        "path": "Coleoptera/Asian Lady Beetle2.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-04",
+        "width": "49%"
+      }
+    ]
+  },
+  {
+    "id": "Ant-like Longhorn Beetle",
+    "name": "Ant-like Longhorn Beetle",
+    "scientific": "Cyrtophorus verrucosus",
+    "order": "Coleoptera",
+    "group": "Cerambycidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/Ant-like Longhorn Beetle.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-04"
+      }
+    ]
+  },
+  {
+    "id": "Tanbark Borer",
+    "name": "Tanbark Borer",
+    "scientific": "Phymatodes testaceus",
+    "order": "Coleoptera",
+    "group": "Cerambycidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/Tanbark Borer.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-04"
+      }
+    ]
+  },
+  {
+    "id": "Firefly Larva",
+    "name": "Firefly Larva",
+    "scientific": null,
+    "order": "Coleoptera",
+    "group": "Lampyridae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/Firefly Larva.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-04"
+      }
+    ]
+  },
+  {
+    "id": "Tymnes chrysis",
+    "name": "Tymnes chrysis",
+    "scientific": "Tymnes chrysis",
+    "order": "Coleoptera",
+    "group": "Chrysomelidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/Tymnes chrysis.avif",
+        "location": "Great Smoky Mountains, Tennessee",
+        "date": "2026-05",
+        "width": "49%"
+      },
+      {
+        "path": "Coleoptera/Tymnes chrysis2.avif",
+        "location": "Great Smoky Mountains, Tennessee",
+        "date": "2026-05",
+        "width": "49%"
+      }
+    ]
+  },
+  {
+    "id": "Oil Beetle",
+    "name": "Oil Beetle",
+    "scientific": "Meloe angusticollis",
+    "order": "Coleoptera",
+    "group": "Meloidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/Oil Beetle.avif",
+        "location": "Great Smoky Mountains, Tennessee",
+        "date": "2026-05"
+      },
+      {
+        "path": "Coleoptera/Oil Beetle2.avif",
+        "location": "Great Smoky Mountains, Tennessee",
+        "date": "2026-05"
+      }
+    ]
+  },
+  {
+    "id": "Fay's Soldier Beetle",
+    "name": "Fay's Soldier Beetle",
+    "scientific": "Podabrus fayi",
+    "order": "Coleoptera",
+    "group": "Cantharidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/Fay's Soldier Beetle.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-05"
+      }
+    ]
+  },
+  {
+    "id": "Water Scavenger Beetle Larva",
+    "name": "Water Scavenger Beetle Larva",
+    "scientific": null,
+    "order": "Coleoptera",
+    "group": "Hydrophilidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/Water Scavenger Beetle Larva.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-06"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": null,
+    "scientific": null,
+    "order": "Coleoptera",
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/",
+        "location": "Southwest Virginia",
+        "date": "April 2026"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": null,
+    "scientific": null,
+    "order": "Coleoptera",
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/",
+        "location": "Southwest Virginia",
+        "date": "April 2026"
+      }
+    ]
+  }
+]

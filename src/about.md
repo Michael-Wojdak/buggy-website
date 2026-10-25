@@ -1,0 +1,8 @@
+---
+layout: layout.html
+title: About
+---
+
+# About
+
+some text
