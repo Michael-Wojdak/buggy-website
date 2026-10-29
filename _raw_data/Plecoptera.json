@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Springflies",
+    "scientific": null,
+    "group": "Perlodidae",
+    "desc": "Springflies make up the subfamily Perlodinae.",
+    "images": [
+      {
+        "path": "Plecoptera/Springfly.avif",
+        "location": "Southwest Virginia",
+        "date": "2021-05",
+        "width": "49%"
+      },
+      {
+        "path": "Plecoptera/Springfly2.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-05",
+        "width": "49%"
+      },
+      {
+        "path": "Plecoptera/Springfly3.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-05"
+      }
+    ],
+    "id": "Springflies",
+    "order": "Plecoptera"
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Plecoptera/",
+        "location": "Southwest Virginia",
+        "date": null
+      }
+    ]
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Plecoptera/",
+        "location": "Southwest Virginia",
+        "date": null
+      }
+    ]
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Plecoptera/",
+        "location": "Southwest Virginia",
+        "date": null
+      }
+    ]
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Plecoptera/",
+        "location": "Southwest Virginia",
+        "date": null
+      }
+    ]
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Plecoptera/",
+        "location": "Southwest Virginia",
+        "date": null
+      }
+    ]
+  }
+]

@@ -1,6 +1,7 @@
 import json
 import yaml
 from datetime import datetime
+from pathlib import Path
 
 # Script to convert yml data files to json format while updating date format
 
@@ -18,25 +19,29 @@ def parse_mixed_date(date_str):
 
     raise ValueError(f"No matching format found for date: {date_str}")
 
+directory = Path(".")
+filenames = [file.stem for file in directory.glob("*.yml") if file.is_file()]
+for filename in filenames:
 
-filename = "Coleoptera"
+    with open(filename+".yml") as f:
+        data = yaml.safe_load(f)
 
-with open(filename+'.yml') as f:
-  data = yaml.safe_load(f)
+    for entry in data:
+        if not entry["name"]:
+            continue
+        for img in entry["images"]:
+            date_string = img["date"] or "1990-01"
+            date_obj = parse_mixed_date(date_string)
 
-for entry in data:
-  if not entry["name"]:
-     continue
-  for img in entry["images"]:
-    date_string = img["date"]
-    date_obj = parse_mixed_date(date_string)
+            # optional: add -%d to include day defaulted to 01
+            formatted_date = date_obj.strftime("%Y-%m")
+            img["date"] = formatted_date
 
-    # optional: add -%d to include day defaulted to 01
-    formatted_date = date_obj.strftime("%Y-%m")
-    img["date"] = formatted_date
+        entry["id"] = entry["name"]
+        entry["order"] = filename
 
-json_string = json.dumps(data, indent=2)
-print(json_string)
+        json_string = json.dumps(data, indent=2)
+        # print(json_string)
 
-with open(filename+'.json', "w") as f:
-   f.write(json_string)
+    with open(filename+'.json', "w") as f:
+        f.write(json_string)

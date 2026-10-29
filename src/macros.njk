@@ -6,6 +6,7 @@
         data-category="{{ entry.order | default("", true) | escape }}"
         data-sub_category="{{ entry.group | default("", true) | escape }}"
         data-tags="{{ (entry.tags | default([], true)) | join(' ') | escape }}"
+        data-dates="{% for image in entry.images %}{% if image.date %}{{image.date}},{%endif%}{%endfor%}"
     >
     {% if entry.images and entry.images.length %}
         <a href="/entries/{{ entry.id }}/">

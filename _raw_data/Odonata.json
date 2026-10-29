@@ -1,0 +1,327 @@
+[
+  {
+    "name": "Black-shouldered Spinyleg",
+    "scientific": "Dromogomphus spinosus",
+    "group": "Gomphidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Odonata/black_shouldered_spinyleg.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-06"
+      }
+    ],
+    "id": "Black-shouldered Spinyleg",
+    "order": "Odonata"
+  },
+  {
+    "name": "Eastern Pondhawk",
+    "scientific": "Erythemis simplicicollis",
+    "group": "Libellulidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Odonata/Eastern Pondhawk.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-09"
+      }
+    ],
+    "id": "Eastern Pondhawk",
+    "order": "Odonata"
+  },
+  {
+    "name": "Double-striped Bluet",
+    "scientific": "Enallagma basidens",
+    "group": "Coenagrionidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Odonata/Double-striped Bluet.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-08"
+      }
+    ],
+    "id": "Double-striped Bluet",
+    "order": "Odonata"
+  },
+  {
+    "name": "Ebony Jewelwing",
+    "scientific": "Calopteryx maculata",
+    "group": "Calopterygidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Odonata/ebony jewelwing.avif",
+        "location": "Coastal Virginia",
+        "date": "2024-05"
+      },
+      {
+        "path": "Odonata/ebony jewelwing (2).avif",
+        "location": "Southwest Virginia",
+        "date": "2025-05"
+      }
+    ],
+    "id": "Ebony Jewelwing",
+    "order": "Odonata"
+  },
+  {
+    "name": "Blue Dasher",
+    "scientific": "Pachydiplax longipennis",
+    "group": "Libellulidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Odonata/blue dasher.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-07"
+      }
+    ],
+    "id": "Blue Dasher",
+    "order": "Odonata"
+  },
+  {
+    "name": "Eastern Amberwing",
+    "scientific": "Perithemis tenera",
+    "group": "Libellulidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Odonata/eastern amberwing.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-07"
+      }
+    ],
+    "id": "Eastern Amberwing",
+    "order": "Odonata"
+  },
+  {
+    "name": "Common Whitetail",
+    "scientific": "Plathemis lydia",
+    "group": "Libellulidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Odonata/common whitetail.avif",
+        "location": "Coastal Virginia",
+        "date": "2025-04"
+      }
+    ],
+    "id": "Common Whitetail",
+    "order": "Odonata"
+  },
+  {
+    "name": "Scarlet Skimmer",
+    "scientific": "Crocothemis servilia",
+    "group": "Libellulidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Odonata/scarlet skimmer.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      },
+      {
+        "path": "Odonata/scarlet skimmer (2).avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      },
+      {
+        "path": "Odonata/scarlet skimmer (3).avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Scarlet Skimmer",
+    "order": "Odonata"
+  },
+  {
+    "name": "Crimson-tailed Marsh Hawk",
+    "scientific": "Orthetrum pruinosum",
+    "group": "Libellulidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Odonata/crimson-tailed marsh hawk.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Crimson-tailed Marsh Hawk",
+    "order": "Odonata"
+  },
+  {
+    "name": "Chalky Percher",
+    "scientific": "Diplacodes trivialis",
+    "group": "Libellulidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Odonata/chalky percher.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Chalky Percher",
+    "order": "Odonata"
+  },
+  {
+    "name": "Tigertail",
+    "scientific": "Ictinogomphus species",
+    "group": "Gomphidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Odonata/tigertail.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Tigertail",
+    "order": "Odonata"
+  },
+  {
+    "name": "Western Golden Dartlet",
+    "scientific": "Ischnura rubilio",
+    "group": "Coenagrionidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Odonata/western golden dartlet.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Western Golden Dartlet",
+    "order": "Odonata"
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": null,
+        "location": "Southwest Virginia",
+        "date": "July 2025"
+      }
+    ]
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": null,
+        "location": "Southwest Virginia",
+        "date": "July 2025"
+      }
+    ]
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": null,
+        "location": "Southwest Virginia",
+        "date": "July 2025"
+      }
+    ]
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": null,
+        "location": "Southwest Virginia",
+        "date": "July 2025"
+      }
+    ]
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": null,
+        "location": "Southwest Virginia",
+        "date": "July 2025"
+      }
+    ]
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": null,
+        "location": "Southwest Virginia",
+        "date": "July 2025"
+      }
+    ]
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": null,
+        "location": "Southwest Virginia",
+        "date": "July 2025"
+      }
+    ]
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": null,
+        "location": "Southwest Virginia",
+        "date": "July 2025"
+      }
+    ]
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": null,
+        "location": "Southwest Virginia",
+        "date": "July 2025"
+      }
+    ]
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": null,
+        "location": "Southwest Virginia",
+        "date": "July 2025"
+      }
+    ]
+  }
+]

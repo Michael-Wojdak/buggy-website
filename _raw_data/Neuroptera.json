@@ -1,0 +1,108 @@
+[
+  {
+    "name": "Green Mantidfly",
+    "scientific": "Zeugomantispa minuta",
+    "group": "Mantispidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Neuroptera/Mantidfly.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-09"
+      }
+    ],
+    "id": "Green Mantidfly",
+    "order": "Neuroptera"
+  },
+  {
+    "name": "Green Lacewing",
+    "scientific": null,
+    "group": "Chrysopidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Neuroptera/Green Lacewing.avif",
+        "location": "Coastal Virginia",
+        "date": "2025-03",
+        "width": "49%"
+      },
+      {
+        "path": "Neuroptera/Green Lacewing2.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-07",
+        "width": "49%"
+      }
+    ],
+    "id": "Green Lacewing",
+    "order": "Neuroptera"
+  },
+  {
+    "name": "Lichen-carrying Green Lacewing",
+    "scientific": "Leucochrysa pavida",
+    "group": "Chrysopidae",
+    "desc": "The larval form of this insect covers itself with tiny bits of lichen as a form of camouflage.",
+    "images": [
+      {
+        "path": "Neuroptera/Lichen-carrying Green Lacewing.avif",
+        "location": "Coastal Virginia",
+        "date": "2023-11",
+        "width": "49%"
+      },
+      {
+        "path": "Neuroptera/Lichen-carrying Green Lacewing2.avif",
+        "location": "Coastal Virginia",
+        "date": "2023-11",
+        "width": "49%"
+      },
+      {
+        "path": "Neuroptera/Lichen-carrying Green Lacewing3.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-11",
+        "width": "49%"
+      },
+      {
+        "path": "Neuroptera/Lichen-carrying Green Lacewing4.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-11",
+        "width": "49%"
+      }
+    ],
+    "id": "Lichen-carrying Green Lacewing",
+    "order": "Neuroptera"
+  },
+  {
+    "name": "Antlion",
+    "scientific": null,
+    "group": "Myrmeleontidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Neuroptera/Antlion.JPEG",
+        "location": "Southwest Virginia",
+        "date": "2025-09",
+        "width": "35.25%"
+      },
+      {
+        "path": "Neuroptera/Antlion (2).JPEG",
+        "location": "Southwest Virginia",
+        "date": "2025-09",
+        "width": "62.75%"
+      }
+    ],
+    "id": "Antlion",
+    "order": "Neuroptera"
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Neuroptera/",
+        "location": "Southwest Virginia",
+        "date": "Oct. 2025"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1438 @@
+[
+  {
+    "name": "Fiery Skipper",
+    "scientific": "Hylephila phyleus",
+    "group": "Hesperiidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Fiery Skipper.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-08"
+      }
+    ],
+    "id": "Fiery Skipper",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "European Comma",
+    "scientific": "Polygonia c-album",
+    "group": "Nymphalidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/European Comma.avif",
+        "location": "Bosnia",
+        "date": "2025-06"
+      }
+    ],
+    "id": "European Comma",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Melitaea species",
+    "scientific": "Melitaea species",
+    "group": "Nymphalidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Melitaea species.avif",
+        "location": "Bosnia",
+        "date": "2025-06"
+      }
+    ],
+    "id": "Melitaea species",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Monarch",
+    "scientific": "Danaus plexippus",
+    "group": "Nymphalidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Monarch Butterfly.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-08",
+        "width": "49%"
+      },
+      {
+        "path": "Lepidoptera/Monarch Butterfly2.avif",
+        "location": "Southwest Virginia",
+        "date": "2022-08",
+        "width": "49%"
+      },
+      {
+        "path": "Lepidoptera/Monarch Caterpillar.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-09"
+      },
+      {
+        "path": "Lepidoptera/Monarch Caterpillar2.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-05"
+      }
+    ],
+    "id": "Monarch",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Common Brimstone",
+    "scientific": "Gonepteryx rhamni",
+    "group": "Pieridae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Common Brimstone.avif",
+        "location": "Bosnia",
+        "date": "2025-06"
+      }
+    ],
+    "id": "Common Brimstone",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Summer Azure",
+    "scientific": "Celastrina neglecta",
+    "group": "Lycaenidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Summer Azure.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-06"
+      }
+    ],
+    "id": "Summer Azure",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Painted Lady",
+    "scientific": "Vanessa cardui",
+    "group": "Nymphalidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Painted Lady.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-07"
+      }
+    ],
+    "id": "Painted Lady",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Pipevine Swallowtail",
+    "scientific": "Battus philenor",
+    "group": "Papilionidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Pipevine Swallowtail.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-07",
+        "width": "62%"
+      },
+      {
+        "path": "Lepidoptera/Pipevine Swallowtail Caterpillar.avif",
+        "location": "Central Kentucky",
+        "date": "2024-07",
+        "width": "37.4%"
+      }
+    ],
+    "id": "Pipevine Swallowtail",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Gray Hairstreak",
+    "scientific": "Strymon melinus",
+    "group": "Lycaenidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Gray Hairstreak.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-08"
+      }
+    ],
+    "id": "Gray Hairstreak",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Cabbage White",
+    "scientific": "Pieris rapae",
+    "group": "Pieridae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Cabbage White.avif",
+        "location": "Southwest Virginia",
+        "date": "2022-08"
+      }
+    ],
+    "id": "Cabbage White",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Eastern Tiger Swallowtail",
+    "scientific": "Papilio Glaucus",
+    "group": "Papilionidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Tiger Swallowtail.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-05"
+      }
+    ],
+    "id": "Eastern Tiger Swallowtail",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Hackberry Emperor",
+    "scientific": "Asterocampa celtis",
+    "group": "Nymphalidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Hackberry Emperor.avif",
+        "location": "Central Kentucky",
+        "date": "2024-07"
+      }
+    ],
+    "id": "Hackberry Emperor",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Great Spangled Fritillary",
+    "scientific": "Speyeria cybele",
+    "group": "Nymphalidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Great Spangled Fritillary.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-06"
+      }
+    ],
+    "id": "Great Spangled Fritillary",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Orange Punch Butterfly",
+    "scientific": "Dodona egeon",
+    "group": "Riodinidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/orange punch butterfly.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Orange Punch Butterfly",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Himalayan Jester",
+    "scientific": "Symbrenthia hypselis",
+    "group": "Nymphalidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Himalayan Jester.avif",
+        "location": "Nepal",
+        "date": "2025-10",
+        "width": "49%"
+      },
+      {
+        "path": "Lepidoptera/Himalayan Jester (2).avif",
+        "location": "Nepal",
+        "date": "2025-10",
+        "width": "49%"
+      }
+    ],
+    "id": "Himalayan Jester",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Paris Peacock Swallowtail",
+    "scientific": "Papilio paris",
+    "group": "Papilionidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/paris peacock swallowtail.avif",
+        "location": "Nepal",
+        "date": "2025-10",
+        "width": "49%"
+      },
+      {
+        "path": "Lepidoptera/paris peacock swallowtail (3).avif",
+        "location": "Nepal",
+        "date": "2025-10",
+        "width": "49%"
+      },
+      {
+        "path": "Lepidoptera/paris peacock swallowtail (2).avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Paris Peacock Swallowtail",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Peacock Pansy",
+    "scientific": "Junonia almana",
+    "group": "Nymphalidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/peacock pansy.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Peacock Pansy",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Banana Skipper",
+    "scientific": "Erionota thrax",
+    "group": "Hesperiidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/banana skipper.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Banana Skipper",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Grass Yellow",
+    "scientific": "Eurema species",
+    "group": "Pieridae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/nepali grass yellow.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Grass Yellow",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Common Evening Brown",
+    "scientific": "Melanitis leda",
+    "group": "Nymphalidae",
+    "desc": "Prominent eye-spots identify this individual as a wet-season morph.",
+    "images": [
+      {
+        "path": "Lepidoptera/common evening brown.avif",
+        "location": "Nepal",
+        "date": "2025-11"
+      }
+    ],
+    "id": "Common Evening Brown",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Dark-branded Bushbrown",
+    "scientific": "Mycalesis mineus",
+    "group": "Nymphalidae",
+    "desc": "These butterflies have separate forms for the dry and wet seasons. The one shown here is a dry-season form with reduced eyespots and a more uniform coloration.",
+    "images": [
+      {
+        "path": "Lepidoptera/dark-branded bushbrown.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Dark-branded Bushbrown",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Purple Sapphire",
+    "scientific": "Heliophorus epicles",
+    "group": "Lycaenidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/purple sapphire.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      },
+      {
+        "path": "Lepidoptera/purple sapphire (2).avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      },
+      {
+        "path": "Lepidoptera/Purple Sapphire3.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Purple Sapphire",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Tiger Milkweed Butterfly",
+    "scientific": "Danaus species",
+    "group": "Nymphalidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/nepali tiger milkweed butterfly.avif",
+        "location": "Nepal",
+        "date": "2025-10",
+        "width": "69.8%"
+      },
+      {
+        "path": "Lepidoptera/nepali tiger milkweed butterfly (2).avif",
+        "location": "Nepal",
+        "date": "2025-10",
+        "width": "29.4%"
+      }
+    ],
+    "id": "Tiger Milkweed Butterfly",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Imperial Moth Caterpillar",
+    "scientific": "Eacles imperialis",
+    "group": "Saturniidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Imperial Moth.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-09"
+      }
+    ],
+    "id": "Imperial Moth Caterpillar",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Luna Moth",
+    "scientific": "Actias luna",
+    "group": "Saturniidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Luna Moth.avif",
+        "location": "Southwest Virginia",
+        "date": "2022-06"
+      },
+      {
+        "path": "Lepidoptera/Luna Moth2.JPEG",
+        "location": "Southwest Virginia",
+        "date": "2026-04"
+      }
+    ],
+    "id": "Luna Moth",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Waved Sphinx",
+    "scientific": "Ceratomia undulosa",
+    "group": "Sphingidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Waved Sphinx.avif",
+        "location": "Coastal Virginia",
+        "date": "2025-05"
+      }
+    ],
+    "id": "Waved Sphinx",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Salt Marsh Moth",
+    "scientific": "Estigmene acrea",
+    "group": "Erebidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Salt Marsh Moth.avif",
+        "location": "Coastal Virginia",
+        "date": "2025-05"
+      }
+    ],
+    "id": "Salt Marsh Moth",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Walnut Sphinx",
+    "scientific": "Amorpha juglandis",
+    "group": "Sphingidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Walnut Sphinx Side.avif",
+        "location": "Coastal Virginia",
+        "date": "2025-04",
+        "width": "49%"
+      },
+      {
+        "path": "Lepidoptera/Walnut Sphinx Top.avif",
+        "location": "Coastal Virginia",
+        "date": "2025-04",
+        "width": "49%"
+      }
+    ],
+    "id": "Walnut Sphinx",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Spiny Oak-slug Moth",
+    "scientific": "Euclea delphinii",
+    "group": "Limacodidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Spiny Oak-slug.avif",
+        "location": "Coastal Virginia",
+        "date": "2024-10"
+      }
+    ],
+    "id": "Spiny Oak-slug Moth",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Tulip-tree Silkmoth",
+    "scientific": "Callosamia angulifera",
+    "group": "Saturniidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Tulip-tree Silkmoth.avif",
+        "location": "Coastal Virginia",
+        "date": "2024-09"
+      }
+    ],
+    "id": "Tulip-tree Silkmoth",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Ruby Tiger Moth",
+    "scientific": "Phragmatobia fuliginosa",
+    "group": "Erebidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Ruby Tiger Moth.avif",
+        "location": "Croatia",
+        "date": "2025-06"
+      }
+    ],
+    "id": "Ruby Tiger Moth",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Milkweed Tussock Moth",
+    "scientific": "Euchaetes egle",
+    "group": "Erebidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Milkweed Tussock Moth.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-08"
+      },
+      {
+        "path": "Lepidoptera/Milkweed Tussock Moth2.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-08"
+      }
+    ],
+    "id": "Milkweed Tussock Moth",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Carpenterworm Moth",
+    "scientific": null,
+    "group": "Cossidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Carpenterworm Moth.jpeg",
+        "location": "Croatia",
+        "date": "2025-06"
+      }
+    ],
+    "id": "Carpenterworm Moth",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Blinded Sphinx",
+    "scientific": "Paonias excaecata",
+    "group": "Sphingidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Blinded Sphinx.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-05"
+      }
+    ],
+    "id": "Blinded Sphinx",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Crowned Slug Moth",
+    "scientific": "Isa textula",
+    "group": "Limacodidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Crowned Slug Moth.avif",
+        "location": "Coastal Virginia",
+        "date": "2023-10"
+      }
+    ],
+    "id": "Crowned Slug Moth",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Polyphemus Moth",
+    "scientific": "Antheraea polyphemus",
+    "group": "Saturniidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Polyphemus Moth.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-07",
+        "width": "99.5%"
+      },
+      {
+        "path": "Lepidoptera/Polyphemus Moth Caterpillar.avif",
+        "location": "Coastal Virginia",
+        "date": "2023-10",
+        "width": "62%"
+      },
+      {
+        "path": "Lepidoptera/Polyphemus Moth Head.avif",
+        "location": "Coastal Virginia",
+        "date": "2023-08",
+        "width": "36.9%"
+      }
+    ],
+    "id": "Polyphemus Moth",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Ailanthus Webworm Moth",
+    "scientific": "Atteva aurea",
+    "group": "Attevidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Ailanthus Webworm Moth.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-07"
+      }
+    ],
+    "id": "Ailanthus Webworm Moth",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Cecropia Moth",
+    "scientific": "Hyalophora cecropia",
+    "group": "Saturniidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Cecropia Moth Caterpillar.avif",
+        "location": "Southwest Virginia",
+        "date": "2021-07"
+      },
+      {
+        "path": "Lepidoptera/Cecropia Moth.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-06"
+      }
+    ],
+    "id": "Cecropia Moth",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Eight-spotted Forester Moth",
+    "scientific": "Alypia octomaculata",
+    "group": "Noctuidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Eight-spotted Forester Moth.avif",
+        "location": "Southwest Virginia",
+        "date": "2022-06"
+      }
+    ],
+    "id": "Eight-spotted Forester Moth",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Saddleback Caterpillar",
+    "scientific": "Acharia stimulea",
+    "group": "Limacodidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Saddleback Caterpillar.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-09"
+      }
+    ],
+    "id": "Saddleback Caterpillar",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Snowberry Clearwing",
+    "scientific": "Hemaris diffinis",
+    "group": "Sphingidae",
+    "desc": "a.k.a. hummingbird moth or flying lobster",
+    "images": [
+      {
+        "path": "Lepidoptera/Snowberry Clearwing.avif",
+        "location": "Southwest Virginia",
+        "date": "2022-08",
+        "width": "42.5%"
+      },
+      {
+        "path": "Lepidoptera/Snowberry Clearwing2.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-08",
+        "width": "56.9%"
+      }
+    ],
+    "id": "Snowberry Clearwing",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Witch Hazel Dagger",
+    "scientific": "Acronicta hamamelis",
+    "group": "Noctuidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Witch Hazel Dagger.avif",
+        "location": "Southwest Virginia",
+        "date": "2021-08"
+      }
+    ],
+    "id": "Witch Hazel Dagger",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Banded Tussock Moth",
+    "scientific": "Halysidota tessellaris",
+    "group": "Erebidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Banded Tussock Moth Caterpillar.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-09",
+        "width": "62.8%"
+      },
+      {
+        "path": "Lepidoptera/Banded Tussock Moth Caterpillar2.avif",
+        "location": "Coastal Virginia",
+        "date": "2023-11",
+        "width": "35.2%"
+      }
+    ],
+    "id": "Banded Tussock Moth",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Ilia Underwing",
+    "scientific": "Catocala ilia",
+    "group": "Erebidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Ilia Underwing Caterpillar.avif",
+        "location": "Southwest Virginia",
+        "date": "2022-08"
+      }
+    ],
+    "id": "Ilia Underwing",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Definite Tussock Moth",
+    "scientific": "Orgyia definita",
+    "group": "Erebidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Definite Tussock Moth.avif",
+        "location": "Southwest Virginia",
+        "date": "2022-08"
+      }
+    ],
+    "id": "Definite Tussock Moth",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Harnessed Tiger Moth",
+    "scientific": "Apantesis phalerata",
+    "group": "Erebidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Harnessed Tiger Moth.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-05"
+      }
+    ],
+    "id": "Harnessed Tiger Moth",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Chickweed Geometer Moth",
+    "scientific": "Haematopis grataria",
+    "group": "Geometridae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Chickweed Geometer Moth.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-08"
+      }
+    ],
+    "id": "Chickweed Geometer Moth",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Rustic Sphinx",
+    "scientific": "Manduca rustica",
+    "group": "Sphingidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Rustic Sphinx Caterpillar.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-09"
+      }
+    ],
+    "id": "Rustic Sphinx",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "White-marked Tussock Moth",
+    "scientific": "Orgyia leucostigma",
+    "group": "Erebidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/White-marked Tussock Moth.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-09"
+      }
+    ],
+    "id": "White-marked Tussock Moth",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Red-washed Prominent",
+    "scientific": "Oedemasia semirufescens",
+    "group": "Notodontidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Red-washed Prominent.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-10"
+      }
+    ],
+    "id": "Red-washed Prominent",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Skiff Moth",
+    "scientific": "Prolimacodes badia",
+    "group": "Limacodidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Skiff Moth Catterpillar.avif",
+        "location": "Coastal Virginia",
+        "date": "2023-10"
+      }
+    ],
+    "id": "Skiff Moth",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Buck Moth",
+    "scientific": "Hemileuca maia",
+    "group": "Saturniidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Buck Moth Caterpillar1.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-06",
+        "width": "56.5%"
+      },
+      {
+        "path": "Lepidoptera/Buck Moth Caterpillar2.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-07",
+        "width": "42.5%"
+      }
+    ],
+    "id": "Buck Moth",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Orange-humbed Mapleworm Moth",
+    "scientific": "Symmerista species",
+    "group": "Notodontidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Orange-humped Mapleworm Moth.avif",
+        "location": "Coastal Virginia",
+        "date": "2023-10"
+      }
+    ],
+    "id": "Orange-humbed Mapleworm Moth",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Small-eyed Sphinx",
+    "scientific": "Paonias myops",
+    "group": "Sphingidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Small-eyed Sphinx.avif",
+        "location": "Southwest Virginia",
+        "date": "2019-05"
+      }
+    ],
+    "id": "Small-eyed Sphinx",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Unidentified",
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Unidentified2.avif",
+        "location": "Coastal Virginia",
+        "date": "2024-04"
+      }
+    ],
+    "id": "Unidentified CVA",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Handmaiden Moth",
+    "scientific": "Syntomoides imaon",
+    "group": "Erebidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/handmaiden moth.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Handmaiden Moth",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Geometer Moth",
+    "scientific": null,
+    "group": "Geometridae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/nepali geometer moth.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Geometer Moth",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Grass Moth",
+    "scientific": null,
+    "group": "Crambidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/nepali grass moth.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Grass Moth",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Clouded Tiger Moth",
+    "scientific": "Creatonotos transiens",
+    "group": "Erebidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/clouded tiger moth.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Clouded Tiger Moth",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Arctornis species",
+    "scientific": "Arctornis species",
+    "group": "Erebidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Arctornis species.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Arctornis species",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Footman Moth",
+    "scientific": "Ammatho cuneonotatus",
+    "group": "Erebidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/footman moth.avif",
+        "location": "Nepal",
+        "date": "2025-10",
+        "width": "62.8%"
+      },
+      {
+        "path": "Lepidoptera/footman moth (2).avif",
+        "location": "Nepal",
+        "date": "2025-10",
+        "width": "35.2%"
+      }
+    ],
+    "id": "Ammatho cuneonotatus",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Footman Moth",
+    "scientific": "Barsine defecta",
+    "group": "Erebidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Barsine defecta.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Barsine defecta",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Dark Judy",
+    "scientific": "Spitosa fylla",
+    "group": "Riodinidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Dark Judy.avif",
+        "location": "Nepal",
+        "date": "2025-10",
+        "width": "42.5%"
+      },
+      {
+        "path": "Lepidoptera/Dark Judy2.avif",
+        "location": "Nepal",
+        "date": "2025-10",
+        "width": "56.5%"
+      }
+    ],
+    "id": "Dark Judy",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Mourning Cloak",
+    "scientific": "Nymphalis antiopa",
+    "group": "Nymphalidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Mourning Cloak.avif",
+        "location": "Southwest Virginia",
+        "date": "2022-05"
+      }
+    ],
+    "id": "Mourning Cloak",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Sphinx Moth Caterpillar",
+    "scientific": null,
+    "group": "Sphingidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Sphinx Moth Caterpillar Nepal.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Sphinx Moth Caterpillar",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Common Sailer",
+    "scientific": "Neptis hylas",
+    "group": "Nymphalidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Common Sailer.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Common Sailer",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Painted Jezebel",
+    "scientific": "Delias hyparete",
+    "group": "Pieridae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Painted Jezebel.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Painted Jezebel",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Plains Cupid",
+    "scientific": "Luthrodes pandava",
+    "group": "Lycaenidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Plains Cupid.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Plains Cupid",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Common Pierrot",
+    "scientific": "Castalius rosimon",
+    "group": "Lycaenidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Common Pierrot.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Common Pierrot",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Large Tolype Moth",
+    "scientific": "Tolype velleda",
+    "group": "Lasiocampidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Large Tolype Moth.avif",
+        "location": "Coastal Virginia",
+        "date": "2023-10"
+      }
+    ],
+    "id": "Large Tolype Moth",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Banded Hairstreak",
+    "scientific": "Satyrium calanus",
+    "group": "Lycaenidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Banded Hairstreak.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-07"
+      }
+    ],
+    "id": "Banded Hairstreak",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Black-and-yellow Lichen Moth",
+    "scientific": "Lycomorpha pholus",
+    "group": "Erebidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Black-and-yellow Lichen Moth.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-08"
+      }
+    ],
+    "id": "Black-and-yellow Lichen Moth",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Silvery Checkerspot",
+    "scientific": "Chlosyne nycteis",
+    "group": "Nymphalidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Silvery Checkerspot.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-05"
+      }
+    ],
+    "id": "Silvery Checkerspot",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Carpenter Miller",
+    "scientific": null,
+    "group": "Cossidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Carpenter Miller.avif",
+        "location": "Coastal Virginia",
+        "date": "2025-04"
+      }
+    ],
+    "id": "Carpenter Miller",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Spongy Moth",
+    "scientific": "Lymantria dispar",
+    "group": "Erebidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Spongy Moth Caterpillar.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-05"
+      }
+    ],
+    "id": "Spongy Moth",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Black Swallowtail",
+    "scientific": "Papilio polyxenes",
+    "group": "Papilionidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Black Swallowtail Caterpillar.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-07"
+      }
+    ],
+    "id": "Black Swallowtail",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Morning-glory Prominent",
+    "scientific": "Schizura ipomoeae",
+    "group": "Notodontidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Morning-glory Prominent.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-07"
+      }
+    ],
+    "id": "Morning-glory Prominent",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "White-dotted Prominent",
+    "scientific": "Nadata gibbosa",
+    "group": "Notodontidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/White-dotted Prominent Caterpillar.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-07"
+      }
+    ],
+    "id": "White-dotted Prominent",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Yellow-striped Armyworm Moth",
+    "scientific": "Spodoptera ornithogalli",
+    "group": "Noctuidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Yellow-striped Armyworm Moth Caterpillar.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-08"
+      }
+    ],
+    "id": "Yellow-striped Armyworm Moth",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Explicit Arches",
+    "scientific": "Lacinipolia explicata",
+    "group": "Noctuidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Explicit Arches.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-04",
+        "width": "49%"
+      },
+      {
+        "path": "Lepidoptera/Explicit Arches2.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-04",
+        "width": "49%"
+      }
+    ],
+    "id": "Explicit Arches",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Dark-spotted Palthis Moth",
+    "scientific": "Palthis angulalis",
+    "group": "Erebidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Dark-spotted Palthis Moth.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-04"
+      }
+    ],
+    "id": "Dark-spotted Palthis Moth",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Peachtree Borer",
+    "scientific": "Synanthedon exitiosa",
+    "group": "Sesiidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Peachtree Borer.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-05"
+      }
+    ],
+    "id": "Peachtree Borer",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Grape Leaffolder Moth",
+    "scientific": "Desmia funeralis",
+    "group": "Crambidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Grape Leaffolder Moth.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-04"
+      }
+    ],
+    "id": "Grape Leaffolder Moth",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": "Sphinx Moth Pupa",
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Sphinx Moth Pupa.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-04"
+      }
+    ],
+    "id": "Sphinx Moth Pupa",
+    "order": "Lepidoptera"
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/",
+        "location": "Southwest Virginia",
+        "date": "Oct. 2025"
+      }
+    ]
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/",
+        "location": "Southwest Virginia",
+        "date": "Oct. 2025"
+      }
+    ]
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/",
+        "location": "Southwest Virginia",
+        "date": "Oct. 2025"
+      }
+    ]
+  }
+]

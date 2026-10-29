@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Orange Cahill",
+    "scientific": "Stenacron interpunctatum",
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Ephemeroptera/Mayfly.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-05"
+      }
+    ],
+    "id": "Orange Cahill",
+    "order": "Ephemeroptera"
+  },
+  {
+    "name": "Emergent Mayfly",
+    "scientific": "Hexagenia bilineata",
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Ephemeroptera/emergent_mayfly.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-06"
+      }
+    ],
+    "id": "Emergent Mayfly",
+    "order": "Ephemeroptera"
+  }
+]

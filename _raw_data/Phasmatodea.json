@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Unidentified Stick Insect",
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Phasmatodea/Juvenile Stick Insect.avif",
+        "location": "Central Kentucky",
+        "date": "2024-07"
+      }
+    ],
+    "id": "Unidentified Stick Insect",
+    "order": "Phasmatodea"
+  }
+]

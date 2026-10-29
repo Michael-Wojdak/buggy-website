@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Unidentified Webspinner",
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "webspinner.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Unidentified Webspinner",
+    "order": "Embioptera"
+  }
+]

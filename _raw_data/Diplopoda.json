@@ -1,0 +1,115 @@
+[
+  {
+    "name": "Black-and-gold Flat Millipede",
+    "scientific": "Apheloria verginiensis",
+    "group": "Xystodesmidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Diplopoda/Apheloria verginiensis.avif",
+        "location": "Southwest Virginia",
+        "date": "2021-07"
+      },
+      {
+        "path": "Diplopoda/Apheloria verginiensis (2).avif",
+        "location": "Southwest Virginia",
+        "date": "2024-05"
+      }
+    ],
+    "id": "Black-and-gold Flat Millipede",
+    "order": "Diplopoda"
+  },
+  {
+    "name": "Rusty Millipede",
+    "scientific": "Trigoniulus corallinus",
+    "group": "Trigoniulidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Diplopoda/Rusty Millipede.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Rusty Millipede",
+    "order": "Diplopoda"
+  },
+  {
+    "name": "American Giant Millipede",
+    "scientific": "Narceus americanus",
+    "group": "Spirobolidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Diplopoda/American Giant Millipede.avif",
+        "location": "Coastal Virginia",
+        "date": "2023-04"
+      },
+      {
+        "path": "Diplopoda/American Giant Millipede 2.avif",
+        "location": "Coastal Virginia",
+        "date": "2023-04"
+      }
+    ],
+    "id": "American Giant Millipede",
+    "order": "Diplopoda"
+  },
+  {
+    "name": "Cherry Millipede",
+    "scientific": null,
+    "group": "Xystodesmidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Diplopoda/Pale Cherry Millipede.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-05"
+      }
+    ],
+    "id": "Cherry Millipede",
+    "order": "Diplopoda"
+  },
+  {
+    "name": "Greenhouse Millipede",
+    "scientific": "Oxidus gracilis",
+    "group": "Polydesmida",
+    "desc": null,
+    "images": [
+      {
+        "path": "Diplopoda/Greenhouse Millipede.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-04"
+      }
+    ],
+    "id": "Greenhouse Millipede",
+    "order": "Diplopoda"
+  },
+  {
+    "name": "Yellow-and-black Flat Millipede",
+    "scientific": "Apheloria tigana",
+    "group": "Xystodesmidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Diplopoda/Yellow-and-black Flat Millipede.avif",
+        "location": "Great Smoky Mountains, Tennessee",
+        "date": "2026-05"
+      }
+    ],
+    "id": "Yellow-and-black Flat Millipede",
+    "order": "Diplopoda"
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Diplopoda/",
+        "location": null,
+        "date": null
+      }
+    ]
+  }
+]

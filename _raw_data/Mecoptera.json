@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Scorpionfly",
+    "scientific": "Panorpa species",
+    "group": "Panorpidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Mecoptera/Scorpionfly2.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-08"
+      },
+      {
+        "path": "Mecoptera/Scorpionfly.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-07"
+      },
+      {
+        "path": "Mecoptera/Scorpionfly3.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-05",
+        "width": "49%"
+      },
+      {
+        "path": "Mecoptera/Scorpionfly4.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-05",
+        "width": "49%"
+      }
+    ],
+    "id": "Scorpionfly",
+    "order": "Mecoptera"
+  }
+]

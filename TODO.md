@@ -9,7 +9,8 @@ random bug
 
 filters for categories/tags
 sub categories for sub groups
-sort results by date/alphabet/order
+~~sort results by date/alphabet/order~~
+when sorting by group add headers/section dividers for the group
 
 filter only by name/scientific/groups (not disc)
 

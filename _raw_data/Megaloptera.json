@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Spring Fishfly",
+    "scientific": "Chauliodes rastricornis",
+    "group": "Corydalidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Megaloptera/Spring Fishfly.avif",
+        "location": "Coastal Virginia",
+        "date": "2025-04"
+      }
+    ],
+    "id": "Spring Fishfly",
+    "order": "Megaloptera"
+  },
+  {
+    "name": "Serrate Dark Fishfly",
+    "scientific": "Nigronia serricornis",
+    "group": "Corydalidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Megaloptera/Serrate Dark Fishfly.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-05"
+      }
+    ],
+    "id": "Serrate Dark Fishfly",
+    "order": "Megaloptera"
+  }
+]

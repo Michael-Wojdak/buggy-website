@@ -1,0 +1,668 @@
+[
+  {
+    "name": "Carpenter Ants",
+    "scientific": "Camponotus species",
+    "group": "Formicidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hymenoptera/Carpenter Ant.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-09"
+      },
+      {
+        "path": "Hymenoptera/carpenter ants nepal.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      },
+      {
+        "path": "Hymenoptera/Black Carpenter Ants.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-06"
+      }
+    ],
+    "id": "Carpenter Ants",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": "Dogwood Sawfly",
+    "scientific": "Macremphytus species",
+    "group": "Tenthredinidae",
+    "desc": "Larvae resemble the caterpillar of a butterfly or moth.",
+    "images": [
+      {
+        "path": "Hymenoptera/Dogwood Sawfly Larvae.avif",
+        "location": "Southwest Virginia",
+        "date": "2022-08"
+      }
+    ],
+    "id": "Dogwood Sawfly",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": "Woolcarder Bee",
+    "scientific": "Anthidium manicatum",
+    "group": "Megachilidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hymenoptera/Woolcarder Bee.avif",
+        "location": "Southwest Virginia",
+        "date": "2022-08"
+      }
+    ],
+    "id": "Woolcarder Bee",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": "Pure Green Sweat Bee",
+    "scientific": "Augochlora pura",
+    "group": "Halictidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hymenoptera/Augochlora pura.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-06"
+      }
+    ],
+    "id": "Pure Green Sweat Bee",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": "Metalic Green Sweat Bee",
+    "scientific": "Agapostemon texanus",
+    "group": "Halictidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hymenoptera/metalic green sweat bee.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-07"
+      }
+    ],
+    "id": "Metalic Green Sweat Bee",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": "Unidentified Bumble Bees",
+    "scientific": "Bombus species",
+    "group": "Apidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hymenoptera/bumble bee hibiscus.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-08"
+      },
+      {
+        "path": "Hymenoptera/nepali bumble bee.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      },
+      {
+        "path": "Hymenoptera/Bumble Bee Mint.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-06"
+      }
+    ],
+    "id": "Unidentified Bumble Bees",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": "Rusty Spider Wasp",
+    "scientific": "Tachypompilus ferrugineus",
+    "group": "Pompilidae",
+    "desc": "This wasp captured a large wolf spider and carried it at least 50ft up the side of a tree.",
+    "images": [
+      {
+        "path": "Hymenoptera/rusty_spider_wasp.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-06"
+      }
+    ],
+    "id": "Rusty Spider Wasp",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": "Hairy Scoliid Wasp",
+    "scientific": "Scolia hirta",
+    "group": "Scoliidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hymenoptera/Hairy Scoliid Wasp.avif",
+        "location": "Switzerland",
+        "date": "2025-06"
+      }
+    ],
+    "id": "Hairy Scoliid Wasp",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": "Unidentified Ichneumon Wasps",
+    "scientific": null,
+    "group": "Ichneumonidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hymenoptera/Ichneumonid1.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-06"
+      },
+      {
+        "path": "Hymenoptera/Ichneumonid2.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-10"
+      },
+      {
+        "path": "Hymenoptera/Ichneumon wasp nepal.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      },
+      {
+        "path": "Hymenoptera/nepali ichneumonid wasp2.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Unidentified Ichneumon Wasps",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": "Black Giant Ichneumonid Wasp",
+    "scientific": "Megarhyssa atrata",
+    "group": "Ichneumonidae",
+    "desc": "These wasps parasitize woodwasp larve (specifically those of *Tremex columba*) by using their long ovipositor to burrow deep within decaying wood.",
+    "images": [
+      {
+        "path": "Hymenoptera/Black Giant Ichneumonid Wasp.avif",
+        "location": "Coastal Virginia",
+        "date": "2024-10"
+      }
+    ],
+    "id": "Black Giant Ichneumonid Wasp",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": "Yellow Ichneumon Wasp",
+    "scientific": "Xanthopimpla punctata",
+    "group": "Ichneumonidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hymenoptera/yellow ichneumon wasp.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Yellow Ichneumon Wasp",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": "Crown Wasp",
+    "scientific": null,
+    "group": "Stephanidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hymenoptera/crown wasp.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Crown Wasp",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": "Blue-winged Scoliid Wasp",
+    "scientific": "Scolia dubia",
+    "group": "Scoliidae",
+    "desc": "The adults feed on flowers and dig in the ground in search of June beetle larvae to lay their eggs on.",
+    "images": [
+      {
+        "path": "Hymenoptera/Scolia dubia.avif",
+        "location": "Southwest Virginia",
+        "date": "2022-08"
+      },
+      {
+        "path": "Hymenoptera/Scolia dubia (2).avif",
+        "location": "Southwest Virginia",
+        "date": "2025-09"
+      }
+    ],
+    "id": "Blue-winged Scoliid Wasp",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": "Great Golden Digger Wasp",
+    "scientific": "Sphex ichneumoneus",
+    "group": "Sphecidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hymenoptera/great golden digger.avif",
+        "location": "Southwest Virginia",
+        "date": "2022-08"
+      }
+    ],
+    "id": "Great Golden Digger Wasp",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": "Banded Hornet",
+    "scientific": "Vespa tropica/Vespa affinis",
+    "group": "Vespidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hymenoptera/banded hornet.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Banded Hornet",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": "Scoliid Wasp",
+    "scientific": null,
+    "group": "Scoliidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hymenoptera/scoliid wasp nepal.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Scoliid Wasp",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": "Paper Wasp",
+    "scientific": "Polistes species",
+    "group": "Vespidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hymenoptera/paper wasp nepal.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Paper Wasp",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": "Velvet Ant",
+    "scientific": "Dasymutilla species",
+    "group": "Mutillidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hymenoptera/Velvet Ant.avif",
+        "location": "Coastal Virginia",
+        "date": "2025-04"
+      },
+      {
+        "path": "Hymenoptera/Velvet Ant2.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-04"
+      }
+    ],
+    "id": "Velvet Ant",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": "Sacken's Velvet Ant",
+    "scientific": "Dasymutilla sackenii",
+    "group": "Mutillidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hymenoptera/Sacken's Velvet Ant.avif",
+        "location": "Southwest US",
+        "date": "2023-05"
+      }
+    ],
+    "id": "Sacken's Velvet Ant",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": "Blue Mud-dauber Wasp",
+    "scientific": "Chalybion californicum",
+    "group": "Sphecidae",
+    "desc": "These wasps hunt and capture spiders as food for their larvae.",
+    "images": [
+      {
+        "path": "Hymenoptera/Blue Mud-dauber.avif",
+        "location": "Southwest Virginia",
+        "date": "2022-06",
+        "width": "49%"
+      },
+      {
+        "path": "Hymenoptera/Blue Mud-dauber2.avif",
+        "location": "Southwest Virginia",
+        "date": "2022-06",
+        "width": "49%"
+      }
+    ],
+    "id": "Blue Mud-dauber Wasp",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": "Bald-faced Hornet",
+    "scientific": "Dolichovespula maculata",
+    "group": "Vespidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hymenoptera/Bald-faced Hornet.avif",
+        "location": "Coastal Virginia",
+        "date": "2022-10",
+        "width": "49%"
+      },
+      {
+        "path": "Hymenoptera/Bald-faced Hornet2.avif",
+        "location": "Coastal Virginia",
+        "date": "2023-10",
+        "width": "49%"
+      }
+    ],
+    "id": "Bald-faced Hornet",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": "Unequal Cellophane Bee",
+    "scientific": "Colletes inaequalis",
+    "group": "Colletidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hymenoptera/Unequal Cellophane Bee.avif",
+        "location": "Coastal Virginia",
+        "date": "2023-03",
+        "width": "47.9%"
+      },
+      {
+        "path": "Hymenoptera/Unequal Cellophane Bee2.avif",
+        "location": "Coastal Virginia",
+        "date": "2023-03",
+        "width": "50.1%"
+      }
+    ],
+    "id": "Unequal Cellophane Bee",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": "Arotes amoenus",
+    "scientific": "Arotes amoenus",
+    "group": "Ichneumonidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hymenoptera/Arotes amoenus.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-05"
+      }
+    ],
+    "id": "Arotes amoenus",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": "Long-tailed Giant Ichneumon Wasp",
+    "scientific": "Megarhyssa macrurus",
+    "group": "Ichneumonidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hymenoptera/Long-tailed Giant Ichneumon Wasp.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-05"
+      }
+    ],
+    "id": "Long-tailed Giant Ichneumon Wasp",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": "Feather-legged Scoliid Wasp",
+    "scientific": "Dielis plumipes",
+    "group": "Scoliidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hymenoptera/Feather-legged Scoliid Wasp.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-06"
+      }
+    ],
+    "id": "Feather-legged Scoliid Wasp",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": "Western Honey Bee",
+    "scientific": "Apis mellifera",
+    "group": "Apidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hymenoptera/Western Honey Bee.avif",
+        "location": "Coastal Virginia",
+        "date": "2024-03",
+        "width": "49%"
+      },
+      {
+        "path": "Hymenoptera/Western Honey Bee2.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-08",
+        "width": "49%"
+      }
+    ],
+    "id": "Western Honey Bee",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": "Cellophane Bee",
+    "scientific": "Colletes species",
+    "group": "Colletidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hymenoptera/Cellophane Bee.avif",
+        "location": "Coastal Virginia",
+        "date": "2024-04"
+      }
+    ],
+    "id": "Cellophane Bee",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": "Unidentified Wasp",
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Hymenoptera/unidentified.avif",
+        "location": "Coastal Virginia",
+        "date": "2024-04"
+      }
+    ],
+    "id": "Unidentified Wasp",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": "European Hornet",
+    "scientific": "Vespa crabro",
+    "group": "Vespidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hymenoptera/European Hornet.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-10"
+      }
+    ],
+    "id": "European Hornet",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": "Eastern Carpenter Bee",
+    "scientific": "Xylocopa virginica",
+    "group": "Apidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hymenoptera/Eastern Carpenter Bee.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-10"
+      },
+      {
+        "path": "Hymenoptera/Eastern Carpenter Bee2.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-04"
+      }
+    ],
+    "id": "Eastern Carpenter Bee",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": "Common Eastern Bumble Bee",
+    "scientific": "Bombus impatiens",
+    "group": "Apidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hymenoptera/Common Eastern Bumble Bee.avif",
+        "location": "Southwest Virginia",
+        "date": "2021-07"
+      }
+    ],
+    "id": "Common Eastern Bumble Bee",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": "Red Paper Wasp",
+    "scientific": "Polistes carolina",
+    "group": "Vespidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hymenoptera/Red Paper Wasp.avif",
+        "location": "Central Kentucky",
+        "date": "2024-07"
+      }
+    ],
+    "id": "Red Paper Wasp",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": "Introduced Pine Sawfly",
+    "scientific": "Diprion similis",
+    "group": "Diprionidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hymenoptera/Introduced Pine Sawfly Larva.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-07"
+      }
+    ],
+    "id": "Introduced Pine Sawfly",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": "Leafcutter Bee",
+    "scientific": "Megachile species",
+    "group": "Megachilidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hymenoptera/Leafcutter Bee.avif",
+        "location": "Southwest Virginia",
+        "date": "2022-06",
+        "width": "35.2%"
+      },
+      {
+        "path": "Hymenoptera/Leafcutter Bee2.avif",
+        "location": "Southwest Virginia",
+        "date": "2022-06",
+        "width": "62.8%"
+      }
+    ],
+    "id": "Leafcutter Bee",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": "Mining Bee",
+    "scientific": "Andrena species",
+    "group": "Andrenidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hymenoptera/Mining Bee.avif",
+        "location": "Coastal Virginia",
+        "date": "2023-03"
+      }
+    ],
+    "id": "Mining Bee",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": "Short-tailed Ichneumonid Wasp",
+    "scientific": "Ophion species",
+    "group": "Ichneumonidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hymenoptera/Short-tailed Ichneumonid Wasp.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-03"
+      }
+    ],
+    "id": "Short-tailed Ichneumonid Wasp",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": "Ants Tending Aphids",
+    "scientific": null,
+    "group": "Formicidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hymenoptera/Red Ants Tend Aphids.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-05"
+      }
+    ],
+    "id": "Ants Tending Aphids",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Hymenoptera/",
+        "location": "Southwest Virginia",
+        "date": "Oct. 2025"
+      }
+    ]
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Hymenoptera/",
+        "location": "Southwest Virginia",
+        "date": "Oct. 2025"
+      }
+    ]
+  }
+]

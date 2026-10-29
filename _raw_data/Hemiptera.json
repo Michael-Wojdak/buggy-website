@@ -1,0 +1,810 @@
+[
+  {
+    "name": "Broad-headed Sharpshooter",
+    "scientific": "Oncometopia orbon",
+    "group": "Cicadellidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hemiptera/Broad-headed Sharpshooter.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-08"
+      }
+    ],
+    "id": "Broad-headed Sharpshooter",
+    "order": "Hemiptera"
+  },
+  {
+    "name": "Dalpada oculata",
+    "scientific": "Dalpada oculata",
+    "group": "Pentatomidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hemiptera/Dalpada oculata.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Dalpada oculata",
+    "order": "Hemiptera"
+  },
+  {
+    "name": "White Rice Leafhopper",
+    "scientific": "Cofana spectra",
+    "group": "Cicadellidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hemiptera/White Rice Leafhopper.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "White Rice Leafhopper",
+    "order": "Hemiptera"
+  },
+  {
+    "name": "Large Milkweed Bug",
+    "scientific": "Oncopeltus fasciatus",
+    "group": "Lygaeidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hemiptera/Large Milkweed Bug.avif",
+        "location": "Southwest Virginia",
+        "date": "2022-07"
+      }
+    ],
+    "id": "Large Milkweed Bug",
+    "order": "Hemiptera"
+  },
+  {
+    "name": "Giant Leaf-footed Bug",
+    "scientific": "Acanthocephala declivis",
+    "group": "Coreidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hemiptera/Giant Leaf-footed Bug.avif",
+        "location": "Southwest Virginia",
+        "date": "2022-08"
+      }
+    ],
+    "id": "Giant Leaf-footed Bug",
+    "order": "Hemiptera"
+  },
+  {
+    "name": "Common Froghopper",
+    "scientific": "Cercopis vulnerata",
+    "group": "Cercopidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hemiptera/common_froghopper.avif",
+        "location": "Switzerland",
+        "date": "2025-06"
+      }
+    ],
+    "id": "Common Froghopper",
+    "order": "Hemiptera"
+  },
+  {
+    "name": "Telamona concava",
+    "scientific": "Telamona concava",
+    "group": "Membracidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hemiptera/Telamona concava.avif",
+        "location": "Coastal Virginia",
+        "date": "2025-05"
+      }
+    ],
+    "id": "Telamona concava",
+    "order": "Hemiptera"
+  },
+  {
+    "name": "Water Strider",
+    "scientific": "Aquarius remigis",
+    "group": "Gerridae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hemiptera/water strider.avif",
+        "location": "Southwest Virginia",
+        "date": "2022-06"
+      }
+    ],
+    "id": "Water Strider",
+    "order": "Hemiptera"
+  },
+  {
+    "name": "Spotted Lanternfly",
+    "scientific": "Lycorma delicatula",
+    "group": "Fulgoridae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hemiptera/spotted lanternfly.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-08",
+        "width": "62.8%"
+      },
+      {
+        "path": "Hemiptera/spotted lanternfly nymph.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-06",
+        "width": "35.2%"
+      }
+    ],
+    "id": "Spotted Lanternfly",
+    "order": "Hemiptera"
+  },
+  {
+    "name": "Atkinsoniella species",
+    "scientific": "Atkinsoniella species",
+    "group": "Cicadellidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hemiptera/Atkinsoniella species.avif",
+        "location": "Nepal",
+        "date": "2025-10",
+        "width": "62.8%"
+      },
+      {
+        "path": "Hemiptera/Atkinsoniella species2.avif",
+        "location": "Nepal",
+        "date": "2025-10",
+        "width": "35.2%"
+      }
+    ],
+    "id": "Atkinsoniella species",
+    "order": "Hemiptera"
+  },
+  {
+    "name": "Bordered Plant Bug",
+    "scientific": "Iphita limbata",
+    "group": "Largidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hemiptera/bordered plant bug.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Bordered Plant Bug",
+    "order": "Hemiptera"
+  },
+  {
+    "name": "Water Scorpion",
+    "scientific": null,
+    "group": "Nepidae",
+    "desc": "Family Nepidae. Aquatic predators, they use their long tail as a breathing tube to obtain oxygen while hunting underwater.",
+    "images": [
+      {
+        "path": "Hemiptera/nepali water scorpion.avif",
+        "location": "Nepal",
+        "date": "2025-10",
+        "width": "90%"
+      },
+      {
+        "path": "Hemiptera/nepali water scorpion (2).avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Water Scorpion",
+    "order": "Hemiptera"
+  },
+  {
+    "name": "Ricaniid Planthopper",
+    "scientific": null,
+    "group": "Ricaniidae",
+    "desc": "Family Ricaniidae",
+    "images": [
+      {
+        "path": "Hemiptera/ricaniid planthopper.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Ricaniid Planthopper",
+    "order": "Hemiptera"
+  },
+  {
+    "name": "Pharaoh Cicada",
+    "scientific": "Magicicada species",
+    "group": "Cicadidae",
+    "desc": "Periodical cicadas that synchronize their emergence every 13 or 17 years resulting in massive swarms. Images here are from brood XIX in 2024.",
+    "images": [
+      {
+        "path": "Hemiptera/Pharaoh Cicada Nymph.avif",
+        "location": "Coastal Virginia",
+        "date": "2024-04",
+        "width": "62.8%"
+      },
+      {
+        "path": "Hemiptera/Pharaoh Cicada Molt.avif",
+        "location": "Coastal Virginia",
+        "date": "2024-05",
+        "width": "35.2%"
+      },
+      {
+        "path": "Hemiptera/Pharaoh Cicada.avif",
+        "location": "Coastal Virginia",
+        "date": "2024-05",
+        "width": "80%"
+      }
+    ],
+    "id": "Pharaoh Cicada",
+    "order": "Hemiptera"
+  },
+  {
+    "name": "Dog Day Cicada",
+    "scientific": "Neotibicen species",
+    "group": "Cicadidae",
+    "desc": "Annual cicadas named due their tendency to appear in late summer.",
+    "images": [
+      {
+        "path": "Hemiptera/dog day cicada.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-07"
+      },
+      {
+        "path": "Hemiptera/dog day cicada2.avif",
+        "location": "Coastal Virginia",
+        "date": "2024-09"
+      }
+    ],
+    "id": "Dog Day Cicada",
+    "order": "Hemiptera"
+  },
+  {
+    "name": "Unidentified Cicada",
+    "scientific": null,
+    "group": "Cicadidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hemiptera/cicada nepal.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Unidentified Cicada",
+    "order": "Hemiptera"
+  },
+  {
+    "name": "Emesaya brevipennis",
+    "scientific": "Emesaya brevipennis",
+    "group": "Reduviidae",
+    "desc": "While this insect closely resembles a stick insect, it is actually a member of the assassin bug family. It possesses raptorial forelegs similar to those found on praying mantids. Reportedly, these insects prey on spiders.",
+    "images": [
+      {
+        "path": "Hemiptera/Emesaya brevipennis.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-08"
+      }
+    ],
+    "id": "Emesaya brevipennis",
+    "order": "Hemiptera"
+  },
+  {
+    "name": "Harlequin Bug",
+    "scientific": "Murgantia histrionica",
+    "group": "Pentatomidae",
+    "desc": "This colorful bug is a common pest of plants in the Brassicaceae family including cabbage, kale, broccoli, mustard, etc. They store chemicals from the plants they feed on to defend themselves from predators. Seen here feeding on a kale plant.",
+    "images": [
+      {
+        "path": "Hemiptera/Harlequin Bug.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-08"
+      }
+    ],
+    "id": "Harlequin Bug",
+    "order": "Hemiptera"
+  },
+  {
+    "name": "Semipunctated Shield Bug",
+    "scientific": "Graphosoma semipunctatum",
+    "group": "Pentatomidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hemiptera/Semipunctated Shield Bug.avif",
+        "location": "Montenegro",
+        "date": "2025-06"
+      }
+    ],
+    "id": "Semipunctated Shield Bug",
+    "order": "Hemiptera"
+  },
+  {
+    "name": "Two-lined Burrowing Bug",
+    "scientific": "Pangaeus bilineatus",
+    "group": "Cydnidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hemiptera/Two-lined Burrowing Bug.avif",
+        "location": "Coastal Virginia",
+        "date": "2025-05"
+      }
+    ],
+    "id": "Two-lined Burrowing Bug",
+    "order": "Hemiptera"
+  },
+  {
+    "name": "North American Wheel Bug",
+    "scientific": "Arilus cristatus",
+    "group": "Reduviidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hemiptera/North American Wheel Bug.avif",
+        "location": "Coastal Virginia",
+        "date": "2024-10"
+      },
+      {
+        "path": "Hemiptera/North American Wheel Bug Nymph.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-06",
+        "width": "49%"
+      },
+      {
+        "path": "Hemiptera/North American Wheel Bug Nymph2.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-06",
+        "width": "49%"
+      }
+    ],
+    "id": "North American Wheel Bug",
+    "order": "Hemiptera"
+  },
+  {
+    "name": "Orange Assassin Bug",
+    "scientific": "Pselliopus barberi",
+    "group": "Reduviidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hemiptera/Orange Assassin Bug.avif",
+        "location": "Coastal Virginia",
+        "date": "2023-05",
+        "width": "49%"
+      },
+      {
+        "path": "Hemiptera/Orange Assassin Bug Nymph.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-08",
+        "width": "49%"
+      },
+      {
+        "path": "Hemiptera/Orange Assassin Bug (2).avif",
+        "location": "Coastal Virginia",
+        "date": "2025-05",
+        "width": "49%"
+      },
+      {
+        "path": "Hemiptera/Orange Assassin Bug (3).avif",
+        "location": "Coastal Virginia",
+        "date": "2024-10",
+        "width": "49%"
+      }
+    ],
+    "id": "Orange Assassin Bug",
+    "order": "Hemiptera"
+  },
+  {
+    "name": "Macrocheraia grandis",
+    "scientific": "Macrocheraia grandis",
+    "group": "Largidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hemiptera/Macrocheraia grandis.avif",
+        "location": "Nepal",
+        "date": "2025-10",
+        "width": "49%"
+      },
+      {
+        "path": "Hemiptera/Macrocheraia grandis2.avif",
+        "location": "Nepal",
+        "date": "2025-10",
+        "width": "49%"
+      }
+    ],
+    "id": "Macrocheraia grandis",
+    "order": "Hemiptera"
+  },
+  {
+    "name": "Andrallus spinidens",
+    "scientific": "Andrallus spinidens",
+    "group": "Pentatomidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hemiptera/Andrallus spinidens.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Andrallus spinidens",
+    "order": "Hemiptera"
+  },
+  {
+    "name": "Dinidorid Bug",
+    "scientific": null,
+    "group": "Dinidoridae",
+    "desc": "Family Dinidoridae",
+    "images": [
+      {
+        "path": "Hemiptera/nepali dinidorid.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Dinidorid Bug",
+    "order": "Hemiptera"
+  },
+  {
+    "name": "Millipede Assassin Bug",
+    "scientific": "Haematorrhophus species",
+    "group": "Reduviidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hemiptera/millipede assassin bug.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      },
+      {
+        "path": "Hemiptera/millipede assassin bug (2).avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Millipede Assassin Bug",
+    "order": "Hemiptera"
+  },
+  {
+    "name": "Pale Green Assassin Bug",
+    "scientific": "Zelus luridus",
+    "group": "Reduviidae",
+    "desc": "They possess glands on their legs that produce a sticky substance aiding in the capture of prey.",
+    "images": [
+      {
+        "path": "Hemiptera/Pale Green Assassin Bug.avif",
+        "location": "Coastal Virginia",
+        "date": "2023-03",
+        "width": "49%"
+      },
+      {
+        "path": "Hemiptera/Pale Green Assassin Bug2.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-10",
+        "width": "49%"
+      },
+      {
+        "path": "Hemiptera/Pale Green Assassin Bug3.avif",
+        "location": "Coastal Virginia",
+        "date": "2024-04",
+        "width": "49%"
+      },
+      {
+        "path": "Hemiptera/Pale Green Assassin Bug Adult.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-06",
+        "width": "49%"
+      }
+    ],
+    "id": "Pale Green Assassin Bug",
+    "order": "Hemiptera"
+  },
+  {
+    "name": "Four-lined Plant Bug",
+    "scientific": "Poecilocapsus lineatus",
+    "group": "Miridae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hemiptera/Four-lined Plant Bug.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-05"
+      }
+    ],
+    "id": "Four-lined Plant Bug",
+    "order": "Hemiptera"
+  },
+  {
+    "name": "Jagged Ambush Bug",
+    "scientific": "Phymata Species",
+    "group": "Reduviidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hemiptera/Jagged Ambush Bug.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-07",
+        "width": "49%"
+      },
+      {
+        "path": "Hemiptera/Jagged Ambush Bug2.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-07",
+        "width": "49%"
+      },
+      {
+        "path": "Hemiptera/Jagged Ambush Bug3.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-08"
+      }
+    ],
+    "id": "Jagged Ambush Bug",
+    "order": "Hemiptera"
+  },
+  {
+    "name": "False Milkweed Bug",
+    "scientific": "Lygaeus turcicus",
+    "group": "Lygaeidae",
+    "desc": "Unlike the large and small milkweed bugs which feed on milkweed, the false milkweed bug feeds on the false sunflower/ox-eye.",
+    "images": [
+      {
+        "path": "Hemiptera/False Milkweed Bug.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-07"
+      },
+      {
+        "path": "Hemiptera/False Milkweed Bug Nymph.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-05"
+      }
+    ],
+    "id": "False Milkweed Bug",
+    "order": "Hemiptera"
+  },
+  {
+    "name": "Anchor Stink Bug",
+    "scientific": "Stiretrus anchorago",
+    "group": "Pentatomidae",
+    "desc": "Generalist predators. Nymphs are a shiny black/purple with orange legs while adults come in a variety of colors from white to orange to red.",
+    "images": [
+      {
+        "path": "Hemiptera/Anchor Stink Bug.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-10"
+      }
+    ],
+    "id": "Anchor Stink Bug",
+    "order": "Hemiptera"
+  },
+  {
+    "name": "Leaf-footed Bug",
+    "scientific": "Acanthocephala terminalis",
+    "group": "Coreidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hemiptera/Leaf-footed Bug.avif",
+        "location": "Coastal Virginia",
+        "date": "2024-05"
+      }
+    ],
+    "id": "Leaf-footed Bug",
+    "order": "Hemiptera"
+  },
+  {
+    "name": "Rhododendron Leafhopper",
+    "scientific": "Graphocephala fennahi",
+    "group": "Cicadellidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hemiptera/Rhododendron Leafhopper.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-05"
+      }
+    ],
+    "id": "Rhododendron Leafhopper",
+    "order": "Hemiptera"
+  },
+  {
+    "name": "Smilia Treehopper",
+    "scientific": "Smilia species",
+    "group": "Membracidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hemiptera/Smilia species.avif",
+        "location": "Coastal Virginia",
+        "date": "2025-04"
+      }
+    ],
+    "id": "Smilia Treehopper",
+    "order": "Hemiptera"
+  },
+  {
+    "name": "Oak Treehopper",
+    "scientific": "Platycotis vittata",
+    "group": "Membracidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hemiptera/Oak Treehopper.avif",
+        "location": "Coastal Virginia",
+        "date": "2024-09",
+        "width": "49%"
+      },
+      {
+        "path": "Hemiptera/Oak Treehopper2.avif",
+        "location": "Coastal Virginia",
+        "date": "2024-11",
+        "width": "49%"
+      },
+      {
+        "path": "Hemiptera/Oak Treehopper Pair.avif",
+        "location": "Coastal Virginia",
+        "date": "2025-05",
+        "width": "99%"
+      }
+    ],
+    "id": "Oak Treehopper",
+    "order": "Hemiptera"
+  },
+  {
+    "name": "Long-necked Seed Bug",
+    "scientific": "Myodocha serripes",
+    "group": "Rhyparochromidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hemiptera/Long-necked Seed Bug.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-08"
+      }
+    ],
+    "id": "Long-necked Seed Bug",
+    "order": "Hemiptera"
+  },
+  {
+    "name": "Scutellera nepalensis",
+    "scientific": "Scutellera nepalensis",
+    "group": "Scutelleridae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hemiptera/Scutellera nepalensis.avif",
+        "location": "Nepal",
+        "date": "2025-10",
+        "width": "49%"
+      },
+      {
+        "path": "Hemiptera/Scutellera nepalensis (3).avif",
+        "location": "Nepal",
+        "date": "2025-10",
+        "width": "49%"
+      },
+      {
+        "path": "Hemiptera/Scutellera nepalensis (2).avif",
+        "location": "Nepal",
+        "date": "2025-10",
+        "width": "99%"
+      }
+    ],
+    "id": "Scutellera nepalensis",
+    "order": "Hemiptera"
+  },
+  {
+    "name": "Two-lined Spittlebug",
+    "scientific": "Prosapia bicincta",
+    "group": "Ischnorhinidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hemiptera/Two-lined Spittlebug.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-07"
+      }
+    ],
+    "id": "Two-lined Spittlebug",
+    "order": "Hemiptera"
+  },
+  {
+    "name": "Giant Water Bug",
+    "scientific": "Lethocerus americanus",
+    "group": "Belostomatidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hemiptera/Giant Water Bug.avif",
+        "location": "Coastal Virginia",
+        "date": "2024-05"
+      }
+    ],
+    "id": "Giant Water Bug",
+    "order": "Hemiptera"
+  },
+  {
+    "name": "Coppery Leafhopper",
+    "scientific": "Jikradia olitoria",
+    "group": "Cicadellidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hemiptera/Coppery Leafhopper.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-08"
+      }
+    ],
+    "id": "Coppery Leafhopper",
+    "order": "Hemiptera"
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Hemiptera/White Rice Leafhopper.avif",
+        "location": "Southwest Virginia",
+        "date": "Oct. 2025"
+      }
+    ]
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Hemiptera/White Rice Leafhopper.avif",
+        "location": "Southwest Virginia",
+        "date": "Oct. 2025"
+      }
+    ]
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Hemiptera/White Rice Leafhopper.avif",
+        "location": "Southwest Virginia",
+        "date": "Oct. 2025"
+      }
+    ]
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Hemiptera/White Rice Leafhopper.avif",
+        "location": "Southwest Virginia",
+        "date": "Oct. 2025"
+      }
+    ]
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Hemiptera/White Rice Leafhopper.avif",
+        "location": "Southwest Virginia",
+        "date": "Oct. 2025"
+      }
+    ]
+  }
+]

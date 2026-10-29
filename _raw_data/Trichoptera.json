@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Zebra Caddisfly",
+    "scientific": "Macrostemum zebratum",
+    "group": "Hydropsychidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Trichoptera/Zebra Caddisfly.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-09"
+      }
+    ],
+    "id": "Zebra Caddisfly",
+    "order": "Trichoptera"
+  }
+]

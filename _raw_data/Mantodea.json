@@ -1,0 +1,204 @@
+[
+  {
+    "name": "Carolina Mantis",
+    "scientific": "Stagmomantis carolina",
+    "group": "Mantidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Mantodea/Carolina Mantis.avif",
+        "location": "Coastal Virginia",
+        "date": "2023-09",
+        "width": "49%"
+      },
+      {
+        "path": "Mantodea/Carolina Mantis2.avif",
+        "location": "Coastal Virginia",
+        "date": "2023-09",
+        "width": "49%"
+      },
+      {
+        "path": "Mantodea/Carolina Mantis Ootheca.avif",
+        "location": "Coastal Virginia",
+        "date": "2024-04"
+      }
+    ],
+    "id": "Carolina Mantis",
+    "order": "Mantodea"
+  },
+  {
+    "name": "Chinese Mantis",
+    "scientific": "Tenodera sinensis",
+    "group": "Mantidae",
+    "desc": "Egg case known as an ootheca.",
+    "images": [
+      {
+        "path": "Mantodea/Chinese Mantis Egg.avif",
+        "location": "Coastal Virginia",
+        "date": "2023-01"
+      }
+    ],
+    "id": "Chinese Mantis",
+    "order": "Mantodea"
+  },
+  {
+    "name": "Nepali Mantises",
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Mantodea/mantis nepal.avif",
+        "location": "Nepal",
+        "date": "2025-10",
+        "width": "62.775%"
+      },
+      {
+        "path": "Mantodea/mantis nepal (2).avif",
+        "location": "Nepal",
+        "date": "2025-10",
+        "width": "35.225%"
+      },
+      {
+        "path": "Mantodea/mantis nepal (3).avif",
+        "location": "Nepal",
+        "date": "2025-10",
+        "width": "29%"
+      },
+      {
+        "path": "Mantodea/mantis nepal (4).avif",
+        "location": "Nepal",
+        "date": "2025-10",
+        "width": "69%"
+      }
+    ],
+    "id": "Nepali Mantises",
+    "order": "Mantodea"
+  },
+  {
+    "name": "Mantis Hatchlings",
+    "scientific": null,
+    "group": "Mantidae",
+    "desc": "Saved a mantis ootheca in a mason jar over the winter. Baby mantids hatched the following May. Pictured is the sole surviving mantis alongside the remains of the rest of the hatchlings which were presumably canibalized by the survivor.",
+    "images": [
+      {
+        "path": "Mantodea/Mantis Hatchling.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-05",
+        "width": "49%"
+      },
+      {
+        "path": "Mantodea/Mantis Hatchling Graveyard.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-05",
+        "width": "49%"
+      }
+    ],
+    "id": "Mantis Hatchlings",
+    "order": "Mantodea"
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": null,
+        "location": "Southwest Virginia",
+        "date": "Oct. 2025"
+      }
+    ]
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": null,
+        "location": "Southwest Virginia",
+        "date": "Oct. 2025"
+      }
+    ]
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": null,
+        "location": "Southwest Virginia",
+        "date": "Oct. 2025"
+      }
+    ]
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": null,
+        "location": "Southwest Virginia",
+        "date": "Oct. 2025"
+      }
+    ]
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": null,
+        "location": "Southwest Virginia",
+        "date": "Oct. 2025"
+      }
+    ]
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": null,
+        "location": "Southwest Virginia",
+        "date": "Oct. 2025"
+      }
+    ]
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": null,
+        "location": "Southwest Virginia",
+        "date": "Oct. 2025"
+      }
+    ]
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": null,
+        "location": "Southwest Virginia",
+        "date": "Oct. 2025"
+      }
+    ]
+  }
+]

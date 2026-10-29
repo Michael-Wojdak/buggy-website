@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Silverfish",
+    "scientific": "Lepisma saccharinum",
+    "group": "Lepismatidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Zygentoma/Silverfish.avif",
+        "location": null,
+        "date": "2025-04"
+      }
+    ],
+    "id": "Silverfish",
+    "order": "Zygentoma"
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Zygentoma/",
+        "location": null,
+        "date": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "European Earwig",
+    "name": "European Earwig",
+    "scientific": "Forficula auricularia",
+    "order": "Dermaptera",
+    "group": "Forficulidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Dermaptera/European Earwig.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-06"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": null,
+    "scientific": null,
+    "order": "Dermaptera",
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Dermaptera/",
+        "location": null,
+        "date": null
+      }
+    ]
+  }
+]

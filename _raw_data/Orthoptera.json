@@ -1,0 +1,353 @@
+[
+  {
+    "name": "Egyptian Grasshopper",
+    "scientific": "Anacridium aegyptium",
+    "group": "Acrididae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Orthoptera/Egyptian Grasshopper.avif",
+        "location": "Croatia",
+        "date": "2025-06"
+      }
+    ],
+    "id": "Egyptian Grasshopper",
+    "order": "Orthoptera"
+  },
+  {
+    "name": "Admirable Grasshopper",
+    "scientific": "Syrbula admirabilis",
+    "group": "Acrididae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Orthoptera/admirable grasshopper.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-09"
+      }
+    ],
+    "id": "Admirable Grasshopper",
+    "order": "Orthoptera"
+  },
+  {
+    "name": "Spotted Locust",
+    "scientific": "Aularches miliaris",
+    "group": "Pyrgomorphidae",
+    "desc": "Also known as the foam grasshopper, it exudes an unpleasant foamy liquid when grabbed.",
+    "images": [
+      {
+        "path": "Orthoptera/spotted locust.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      },
+      {
+        "path": "Orthoptera/spotted locust pair.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Spotted Locust",
+    "order": "Orthoptera"
+  },
+  {
+    "name": "Rufous-legged Grasshopper",
+    "scientific": "Xenocatantops humilis",
+    "group": "Acrididae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Orthoptera/rufous-legged grasshopper (2).avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      },
+      {
+        "path": "Orthoptera/rufous-legged grasshopper.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Rufous-legged Grasshopper",
+    "order": "Orthoptera"
+  },
+  {
+    "name": "Atractomorpha species",
+    "scientific": "Atractomorpha species",
+    "group": "Pyrgomorphidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Orthoptera/Atractomorpha species.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Atractomorpha species",
+    "order": "Orthoptera"
+  },
+  {
+    "name": "Caryanda species",
+    "scientific": "Caryanda species",
+    "group": "Acrididae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Orthoptera/Caryanda species.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Caryanda species",
+    "order": "Orthoptera"
+  },
+  {
+    "name": "Unidentified Grasshopper",
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Orthoptera/nepal grasshopper pair.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Unidentified Grasshopper Pair Nepal",
+    "order": "Orthoptera"
+  },
+  {
+    "name": "Unidentified Grasshopper",
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Orthoptera/grasshopper nepal.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Unidentified Grasshopper Nepal",
+    "order": "Orthoptera"
+  },
+  {
+    "name": "Unidentified Grasshopper",
+    "scientific": null,
+    "group": null,
+    "desc": "Insects that undergo incomplete metamorphosis only get functional wings after the final molt. There are also species of grasshopper that have wingless adults. I'm not sure which case this is.",
+    "images": [
+      {
+        "path": "Orthoptera/grasshopper nepal2.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Unidentified Grasshopper Wingless",
+    "order": "Orthoptera"
+  },
+  {
+    "name": "Unidentified Katydids",
+    "scientific": null,
+    "group": "Tettigoniidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Orthoptera/Katydid Nymph.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-06"
+      },
+      {
+        "path": "Orthoptera/juvenile katydid.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-06"
+      }
+    ],
+    "id": "Unidentified Katydids",
+    "order": "Orthoptera"
+  },
+  {
+    "name": "Conehead Katydid",
+    "scientific": null,
+    "group": "Tettigoniidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Orthoptera/conehead katydid.avif",
+        "location": "Coastal Virginia",
+        "date": "2023-11"
+      }
+    ],
+    "id": "Conehead Katydid",
+    "order": "Orthoptera"
+  },
+  {
+    "name": "Narrow-winged Tree Cricket",
+    "scientific": "Oecanthus niveus",
+    "group": "Oecanthidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Orthoptera/Narrow-winged Tree Cricket.avif",
+        "location": "Coastal Virginia",
+        "date": "2023-10",
+        "width": "49%"
+      },
+      {
+        "path": "Orthoptera/Narrow-winged Tree Cricket2.avif",
+        "location": "Coastal Virginia",
+        "date": "2024-11",
+        "width": "49%"
+      }
+    ],
+    "id": "Narrow-winged Tree Cricket",
+    "order": "Orthoptera"
+  },
+  {
+    "name": "Differential Grasshopper",
+    "scientific": "Melanoplus differentialis",
+    "group": "Acrididae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Orthoptera/Differential Grasshopper.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-08"
+      }
+    ],
+    "id": "Differential Grasshopper",
+    "order": "Orthoptera"
+  },
+  {
+    "name": "Shieldback Katydid",
+    "scientific": null,
+    "group": "Tettigoniidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Orthoptera/Shieldback Katydid.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-06"
+      }
+    ],
+    "id": "Shieldback Katydid",
+    "order": "Orthoptera"
+  },
+  {
+    "name": "Lesser Meadow Katydid",
+    "scientific": "Conocephalus species",
+    "group": "Tettigoniidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Orthoptera/Lesser Meadow Katydid.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-07"
+      }
+    ],
+    "id": "Lesser Meadow Katydid",
+    "order": "Orthoptera"
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Orthoptera/",
+        "location": "Southwest Virginia",
+        "date": "Aug. 2025"
+      }
+    ]
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Orthoptera/",
+        "location": "Southwest Virginia",
+        "date": "Aug. 2025"
+      }
+    ]
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Orthoptera/",
+        "location": "Southwest Virginia",
+        "date": "Aug. 2025"
+      }
+    ]
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Orthoptera/",
+        "location": "Southwest Virginia",
+        "date": "Aug. 2025"
+      }
+    ]
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Orthoptera/",
+        "location": "Southwest Virginia",
+        "date": "Aug. 2025"
+      }
+    ]
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Orthoptera/",
+        "location": "Southwest Virginia",
+        "date": "Aug. 2025"
+      }
+    ]
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Orthoptera/",
+        "location": "Southwest Virginia",
+        "date": "Aug. 2025"
+      }
+    ]
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Orthoptera/",
+        "location": "Southwest Virginia",
+        "date": "Aug. 2025"
+      }
+    ]
+  }
+]

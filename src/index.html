@@ -18,8 +18,28 @@ title: Catalog
 <select id="category">
   <option value="">All</option>
   <option value="Araneae">Spiders (Araneae)</option>
+  <!-- <option value="Blattodea">Cockroaches and Termites (Blattodea)</option> -->
   <option value="Chilopoda">Centipedes (Chilopoda)</option>
   <option value="Coleoptera">Beetles (Coleoptera)</option>
+  <option value="Dermaptera">Earwigs (Dermaptera)</option>
+  <option value="Diplopoda">Millipedes (Diplopoda)</option>
+  <option value="Diptera">Flies (Diptera)</option>
+  <option value="Embioptera">Webspinners (Embioptera)</option>
+  <option value="Ephemeroptera">Mayflies (Ephemeroptera)</option>
+  <option value="Hemiptera">True Bugs (Hemiptera)</option>
+  <option value="Hymenoptera">Bees, Wasps & Ants (Hymenoptera)</option>
+  <option value="Lepidoptera">Butterflies and Moths (Lepidoptera)</option>
+  <option value="Mantodea">Praying Mantids (Mantodea)</option>
+  <option value="Mecoptera">Scorpionflies, Hangingflies & Allies (Mecoptera)</option>
+  <option value="Megaloptera">Alderflies, Dobsonflies & Fishflies (Megaloptera)</option>
+  <option value="Neuroptera">Antlions, Lacewings & Mantidflies (Neuroptera)</option>
+  <option value="Odonata">Dragonflies and Damselflies (Odonata)</option>
+  <option value="Orthoptera">Grasshoppers, Crickets & Katydids (Orthoptera)</option>
+  <option value="Phasmatodea">Stick and Leaf Insects (Phasmatodea)</option>
+  <option value="Plecoptera">Stoneflies (Plecoptera)</option>
+  <option value="Psocodea">Barklice, Booklice & Parasitic Lice (Psocodea)</option>
+  <option value="Trichoptera">Caddisflies (Trichoptera)</option>
+  <option value="Zygentoma">Silverfish and Firebrats (Zygentoma)</option>
 
   {# 
     Adds an option for every order in the data
@@ -36,6 +56,18 @@ title: Catalog
   #}
 </select>
 
+
+<label for="sort">Sort By</label>
+<select id="sort">
+  <option value="">N/A</option>
+  <option value="Date">Date</option>
+  <option value="Alphabetical">Alphabetical</option>
+  <option value="Group">By Group</option>
+</select>
+
+<label for="sort-order">Asc</label>
+<input type="checkbox" id="sort-order" name="Ascending" checked=true>
+
 <p id="count" aria-live="polite"></p>
 
 <div class="grid" id="results">
@@ -47,15 +79,53 @@ title: Catalog
 <script>
   const search = document.querySelector("#search");
   const category = document.querySelector("#category");
+  const sort = document.querySelector("#sort");
+  const sortOrder = document.querySelector("#sort-order");
   const cards = [...document.querySelectorAll(".card")];
   const count = document.querySelector("#count");
+  const container = cards[0]?.parentElement;
+
+  function mostRecentDate(dateString) {
+    // Requires dates in YYYY-MM format separated by ','
+    const dates = dateString.split(',');
+    dates.pop(); // Remove empty string from trailing ','
+    let mostRecent = new Date(1900, 0, 0);
+    for (const date of dates) {
+      const [year, month] = date.split('-');
+      thisDate = new Date(year, month-1, 0);
+      if (thisDate > mostRecent) {
+        mostRecent = thisDate;
+      }
+    }
+    return mostRecent;
+  }
 
   function filterEntries() {
     const query = search.value.trim().toLowerCase();
     const selectedCategory = category.value;
+    const sortingCriteria = sort.value;
+    const sortingOrder = sortOrder.checked;
     let visible = 0;
 
-    for (const card of cards) {
+    const sortedCards = [...cards].sort((a, b) => {
+      switch (sortingCriteria) {
+        case "Date": {
+          const result = mostRecentDate(a.dataset.dates) > mostRecentDate(b.dataset.dates);
+          return result !== sortingOrder;
+          break;
+        }
+        case "Alphabetical": {
+          const result = a.dataset.name.localeCompare(b.dataset.name);
+          return sortingOrder ? result : -result
+          break;
+        }
+        case "Group": {
+          return true !== sortingOrder; // TODO subgroup
+        }
+      }
+    });
+
+    for (const card of sortedCards) {
       const text = [
         card.dataset.name,
         card.dataset.category,
@@ -67,11 +137,11 @@ title: Catalog
       const matchesCategory =
         !selectedCategory ||
         card.dataset.category === selectedCategory;
-      
-      console.log(card.dataset.category);
 
       const show = matchesText && matchesCategory;
       card.hidden = !show;
+
+      container.appendChild(card);
 
       if (show) visible++;
     }
@@ -81,5 +151,7 @@ title: Catalog
 
   search.addEventListener("input", filterEntries);
   category.addEventListener("change", filterEntries);
+  sort.addEventListener("change", filterEntries);
+  sortOrder.addEventListener("change", filterEntries);
   filterEntries();
 </script>

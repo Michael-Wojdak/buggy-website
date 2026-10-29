@@ -1,0 +1,582 @@
+[
+  {
+    "name": "Clubbed Mydas Fly",
+    "scientific": "Mydas clavatus",
+    "group": "Mydidae",
+    "desc": "This fly mimics the appearance and behavior of spider wasps with quick movements. The larvae feed on beetle larvae.",
+    "images": [
+      {
+        "path": "Diptera/Clubbed Mydas Fly.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-07"
+      }
+    ],
+    "id": "Clubbed Mydas Fly",
+    "order": "Diptera"
+  },
+  {
+    "name": "Unidentified Robber Flies",
+    "scientific": null,
+    "group": "Asilidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Diptera/Robber_Fly1.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-07",
+        "width": "49%"
+      },
+      {
+        "path": "Diptera/Robber_Fly6.avif",
+        "location": "Southwest Virginia",
+        "date": "2022-06",
+        "width": "49%"
+      },
+      {
+        "path": "Diptera/Robber_Fly7.avif",
+        "location": "Southwest Virginia",
+        "date": "2022-06"
+      }
+    ],
+    "id": "Unidentified Robber Flies",
+    "order": "Diptera"
+  },
+  {
+    "name": "Plumetop",
+    "scientific": "Ommatius species",
+    "group": "Asilidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Diptera/plumetop.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-07"
+      }
+    ],
+    "id": "Plumetop",
+    "order": "Diptera"
+  },
+  {
+    "name": "Red-footed Cannibal Fly",
+    "scientific": "Promachus rufipes",
+    "group": "Asilidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Diptera/red-footed cannibal fly.avif",
+        "location": "Coastal Virginia",
+        "date": "2024-09",
+        "width": "62.8%"
+      },
+      {
+        "path": "Diptera/red-footed cannibal fly (2).avif",
+        "location": "Coastal Virginia",
+        "date": "2023-09",
+        "width": "35.2%"
+      }
+    ],
+    "id": "Red-footed Cannibal Fly",
+    "order": "Diptera"
+  },
+  {
+    "name": "Plain-tailed Hanging Thief",
+    "scientific": "Diogmites neoternatus",
+    "group": "Asilidae",
+    "desc": "They tend to hang by their front legs while consuming prey.",
+    "images": [
+      {
+        "path": "Diptera/Plain-tailed Hanging Thief.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-07",
+        "width": "62.8%"
+      },
+      {
+        "path": "Diptera/Plain-tailed Hanging Thief (2).avif",
+        "location": "Central Kentucky",
+        "date": "2024-07",
+        "width": "35.2%"
+      }
+    ],
+    "id": "Plain-tailed Hanging Thief",
+    "order": "Diptera"
+  },
+  {
+    "name": "Spectacled Crane Fly",
+    "scientific": "Epiphragma solatrix",
+    "group": "Limoniidae",
+    "desc": "It appears this individual has been infected with a fungus that has presumably emerged to release spores causing the white fuzzy appearence.",
+    "images": [
+      {
+        "path": "Diptera/Spectacled Crane Fly Fungus.avif",
+        "location": "Southwest Virginia",
+        "date": "2022-06"
+      }
+    ],
+    "id": "Spectacled Crane Fly",
+    "order": "Diptera"
+  },
+  {
+    "name": "Unidentified Hover Flies",
+    "scientific": "Family Syrphidae",
+    "group": "Syrphidae",
+    "desc": "A majority of hover flies seem to mimic bees and wasps and are commonly mistaken as such by unknowing observers. However, these insects are harmless and can be seen visiting flowers for nectar.",
+    "images": [
+      {
+        "path": "Diptera/Bumble Bee Mimic.avif",
+        "location": "Coastal Virginia",
+        "date": "2024-04",
+        "width": "49%"
+      },
+      {
+        "path": "Diptera/Hover Fly.avif",
+        "location": "Coastal Virginia",
+        "date": "2024-03",
+        "width": "49%"
+      },
+      {
+        "path": "Diptera/nepali hover fly.avif",
+        "location": "Nepal",
+        "date": "2025-10",
+        "width": "35.2%"
+      },
+      {
+        "path": "Diptera/nepali hover fly (2).avif",
+        "location": "Nepal",
+        "date": "2025-10",
+        "width": "62.8%"
+      }
+    ],
+    "id": "Unidentified Hover Flies",
+    "order": "Diptera"
+  },
+  {
+    "name": "Golden-backed Snipe Fly",
+    "scientific": "Chrysopilus thoracicus",
+    "group": "Rhagionidae",
+    "desc": "Surprisingly little seems to be known about these flies. Other snipe flies are known to be predatory, but this hasn't been proven with the golden-backed snipe fly which is sometimes seen visiting flowers. I have only ever encountered them near wetlands or small creeks.",
+    "images": [
+      {
+        "path": "Diptera/gold backed snipe.avif",
+        "location": "Southwest Virginia",
+        "date": "2022-06",
+        "width": "49%"
+      },
+      {
+        "path": "Diptera/gold backed snipe2.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-05",
+        "width": "49%"
+      }
+    ],
+    "id": "Golden-backed Snipe Fly",
+    "order": "Diptera"
+  },
+  {
+    "name": "Phantom Crane Fly",
+    "scientific": "Bittacomorpha clavipes",
+    "group": "Ptychopteridae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Diptera/phantom crane fly.avif",
+        "location": "Coastal Virginia",
+        "date": "2024-03"
+      }
+    ],
+    "id": "Phantom Crane Fly",
+    "order": "Diptera"
+  },
+  {
+    "name": "Tipula furca",
+    "scientific": "Tipula furca",
+    "group": "Tipulidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Diptera/Tipula furca.avif",
+        "location": "Coastal Virginia",
+        "date": "2023-03"
+      }
+    ],
+    "id": "Tipula furca",
+    "order": "Diptera"
+  },
+  {
+    "name": "Yellow-faced Micropanther",
+    "scientific": "Cerotainia macrocera",
+    "group": "Asilidae",
+    "desc": "This tiny robber fly, only a few mm long, sits on the tips of leaves/twigs waiting for passing prey.",
+    "images": [
+      {
+        "path": "Diptera/yellow-faced micropanther.avif",
+        "location": "Southwest Virginia",
+        "date": "2025-07"
+      }
+    ],
+    "id": "Yellow-faced Micropanther",
+    "order": "Diptera"
+  },
+  {
+    "name": "Laphria species",
+    "scientific": "Laphria species",
+    "group": "Asilidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Diptera/Laphria species.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-07"
+      }
+    ],
+    "id": "Laphria species",
+    "order": "Diptera"
+  },
+  {
+    "name": "Green Horse Fly",
+    "scientific": "Chlorotabanus crepuscularis",
+    "group": "Tabanidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Diptera/green horse fly.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-07"
+      }
+    ],
+    "id": "Green Horse Fly",
+    "order": "Diptera"
+  },
+  {
+    "name": "Fruit fly",
+    "scientific": "Drosophila species",
+    "group": "Drosophilidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Diptera/fruit fly.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-08"
+      }
+    ],
+    "id": "Fruit fly",
+    "order": "Diptera"
+  },
+  {
+    "name": "Midge",
+    "scientific": "Chironomus species",
+    "group": "Chironomidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Diptera/midge.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-03"
+      }
+    ],
+    "id": "Midge",
+    "order": "Diptera"
+  },
+  {
+    "name": "Giant Crane Fly",
+    "scientific": "Tipula abdominalis",
+    "group": "Tipulidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Diptera/giant crane fly.avif",
+        "location": "Coastal Virginia",
+        "date": "2024-09"
+      }
+    ],
+    "id": "Giant Crane Fly",
+    "order": "Diptera"
+  },
+  {
+    "name": "Delphinia picta",
+    "scientific": "Delphinia picta",
+    "group": "Ulidiidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Diptera/Delphinia picta.avif",
+        "location": "Coastal Virginia",
+        "date": "2025-06"
+      }
+    ],
+    "id": "Delphinia picta",
+    "order": "Diptera"
+  },
+  {
+    "name": "March Fly",
+    "scientific": "Dilophus spinipes",
+    "group": "Bibionidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Diptera/Dilophus spinipes.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-05"
+      }
+    ],
+    "id": "March Fly",
+    "order": "Diptera"
+  },
+  {
+    "name": "Hexatoma nepalensis",
+    "scientific": "Hexatoma nepalensis",
+    "group": "Limoniidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Diptera/hexatoma nepalensis.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Hexatoma nepalensis",
+    "order": "Diptera"
+  },
+  {
+    "name": "Unidentified",
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Diptera/unidentified nepali fly.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Unidentified Nepal Fly",
+    "order": "Diptera"
+  },
+  {
+    "name": "Bluebottle Fly",
+    "scientific": "Calliphora species",
+    "group": "Calliphoridae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Diptera/Bluebottle Fly.avif",
+        "location": "Southwest Virginia",
+        "date": "2021-04"
+      }
+    ],
+    "id": "Bluebottle Fly",
+    "order": "Diptera"
+  },
+  {
+    "name": "Tipula species",
+    "scientific": "Tipula species",
+    "group": "Tipulidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Diptera/Tipula Pair.avif",
+        "location": "Southwest Virginia",
+        "date": "2021-04"
+      }
+    ],
+    "id": "Tipula species",
+    "order": "Diptera"
+  },
+  {
+    "name": "Flesh Fly",
+    "scientific": "Sarcophaga species",
+    "group": "Sarcophagidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Diptera/Flesh Fly.avif",
+        "location": "Southwest Virginia",
+        "date": "2022-11"
+      }
+    ],
+    "id": "Flesh Fly",
+    "order": "Diptera"
+  },
+  {
+    "name": "Orange Spur Fly",
+    "scientific": "Teuchocnemis bacuntius",
+    "group": "Syrphidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Diptera/Orange Spur Fly.avif",
+        "location": "Coastal Virginia",
+        "date": "2023-03",
+        "width": "56.1%"
+      },
+      {
+        "path": "Diptera/Orange Spur Fly 2.avif",
+        "location": "Coastal Virginia",
+        "date": "2023-03",
+        "width": "41.9%"
+      }
+    ],
+    "id": "Orange Spur Fly",
+    "order": "Diptera"
+  },
+  {
+    "name": "Black Horse Fly",
+    "scientific": "Tabanus atratus",
+    "group": "Tabanidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Diptera/Black Horse Fly.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-08"
+      }
+    ],
+    "id": "Black Horse Fly",
+    "order": "Diptera"
+  },
+  {
+    "name": "Margined Calligrapher Fly",
+    "scientific": "Toxomerus marginatus",
+    "group": "Syrphidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Diptera/Margined Calligrapher Fly.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-05"
+      }
+    ],
+    "id": "Margined Calligrapher Fly",
+    "order": "Diptera"
+  },
+  {
+    "name": "Gymnosoma species",
+    "scientific": "Gymnosoma species",
+    "group": "Tachinidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Diptera/Gymnosoma species.avif",
+        "location": "Southwest Virginia",
+        "date": "2024-07"
+      }
+    ],
+    "id": "Gymnosoma species",
+    "order": "Diptera"
+  },
+  {
+    "name": "Unidentified Hover Fly",
+    "scientific": null,
+    "group": "Syrphidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Diptera/Hover Fly on Dogwood.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-04"
+      }
+    ],
+    "id": "Unidentified Hover Fly",
+    "order": "Diptera"
+  },
+  {
+    "name": "Tachinid Fly",
+    "scientific": null,
+    "group": "Tachinidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Diptera/Tachinid Fly.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-04"
+      }
+    ],
+    "id": "Tachinid Fly",
+    "order": "Diptera"
+  },
+  {
+    "name": "Signal Fly",
+    "scientific": "Rivellia species",
+    "group": "Platystomatidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Diptera/Signal Fly.avif",
+        "location": "Great Smoky Mountains, Tennessee",
+        "date": "2026-05"
+      }
+    ],
+    "id": "Signal Fly",
+    "order": "Diptera"
+  },
+  {
+    "name": "Tree Snipefly",
+    "scientific": "Chrysopilus species",
+    "group": "Rhagionidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Diptera/Tree Snipefly.avif",
+        "location": "Great Smoky Mountains, Tennessee",
+        "date": "2026-05"
+      }
+    ],
+    "id": "Tree Snipefly",
+    "order": "Diptera"
+  },
+  {
+    "name": "Wood Soldier Fly",
+    "scientific": "Xylomya species",
+    "group": "Xylomyidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Diptera/Wood Soldier Fly.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-05"
+      }
+    ],
+    "id": "Wood Soldier Fly",
+    "order": "Diptera"
+  },
+  {
+    "name": "Eastern Calligrapher",
+    "scientific": "Toxomerus geminatus",
+    "group": "Syrphidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Diptera/Eastern Calligrapher.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-05"
+      }
+    ],
+    "id": "Eastern Calligrapher",
+    "order": "Diptera"
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Diptera/",
+        "location": "Great Smoky Mountains, Tennessee",
+        "date": "May 2026"
+      }
+    ]
+  },
+  {
+    "name": null,
+    "scientific": null,
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Diptera/",
+        "location": "Great Smoky Mountains, Tennessee",
+        "date": "May 2026"
+      }
+    ]
+  }
+]
