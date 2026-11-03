@@ -65,12 +65,14 @@ title: Catalog
   <option value="Group">By Group</option>
 </select>
 
-<label for="sort-order">Asc</label>
-<input type="checkbox" id="sort-order" name="Ascending" checked=true>
+<label class="custom-checkbox">
+  <input type="checkbox" id="sort-order" name="Ascending" checked=true>
+  <span class="checkbox-icon"></span>
+</label>
 
 <p id="count" aria-live="polite"></p>
 
-<div class="grid" id="results">
+<div class="search-results-grid" id="results">
   {% for entry in entries %}
     {{ bugCard(entry=entry) }}
   {% endfor %}
@@ -81,7 +83,7 @@ title: Catalog
   const category = document.querySelector("#category");
   const sort = document.querySelector("#sort");
   const sortOrder = document.querySelector("#sort-order");
-  const cards = [...document.querySelectorAll(".card")];
+  const cards = [...document.querySelectorAll(".search-result-card")];
   const count = document.querySelector("#count");
   const container = cards[0]?.parentElement;
 

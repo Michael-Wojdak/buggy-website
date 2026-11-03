@@ -1,6 +1,6 @@
 {% macro bugCard(entry) %}
     <article
-        class="card"
+        class="search-result-card"
         data-name="{{ entry.name | default("", true) | escape }}"
         data-desc="{{ entry.desc | default("", true) | escape }}"
         data-category="{{ entry.order | default("", true) | escape }}"
@@ -8,27 +8,37 @@
         data-tags="{{ (entry.tags | default([], true)) | join(' ') | escape }}"
         data-dates="{% for image in entry.images %}{% if image.date %}{{image.date}},{%endif%}{%endfor%}"
     >
+    <h2>
+        <a class="title" href="/entries/{{ entry.id }}/">
+        {{ entry.name }}
+        </a>
+    </h2>
+
     {% if entry.images and entry.images.length %}
-        <a href="/entries/{{ entry.id }}/">
+    <div class="image-box">
+        <a href="/entries/{{ entry.id | slugify }}/">
         <img
             src="/images/{{ entry.images[0].path }}"
             alt="{{ entry.name | escape }}"
             loading="lazy"
         >
         </a>
+    </div>
     {% endif %}
 
-    <h2>
+    {# Experimental: display multiple images in each card
+    <div class="search-result-gallery">
+    {% for image in entry.images %}
         <a href="/entries/{{ entry.id }}/">
-        {{ entry.name }}
+        <img
+            src="/images/{{ image.path }}"
+            alt="{{ entry.name | escape }}"
+            loading="lazy"
+        >
         </a>
-    </h2>
+    {% endfor %}
+    </div>
+    #}
 
-    <p>{{ entry.desc }}</p>
-    <p class="tags">
-        {{ entry.group | default("Uncategorized") }}
-        ·
-        {{ (entry.tags | default([], true)) | join(", ") }}
-    </p>
     </article>
 {% endmacro %}

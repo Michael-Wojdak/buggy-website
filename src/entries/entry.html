@@ -4,7 +4,7 @@ pagination:
   data: entries
   size: 1
   alias: entry
-permalink: "entries/{{ entry.id }}/index.html"
+permalink: "entries/{{ entry.id | slugify  }}/index.html"
 eleventyComputed:
   title: "{{ entry.name | default('', true) }}"
 ---
@@ -22,17 +22,15 @@ eleventyComputed:
     Tags: {{ entry.tags | default([], true) | join(", ") }}
   </p>
 
-  <div class="grid">
-    {% for image in entry.images %}
-      <div class="card">
-        <img
-          class="detail-image"
-          src="/images/{{ image.path  | default('', true) }}"
-          alt="{{ entry.title | default('', true) | escape }}"
-          loading="lazy"
-        >
-      </div>
-    {% endfor %}
+  <div class="masonry-gallery">
+  {% for image in entry.images %}
+      <img
+        class="detail-image"
+        src="/images/{{ image.path  | default('', true) }}"
+        alt="{{ entry.title | default('', true) | escape }}"
+        loading="lazy"
+      >
+  {% endfor %}
   </div>
 
   <p><a href="/">← Back to catalog</a></p>
