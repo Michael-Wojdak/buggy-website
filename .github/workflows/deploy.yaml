@@ -3,36 +3,43 @@ name: Deploy Eleventy to GitHub Pages
 on:
   push:
     branches: ["main"]
+  workflow_dispatch:
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
   pages: write
   id-token: write
 
-# Allow one concurrent deployment
 concurrency:
   group: "pages"
   cancel-in-progress: true
 
 jobs:
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
 
+      - name: Configure GitHub Pages
+        id: pages
+        uses: actions/configure-pages@v5
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-size: 20
-          cache: 'npm'
+          node-version: 24
+          cache: npm
 
       - name: Install Dependencies
         run: npm ci
+
+      # Fix "_site is not a directory" errors. Not sure what was causing it, doesn't seem to be common online.
+      - name: Prepare output directory
+        run: |
+          rm -rf _site
+          mkdir -p _site
+          ls -lad _site
 
       - name: Build Eleventy Site
         run: npx @11ty/eleventy --pathprefix="${{ steps.pages.outputs.base_path }}"
@@ -40,8 +47,15 @@ jobs:
       - name: Upload Artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '_site'
+          path: ./_site
 
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
