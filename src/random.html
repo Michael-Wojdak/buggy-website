@@ -5,7 +5,7 @@ title: Random
 
 <script>
     function gotoEntryPage(rel_path) {
-        window.location.href = "/entries/" + rel_path;
+        window.location.href = "{{ '/entries/' | htmlBaseUrl }}" + rel_path;
     }
 
     function getRandomIntInclusive(min, max) {
@@ -26,13 +26,12 @@ title: Random
     }
 
     (async function() {
-        console.log("here");
-        var response = await fetch("/bug_data");
+        var response = await fetch("{{ '/bug_data' | htmlBaseUrl }}");
         if (!response.ok) {throw new Error(`HTTP error! status: ${response.status}`);}
 
         var bug_data = await response.json();
         const index = getRandomIntInclusive(0, Object.keys(bug_data).length)
-        
+
         gotoEntryPage(slugify(bug_data[index].id));
     })();
 </script>

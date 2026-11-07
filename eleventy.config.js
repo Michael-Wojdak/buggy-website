@@ -8,8 +8,6 @@ export default function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({
    "public": "/"
   });
-  // Copy favicon to root of _site
-  eleventyConfig.addPassthroughCopy({ "public/images/favicon.ico": "/" });
 
   eleventyConfig.addWatchTarget("./src/**");
   eleventyConfig.addWatchTarget("./_raw_data/**");

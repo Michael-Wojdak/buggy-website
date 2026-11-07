@@ -12,11 +12,12 @@ Data:
 
 Improvements:
 - image captions
+- add tags (nepal/europe)
 - new favicon
 - svg icon match theme color
 - custom input fields
 - don't let multi-line names push card size larger than neighbors
 
 Infrastructure:
-- switch github pages site
+- ~~switch github pages site~~
 - custom domain name? (buggywebsite, wojsite)
