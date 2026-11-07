@@ -1,3 +1,218 @@
+:root {
+  /* Color Palletes */
+  /* Fresh Greens */
+  --hunter-green: #386641ff;
+  --sage-green: #6a994eff;
+  --yellow-green: #a7c957ff;
+  --vanilla-cream: #f2e8cfff;
+  --blushed-brick: #bc4749ff;
+  /* Vibrant Nature */
+  --scarlet-rush: #da2c38ff;
+  --turf-green: #226f54ff;
+  --willow-green: #87c38fff;
+  --lemon-chiffon: #f4f0bbff;
+  --dark-coffee: #43291fff;
+  /* Coastal Vibes */
+  --dusk-blue: #3d5a80ff;
+  --powder-blue: #98c1d9ff;
+  --light-cyan: #e0fbfcff;
+  --burnt-peach: #ee6c4dff;
+  --jet-black: #293241ff;
+  /* Fiery Palette */
+  --crimson-violet: #5f0f40ff;
+  --deep-crimson: #9a031eff;
+  --princeton-orange: #fb8b24ff;
+  --autumn-leaf: #e36414ff;
+  --dark-teal: #0f4c5cff;
+  /* Rustic Charm */
+  --floral-white: #fffcf2ff;
+  --dust-grey: #ccc5b9ff;
+  --charcoal-brown: #403d39ff;
+  --carbon-black: #252422ff;
+  --spicy-paprika: #eb5e28ff;
+  /* Mossy Woods */
+  --onyx: #0a100dff;
+  --ash-grey: #b9baa3ff;
+  --dust-grey: #d6d5c9ff;
+  --brown-red: #a22c29ff;
+  --chestnut: #902923ff;
+  /* Dark Berry */
+  --mint-cream: #eaf2efff;
+  --vintage-berry: #912f56ff;
+  --deep-purple: #521945ff;
+  --midnight-violet: #361f27ff;
+  --pitch-black: #0d090aff;
+  /* Sea and Stars */
+  --baby-blue-ice: #a7c7ffff;
+  --apricot-cream: #ffcd81ff;
+  --vintage-grape: #4b4a67ff;
+  --lavender-grey: #9192a3ff;
+  --azure-mist: #edfbffff;
+
+
+  /* Common layout properties */
+  color-scheme: light dark; /* Tells the browser to adapt default components */
+
+  /* Default Colors */
+  --bg-color: #dededeff;
+  --section-bg-color: #bba9f1;
+  --section-pinline-color: #555;
+  --navbar-bg-color: var(--section-bg-color);
+  --navbar-text-color: #4e4366;
+  --sidebar-gradient-one: var(--section-bg-color);
+  --sidebar-gradient-two: var(--bg-color);
+  --text-color: #0f172a;
+  --accent-color: #eb5e28ff;
+  --toggle-bg: #cbd5e1;
+  --toggle-circle: #ffffff;
+
+  --border-color: var(--bg-color);
+}
+
+html[data-theme="Clean"] {
+  --bg-color: #f7f3ff;
+  --section-bg-color: #ffffff;
+  --section-pinline-color: #333;
+  --navbar-bg-color: var(--section-bg-color);
+  --accent-color: #a200ff;
+  --text-color: #000;
+  --navbar-text-color: #8c66d3;
+}
+
+html[data-theme="Slate"] {
+  --bg-color: #dededeff;
+  --section-bg-color: #9dbcc2;
+  --section-pinline-color: var(--charcoal-brown);
+  --navbar-bg-color: var(--section-bg-color);
+  --accent-color: #548d5e;
+  --text-color: #0f172a;
+  --navbar-text-color: #4e4366;
+}
+
+html[data-theme="Berry"] {
+  --bg-color: #dededeff;
+  --section-bg-color: #bba9f1;
+  --section-pinline-color: #311d6e;
+  --navbar-bg-color: var(--section-bg-color);
+  --accent-color: #548d5e;
+  --text-color: #0f172a;
+  --navbar-text-color: #4e4366;;
+}
+
+html[data-theme="Fresh Greens"] {
+  --bg-color: var(--vanilla-cream);
+  --section-bg-color: var(--sage-green);
+  --navbar-bg-color: var(--section-bg-color);
+  /* --navbar-bg-color: var(--scarlet-rush); */
+  --accent-color: var(--blushed-brick);
+  /* --border-color: var(--sage-green); */
+  --border-color: var(--dust-grey);
+  --text-color: #333;
+  --navbar-text-color: var(--vanilla-cream);
+}
+
+html[data-theme="Vibrant Nature"] {
+  --bg-color: var(--lemon-chiffon);
+  --section-bg-color: var(--willow-green);
+  --navbar-bg-color: var(--section-bg-color);
+  --accent-color: var(--scarlet-rush);
+  --text-color: var(--dark-coffee);
+  --navbar-text-color: var(--turf-green);
+}
+
+html[data-theme="Coastal Vibes"] {
+  --bg-color: var(--light-cyan);
+  --section-bg-color: var(--powder-blue);
+  --navbar-bg-color: var(--section-bg-color);
+  --accent-color: var(--burnt-peach);
+  --text-color: var(--jet-black);
+  --navbar-text-color: var(--jet-black);
+}
+
+html[data-theme="Rustic Charm"] {
+  --bg-color: var(--dust-grey);
+  --section-bg-color: var(--floral-white);
+  --navbar-bg-color: var(--section-bg-color);
+  --accent-color: #d3a867;
+  /* --accent-color: var(--spicy-paprika); */
+  --border-color: var(--accent-color);
+  --text-color: var(--carbon-black);
+  --navbar-text-color: var(--carbon-black);
+}
+
+html[data-theme="Mossy Woods"] {
+  --bg-color: var(--dust-grey);
+  --section-bg-color: var(--ash-grey);
+  --navbar-bg-color: var(--brown-red);
+  --accent-color: var(--chestnut);
+  --text-color: var(--onyx);
+  --navbar-text-color: var(--onyx);
+}
+
+html[data-theme="Dark Berry"] {
+  --bg-color: var(--midnight-violet);
+  --section-bg-color: var(--deep-purple);
+  --navbar-bg-color: var(--section-bg-color);
+  --accent-color: var(--mint-cream);
+  --border-color: var(--vintage-berry);
+  --text-color: var(--mint-cream);
+  --navbar-text-color: var(--mint-cream);
+}
+
+html[data-theme="Sea and Stars"] {
+  --bg-color: var(--azure-mist);
+  --section-bg-color: var(--apricot-cream);
+  --navbar-bg-color: var(--apricot-cream);
+  --accent-color: var(--baby-blue-ice);
+  --border-color: var(--lavender-grey);
+  --text-color: var(--vintage-grape);
+  --navbar-text-color: var(--lavender-grey);
+}
+
+/* 5. Styling the custom toggle switch */
+.theme-toggle-input {
+  display: none;
+}
+
+/* .theme-toggle-label {
+  display: inline-block;
+  width: 60px;
+  height: 32px;
+  background-color: var(--toggle-bg);
+  border-radius: 50px;
+  position: relative;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  } */
+  
+  .toggle-circle {
+    content: "";
+    position: absolute;
+  top: 4px;
+  left: 4px;
+  width: 24px;
+  height: 24px;
+  background-color: var(--toggle-circle);
+  border-radius: 50%;
+  /* Smooth movement across the track */
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1); 
+}
+
+/* Move the slider circle horizontally when checked */
+.theme-toggle-input:checked + .theme-toggle-label .toggle-circle {
+  transform: translateX(28px);
+}
+
+/* for paintbrush button */
+.theme-toggle-label {
+  cursor: pointer;
+}
+.theme-toggle-label:hover {
+  filter: invert(51%) sepia(65%) saturate(4677%) hue-rotate(203deg) brightness(99%) contrast(96%);
+}
+
+
+
 /* Fixed aspect ratio box that centers its content */
 .image-box {
   display: flex;
@@ -9,6 +224,17 @@
   aspect-ratio: 4 / 3;
   /* border: 1px solid #555; */
   /* border-radius: 5px; */
+}
+
+
+/* --- Input Fields --- */
+input, select {
+  padding: 0.5rem;
+  margin: 0.5rem 0 1rem 0;
+  /* max-width: 200px; */
+  /* background-color: var(--bg-color);
+  border-radius: 4px;
+  accent-color: var(--accent-color); */
 }
 
 
@@ -24,7 +250,6 @@
 }
 
 .custom-checkbox {
-  /* display: flex; */
   align-items: center;
   cursor: pointer;
   user-select: none;
@@ -50,23 +275,20 @@
 .search-results-grid {
   display: grid;
   grid-template-columns:
-    repeat(auto-fit, minmax(350px, 1fr));
-  gap: 1rem;
-  margin-bottom: 1rem;
+    /* auto-fit expands content when columns are not full while auto-fill always preserves column width */
+    repeat(auto-fill, minmax(320px, 1fr));
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
 }
-/* .tags {
-  color: #555;
-  font-size: 0.9rem;
-} */
 .search-result-card {
-  border: 1px solid #555;
+  border: 1px solid var(--section-pinline-color);
   border-radius: 8px;
-  background-color: #9dbcc2;
+  background-color: var(--section-bg-color);
   padding: 1rem;
 }
 .search-result-card .title {
   text-decoration: none;
-  color: black;
+  color: var(--text-color);
 }
 .search-result-card h2 {
   margin-top: 0;
@@ -92,4 +314,6 @@
   display: block;
   margin-bottom: 16px;
   object-fit: contain;
+  border: 1px solid #555;
+  /* border-radius: 5px; */
 }

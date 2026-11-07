@@ -14,13 +14,23 @@ eleventyComputed:
 
   <p>{{ entry.desc | default("", true) }}</p>
 
+  {% if entry.group %}
   <p>
     Group: {{ entry.group | default("", true) }}
   </p>
+  {% endif %}
 
+  {% if entry.scientific %}
+  <p>
+    Scientific Name: {{ entry.scientific | default("", true) }}
+  </p>
+  {% endif %}
+
+  {% if entry.tags %}
   <p>
     Tags: {{ entry.tags | default([], true) | join(", ") }}
   </p>
+  {% endif %}
 
   <div class="masonry-gallery">
   {% for image in entry.images %}
@@ -33,5 +43,5 @@ eleventyComputed:
   {% endfor %}
   </div>
 
-  <p><a href="/">← Back to catalog</a></p>
+  <p><a href="javascript:history.back()">← Go Back</a></p>
 </article>

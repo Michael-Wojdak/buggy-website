@@ -5,56 +5,114 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ title }} — Buggy Website</title>
 
+  <script>
+    // Load saved theme before displaying any content
+    (function() {
+      const savedTheme = localStorage.getItem('selected-theme');
+      if (savedTheme) {
+        document.documentElement.setAttribute('data-theme', savedTheme);
+      }
+    })();
+  </script>
+
   <link rel="stylesheet" href="/css/bundle.css">
 
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Changa+One:ital@0;1&display=swap" rel="stylesheet">
+
   <style>
+    .changa-one-regular {
+      font-family: "Changa One", sans-serif;
+      font-weight: 400;
+      font-style: normal;
+    }
+
+    .changa-one-regular-italic {
+      font-family: "Changa One", sans-serif;
+      font-weight: 400;
+      font-style: italic;
+    }
     body {
       margin: 0;
       font-family: system-ui, sans-serif;
-      background-color: #dededeff;
+      background-color: var(--border-color);
+      /* background-image: linear-gradient(to bottom, var(--border-color) 200px, var(--bg-color) 400px); */
       min-height: 100dvh;
     }
     header {
-      /* max-width: 1100px; */
       margin: 2rem auto;
       margin-top: 0;
       margin-bottom: 0;
     }
     main {
       overflow: auto;
-      /* max-width: 1100px; */
       margin: 0;
       padding-left: 10px;
       padding-right: 10px;
-      border-left: 1px solid #555;
+      /* border-left: 1px solid #555;
       border-right: 1px solid #555;
-      background-color: #dededeff;
+      border-bottom: 1px solid #555; */
+      background-color: var(--bg-color);
       min-height: 100dvh;
+      /* If the background of the main area should be an image */
+      /* background-image: url('/images/Coleoptera/american carrion beetle.avif');
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover; */
+    }
+    .content-inner {
+      width: 100%;
+      max-width: 1200px;
+      margin: 0 auto;
     }
     .page-content {
-      flex: 0 1 1200px; /* Start at max size, shrink if needed */
+      /* Start at max size, shrink if needed. If max size is reached, show sidebars */
+      flex: 0 1 100%;
       min-width: 0;
+      /* Adds a border around the whole page */
+      /* margin: 1rem; */
     }
     .navbar {
       display: flex;
       width: auto;
       padding: 10px;
       gap: 20px;
-      border: 1px solid #555;
-      background-color: #e8dbf0ff;
+      /* border: 1px solid #555; */
+      background-color: var(--navbar-bg-color);
+      /* justify-content: space-between; */
+    }
+    .navbar a {
+      color: var(--navbar-text-color);
+    }
+    .navbar h1, h2 {
+      margin: 0px;
+      text-align: center;
+    }
+    .navbar-inner {
+      display: flex;
+      max-width: 1200px;
+      width: 100%;
+      margin: 0 auto;
+    }
+    .navbar-options {
+      display: flex;
+      gap: 1rem;
+      align-self: flex-end;
+      margin-left: auto;
+    }
+    .navbar-options h3 {
+      margin: 0px;
     }
     .sidebar {
       flex: 1; /* Fill remaining space on the page */
       min-width: 0;
       background-color: #ff8a00;
-      background-image: linear-gradient(to right, #9341ff, #aa60ff);
+      background-image: linear-gradient(to right, var(--sidebar-gradient-one), var(--sidebar-gradient-two));
     }
     .sidebar.right {
-      background-image: linear-gradient(to left, #9341ff, #aa60ff);
-    }
-    input, select {
-      padding: 0.7rem;
-      margin: 0.5rem 0.5rem 1rem 0;
+      background-image: linear-gradient(to left, var(--sidebar-gradient-one), var(--sidebar-gradient-two));
     }
   </style>
 </head>
@@ -63,16 +121,60 @@
     <div class="sidebar"></div>
     <div class="page-content">
       <header class="navbar">
-        <a href="/">Buggy Website</a>
-        <a style="margin-left: auto;" href="/About">About</a>
-        <a href="/">\_o_/</a>
+        <div class="navbar-inner">
+          <h1 style="align-self: flex-start;">
+            <a class="changa-one-regular" href="/">Buggy Website</a>
+          </h1>
+  
+          <div class="navbar-options">
+
+            <h3>
+              <a href="/">Search</a>
+            </h3>
+
+            <h3>
+              <a href="/About">About</a>
+            </h3>
+            
+            <h3>
+              <a href="/Random">Random Bug</a>
+            </h3>
+              
+            <!-- <input type="checkbox" id="theme-toggle" class="theme-toggle-input">
+            <label for="theme-toggle" class="theme-toggle-label" aria-label="Toggle dark mode">
+              <span class="toggle-circle"></span>
+            </label> -->
+            <input type="button" id="theme-toggle" style="display: none;">
+            <label for="theme-toggle" class="theme-toggle-label"><img src="/images/paintbrush-garage-tool-svgrepo-com.svg" width="36px"></label>
+          </div>
+        </div>
       </header>
       <main>
-        {{ content | safe }}
+        <div class="content-inner">
+          {{ content | safe }}
+        </div>
       </main>
     </div>
     <div class="sidebar right"></div>
   </div>
   
 </body>
+
+<script>
+  const themes = ["Clean", "Slate", "Berry", "Fresh Greens", "Vibrant Nature", "Coastal Vibes", "Rustic Charm", "Mossy Woods", "Dark Berry", "Sea and Stars"];
+  const savedTheme = localStorage.getItem("selected-theme");
+  let currentThemeIndex = themes.indexOf(savedTheme) ?? 0;
+  
+  const themeToggleBtn = document.getElementById("theme-toggle");
+
+  themeToggleBtn.addEventListener("click", () => {
+    currentThemeIndex = (currentThemeIndex + 1) % themes.length;
+    const nextTheme = themes[currentThemeIndex];
+  
+    document.documentElement.setAttribute("data-theme", nextTheme);
+  
+    // Save preference in localStorage
+    localStorage.setItem("selected-theme", nextTheme);
+  });
+</script>
 </html>

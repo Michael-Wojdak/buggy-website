@@ -3,26 +3,16 @@ layout: layout.html
 title: Catalog
 ---
 
-{% from "src/macros.njk" import bugCard %}
+{% from "src/_includes/macros.njk" import bugCard %}
 
-<h1>Search the Bug Catalog</h1>
+<h1 class="changa-one-regular">Search the Bug Catalog</h1>
 
-<label for="search">Search entries</label>
-<input
-  id="search"
-  type="search"
-  placeholder="Search titles, descriptions, tags..."
->
-
-<label for="category">Category</label>
+<!-- <label for="category">Category</label> -->
 <select id="category">
   <option value="">All</option>
-  <option value="Araneae">Spiders (Araneae)</option>
   <!-- <option value="Blattodea">Cockroaches and Termites (Blattodea)</option> -->
-  <option value="Chilopoda">Centipedes (Chilopoda)</option>
   <option value="Coleoptera">Beetles (Coleoptera)</option>
   <option value="Dermaptera">Earwigs (Dermaptera)</option>
-  <option value="Diplopoda">Millipedes (Diplopoda)</option>
   <option value="Diptera">Flies (Diptera)</option>
   <option value="Embioptera">Webspinners (Embioptera)</option>
   <option value="Ephemeroptera">Mayflies (Ephemeroptera)</option>
@@ -40,6 +30,9 @@ title: Catalog
   <option value="Psocodea">Barklice, Booklice & Parasitic Lice (Psocodea)</option>
   <option value="Trichoptera">Caddisflies (Trichoptera)</option>
   <option value="Zygentoma">Silverfish and Firebrats (Zygentoma)</option>
+  <option value="Araneae">Spiders (Araneae)</option>
+  <option value="Chilopoda">Centipedes (Chilopoda)</option>
+  <option value="Diplopoda">Millipedes (Diplopoda)</option>
 
   {# 
     Adds an option for every order in the data
@@ -56,19 +49,32 @@ title: Catalog
   #}
 </select>
 
+<!-- <label for="search">Search entries</label> -->
+<input
+  id="search"
+  type="search"
+  placeholder="Search..."
+>
 
-<label for="sort">Sort By</label>
-<select id="sort">
+<label for="sort">Sorted By</label>
+<select id="sort" style="margin-left: auto;"">
   <option value="">N/A</option>
   <option value="Date">Date</option>
-  <option value="Alphabetical">Alphabetical</option>
+  <option value="Name">Name</option>
   <option value="Group">By Group</option>
 </select>
 
-<label class="custom-checkbox">
+<p style="display: inline;">:</p>
+
+<select id="sort-order" style="margin-left: auto;"">
+  <option value="Ascending">Asc</option>
+  <option value="Descending">Desc</option>
+</select>
+
+<!-- <label class="custom-checkbox">
   <input type="checkbox" id="sort-order" name="Ascending" checked=true>
   <span class="checkbox-icon"></span>
-</label>
+</label> -->
 
 <p id="count" aria-live="polite"></p>
 
@@ -106,7 +112,7 @@ title: Catalog
     const query = search.value.trim().toLowerCase();
     const selectedCategory = category.value;
     const sortingCriteria = sort.value;
-    const sortingOrder = sortOrder.checked;
+    const sortingOrder = sortOrder.value == "Ascending";
     let visible = 0;
 
     const sortedCards = [...cards].sort((a, b) => {
@@ -116,7 +122,7 @@ title: Catalog
           return result !== sortingOrder;
           break;
         }
-        case "Alphabetical": {
+        case "Name": {
           const result = a.dataset.name.localeCompare(b.dataset.name);
           return sortingOrder ? result : -result
           break;
@@ -130,6 +136,7 @@ title: Catalog
     for (const card of sortedCards) {
       const text = [
         card.dataset.name,
+        card.dataset.sci,
         card.dataset.category,
         card.dataset.sub_category,
         card.dataset.tags

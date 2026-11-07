@@ -2,6 +2,7 @@
     <article
         class="search-result-card"
         data-name="{{ entry.name | default("", true) | escape }}"
+        data-sci="{{ entry.scientific | default("", true) | escape }}"
         data-desc="{{ entry.desc | default("", true) | escape }}"
         data-category="{{ entry.order | default("", true) | escape }}"
         data-sub_category="{{ entry.group | default("", true) | escape }}"
@@ -9,7 +10,7 @@
         data-dates="{% for image in entry.images %}{% if image.date %}{{image.date}},{%endif%}{%endfor%}"
     >
     <h2>
-        <a class="title" href="/entries/{{ entry.id }}/">
+        <a class="title" href="/entries/{{ entry.id | slugify  }}/">
         {{ entry.name }}
         </a>
     </h2>
