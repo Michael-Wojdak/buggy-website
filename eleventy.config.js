@@ -1,4 +1,9 @@
+import { HtmlBasePlugin } from "@11ty/eleventy";
+
 export default function(eleventyConfig) {
+  // If using pathprefix (github pages), modifies all file links to use the correct url
+  eleventyConfig.addPlugin(HtmlBasePlugin);
+
   // Copy image files
   eleventyConfig.addPassthroughCopy({
    "public": "/"
