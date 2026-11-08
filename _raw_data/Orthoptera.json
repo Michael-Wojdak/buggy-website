@@ -3,6 +3,7 @@
     "name": "Egyptian Grasshopper",
     "scientific": "Anacridium aegyptium",
     "group": "Acrididae",
+    "tags": ["Europe 2025"],
     "desc": null,
     "images": [
       {
@@ -33,6 +34,7 @@
     "name": "Spotted Locust",
     "scientific": "Aularches miliaris",
     "group": "Pyrgomorphidae",
+    "tags": ["Nepal"],
     "desc": "Also known as the foam grasshopper, it exudes an unpleasant foamy liquid when grabbed.",
     "images": [
       {
@@ -53,6 +55,7 @@
     "name": "Rufous-legged Grasshopper",
     "scientific": "Xenocatantops humilis",
     "group": "Acrididae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -73,6 +76,7 @@
     "name": "Atractomorpha species",
     "scientific": "Atractomorpha species",
     "group": "Pyrgomorphidae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -88,6 +92,7 @@
     "name": "Caryanda species",
     "scientific": "Caryanda species",
     "group": "Acrididae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -103,6 +108,7 @@
     "name": "Unidentified Grasshopper",
     "scientific": null,
     "group": null,
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -118,6 +124,7 @@
     "name": "Unidentified Grasshopper",
     "scientific": null,
     "group": null,
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -133,6 +140,7 @@
     "name": "Unidentified Grasshopper",
     "scientific": null,
     "group": null,
+    "tags": ["Nepal"],
     "desc": "Insects that undergo incomplete metamorphosis only get functional wings after the final molt. There are also species of grasshopper that have wingless adults. I'm not sure which case this is.",
     "images": [
       {

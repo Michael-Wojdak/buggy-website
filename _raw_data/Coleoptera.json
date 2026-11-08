@@ -5,6 +5,7 @@
     "scientific": "Dorcus parallelipipedus",
     "order": "Coleoptera",
     "group": "Lucanidae",
+    "tags": ["Europe 2025"],
     "desc": null,
     "images": [
       {
@@ -142,6 +143,7 @@
     "scientific": "Protaetia angustata",
     "order": "Coleoptera",
     "group": "Scarabaeidae",
+    "tags": ["Europe 2025"],
     "desc": null,
     "images": [
       {
@@ -418,6 +420,7 @@
     "scientific": null,
     "order": "Coleoptera",
     "group": "Anthicidae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -433,6 +436,7 @@
     "scientific": "Cistelomorpha flavovirens",
     "order": "Coleoptera",
     "group": "Tenebrionidae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -448,6 +452,7 @@
     "scientific": null,
     "order": "Coleoptera",
     "group": "Dytiscidae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -463,6 +468,7 @@
     "scientific": null,
     "order": "Coleoptera",
     "group": "Curculionidae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {

@@ -18,6 +18,7 @@
     "name": "European Comma",
     "scientific": "Polygonia c-album",
     "group": "Nymphalidae",
+    "tags": ["Europe 2025"],
     "desc": null,
     "images": [
       {
@@ -33,6 +34,7 @@
     "name": "Melitaea species",
     "scientific": "Melitaea species",
     "group": "Nymphalidae",
+    "tags": ["Europe 2025"],
     "desc": null,
     "images": [
       {
@@ -80,6 +82,7 @@
     "name": "Common Brimstone",
     "scientific": "Gonepteryx rhamni",
     "group": "Pieridae",
+    "tags": ["Europe 2025"],
     "desc": null,
     "images": [
       {
@@ -222,6 +225,7 @@
     "name": "Orange Punch Butterfly",
     "scientific": "Dodona egeon",
     "group": "Riodinidae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -237,6 +241,7 @@
     "name": "Himalayan Jester",
     "scientific": "Symbrenthia hypselis",
     "group": "Nymphalidae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -259,6 +264,7 @@
     "name": "Paris Peacock Swallowtail",
     "scientific": "Papilio paris",
     "group": "Papilionidae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -286,6 +292,7 @@
     "name": "Peacock Pansy",
     "scientific": "Junonia almana",
     "group": "Nymphalidae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -301,6 +308,7 @@
     "name": "Banana Skipper",
     "scientific": "Erionota thrax",
     "group": "Hesperiidae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -316,6 +324,7 @@
     "name": "Grass Yellow",
     "scientific": "Eurema species",
     "group": "Pieridae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -331,6 +340,7 @@
     "name": "Common Evening Brown",
     "scientific": "Melanitis leda",
     "group": "Nymphalidae",
+    "tags": ["Nepal"],
     "desc": "Prominent eye-spots identify this individual as a wet-season morph.",
     "images": [
       {
@@ -346,6 +356,7 @@
     "name": "Dark-branded Bushbrown",
     "scientific": "Mycalesis mineus",
     "group": "Nymphalidae",
+    "tags": ["Nepal"],
     "desc": "These butterflies have separate forms for the dry and wet seasons. The one shown here is a dry-season form with reduced eyespots and a more uniform coloration.",
     "images": [
       {
@@ -361,6 +372,7 @@
     "name": "Purple Sapphire",
     "scientific": "Heliophorus epicles",
     "group": "Lycaenidae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -386,6 +398,7 @@
     "name": "Tiger Milkweed Butterfly",
     "scientific": "Danaus species",
     "group": "Nymphalidae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -525,6 +538,7 @@
     "name": "Ruby Tiger Moth",
     "scientific": "Phragmatobia fuliginosa",
     "group": "Erebidae",
+    "tags": ["Europe 2025"],
     "desc": null,
     "images": [
       {
@@ -560,6 +574,7 @@
     "name": "Carpenterworm Moth",
     "scientific": null,
     "group": "Cossidae",
+    "tags": ["Europe 2025"],
     "desc": null,
     "images": [
       {
@@ -944,6 +959,7 @@
     "name": "Handmaiden Moth",
     "scientific": "Syntomoides imaon",
     "group": "Erebidae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -959,6 +975,7 @@
     "name": "Geometer Moth",
     "scientific": null,
     "group": "Geometridae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -974,6 +991,7 @@
     "name": "Grass Moth",
     "scientific": null,
     "group": "Crambidae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -989,6 +1007,7 @@
     "name": "Clouded Tiger Moth",
     "scientific": "Creatonotos transiens",
     "group": "Erebidae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -1004,6 +1023,7 @@
     "name": "Arctornis species",
     "scientific": "Arctornis species",
     "group": "Erebidae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -1019,6 +1039,7 @@
     "name": "Footman Moth",
     "scientific": "Ammatho cuneonotatus",
     "group": "Erebidae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -1041,6 +1062,7 @@
     "name": "Footman Moth",
     "scientific": "Barsine defecta",
     "group": "Erebidae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -1056,6 +1078,7 @@
     "name": "Dark Judy",
     "scientific": "Spitosa fylla",
     "group": "Riodinidae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -1093,6 +1116,7 @@
     "name": "Sphinx Moth Caterpillar",
     "scientific": null,
     "group": "Sphingidae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -1108,6 +1132,7 @@
     "name": "Common Sailer",
     "scientific": "Neptis hylas",
     "group": "Nymphalidae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -1123,6 +1148,7 @@
     "name": "Painted Jezebel",
     "scientific": "Delias hyparete",
     "group": "Pieridae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -1138,6 +1164,7 @@
     "name": "Plains Cupid",
     "scientific": "Luthrodes pandava",
     "group": "Lycaenidae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -1153,6 +1180,7 @@
     "name": "Common Pierrot",
     "scientific": "Castalius rosimon",
     "group": "Lycaenidae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {

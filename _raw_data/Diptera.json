@@ -116,7 +116,7 @@
     "order": "Diptera"
   },
   {
-    "name": "Unidentified Hover Flies",
+    "name": "Unidentified Hover Fly",
     "scientific": "Family Syrphidae",
     "group": "Syrphidae",
     "desc": "A majority of hover flies seem to mimic bees and wasps and are commonly mistaken as such by unknowing observers. However, these insects are harmless and can be seen visiting flowers for nectar.",
@@ -126,19 +126,51 @@
         "location": "Coastal Virginia",
         "date": "2024-04",
         "width": "49%"
-      },
+      }
+    ],
+    "id": "Unidentified Hover Fly 1",
+    "order": "Diptera"
+  },
+  {
+    "name": "Unidentified Hover Fly",
+    "scientific": "Family Syrphidae",
+    "group": "Syrphidae",
+    "desc": null,
+    "images": [
       {
         "path": "Diptera/Hover Fly.avif",
         "location": "Coastal Virginia",
         "date": "2024-03",
         "width": "49%"
-      },
+      }
+    ],
+    "id": "Unidentified Hover Fly 2",
+    "order": "Diptera"
+  },
+  {
+    "name": "Unidentified Hover Flies",
+    "scientific": "Family Syrphidae",
+    "group": "Syrphidae",
+    "tags": ["Nepal"],
+    "desc": null,
+    "images": [
       {
         "path": "Diptera/nepali hover fly.avif",
         "location": "Nepal",
         "date": "2025-10",
         "width": "35.2%"
-      },
+      }
+    ],
+    "id": "Unidentified Hover Fly 3",
+    "order": "Diptera"
+  },
+  {
+    "name": "Unidentified Hover Fly",
+    "scientific": "Family Syrphidae",
+    "group": "Syrphidae",
+    "tags": ["Nepal"],
+    "desc": null,
+    "images": [
       {
         "path": "Diptera/nepali hover fly (2).avif",
         "location": "Nepal",
@@ -146,7 +178,7 @@
         "width": "62.8%"
       }
     ],
-    "id": "Unidentified Hover Flies",
+    "id": "Unidentified Hover Fly 4",
     "order": "Diptera"
   },
   {
@@ -325,6 +357,7 @@
     "name": "Hexatoma nepalensis",
     "scientific": "Hexatoma nepalensis",
     "group": "Limoniidae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -340,6 +373,7 @@
     "name": "Unidentified",
     "scientific": null,
     "group": null,
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {

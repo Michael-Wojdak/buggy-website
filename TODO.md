@@ -12,7 +12,7 @@ Data:
 
 Improvements:
 - image captions
-- add tags (nepal/europe)
+- ~~add tags (nepal/europe)~~
 - new favicon
 - svg icon match theme color
 - custom input fields

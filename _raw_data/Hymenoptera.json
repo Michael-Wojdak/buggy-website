@@ -11,17 +11,28 @@
         "date": "2025-09"
       },
       {
-        "path": "Hymenoptera/carpenter ants nepal.avif",
-        "location": "Nepal",
-        "date": "2025-10"
-      },
-      {
         "path": "Hymenoptera/Black Carpenter Ants.avif",
         "location": "Southwest Virginia",
         "date": "2025-06"
       }
     ],
     "id": "Carpenter Ants",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": "Carpenter Ants",
+    "scientific": "Camponotus species",
+    "group": "Formicidae",
+    "tags": ["Nepal"],
+    "desc": null,
+    "images": [
+      {
+        "path": "Hymenoptera/carpenter ants nepal.avif",
+        "location": "Nepal",
+        "date": "2025-10"
+      }
+    ],
+    "id": "Carpenter Ants Nepal",
     "order": "Hymenoptera"
   },
   {
@@ -85,7 +96,7 @@
     "order": "Hymenoptera"
   },
   {
-    "name": "Unidentified Bumble Bees",
+    "name": "Unidentified Bumble Bee",
     "scientific": "Bombus species",
     "group": "Apidae",
     "desc": null,
@@ -94,19 +105,40 @@
         "path": "Hymenoptera/bumble bee hibiscus.avif",
         "location": "Southwest Virginia",
         "date": "2025-08"
-      },
+      }
+    ],
+    "id": "Unidentified Bumble Bee",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": "Unidentified Bumble Bee",
+    "scientific": "Bombus species",
+    "group": "Apidae",
+    "tags": ["Nepal"],
+    "desc": null,
+    "images": [
       {
         "path": "Hymenoptera/nepali bumble bee.avif",
         "location": "Nepal",
         "date": "2025-10"
-      },
+      }
+    ],
+    "id": "Unidentified Bumble Bee Nepal",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": "Unidentified Bumble Bee",
+    "scientific": "Bombus species",
+    "group": "Apidae",
+    "desc": null,
+    "images": [
       {
         "path": "Hymenoptera/Bumble Bee Mint.avif",
         "location": "Southwest Virginia",
         "date": "2026-06"
       }
     ],
-    "id": "Unidentified Bumble Bees",
+    "id": "Unidentified Bumble Bee 2",
     "order": "Hymenoptera"
   },
   {
@@ -128,6 +160,7 @@
     "name": "Hairy Scoliid Wasp",
     "scientific": "Scolia hirta",
     "group": "Scoliidae",
+    "tags": ["Europe 2025"],
     "desc": null,
     "images": [
       {
@@ -154,7 +187,18 @@
         "path": "Hymenoptera/Ichneumonid2.avif",
         "location": "Southwest Virginia",
         "date": "2023-10"
-      },
+      }
+    ],
+    "id": "Unidentified Ichneumon Wasps",
+    "order": "Hymenoptera"
+  },
+  {
+    "name": "Unidentified Ichneumon Wasps",
+    "scientific": null,
+    "group": "Ichneumonidae",
+    "tags": ["Nepal"],
+    "desc": null,
+    "images": [
       {
         "path": "Hymenoptera/Ichneumon wasp nepal.avif",
         "location": "Nepal",
@@ -166,7 +210,7 @@
         "date": "2025-10"
       }
     ],
-    "id": "Unidentified Ichneumon Wasps",
+    "id": "Unidentified Ichneumon Wasps Nepal",
     "order": "Hymenoptera"
   },
   {
@@ -188,6 +232,7 @@
     "name": "Yellow Ichneumon Wasp",
     "scientific": "Xanthopimpla punctata",
     "group": "Ichneumonidae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -203,6 +248,7 @@
     "name": "Crown Wasp",
     "scientific": null,
     "group": "Stephanidae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -253,6 +299,7 @@
     "name": "Banded Hornet",
     "scientific": "Vespa tropica/Vespa affinis",
     "group": "Vespidae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -268,6 +315,7 @@
     "name": "Scoliid Wasp",
     "scientific": null,
     "group": "Scoliidae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -283,6 +331,7 @@
     "name": "Paper Wasp",
     "scientific": "Polistes species",
     "group": "Vespidae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {

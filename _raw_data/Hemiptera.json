@@ -18,6 +18,7 @@
     "name": "Dalpada oculata",
     "scientific": "Dalpada oculata",
     "group": "Pentatomidae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -33,6 +34,7 @@
     "name": "White Rice Leafhopper",
     "scientific": "Cofana spectra",
     "group": "Cicadellidae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -78,6 +80,7 @@
     "name": "Common Froghopper",
     "scientific": "Cercopis vulnerata",
     "group": "Cercopidae",
+    "tags": ["Europe 2025"],
     "desc": null,
     "images": [
       {
@@ -145,6 +148,7 @@
     "name": "Atkinsoniella species",
     "scientific": "Atkinsoniella species",
     "group": "Cicadellidae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -167,6 +171,7 @@
     "name": "Bordered Plant Bug",
     "scientific": "Iphita limbata",
     "group": "Largidae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -182,6 +187,7 @@
     "name": "Water Scorpion",
     "scientific": null,
     "group": "Nepidae",
+    "tags": ["Nepal"],
     "desc": "Family Nepidae. Aquatic predators, they use their long tail as a breathing tube to obtain oxygen while hunting underwater.",
     "images": [
       {
@@ -203,6 +209,7 @@
     "name": "Ricaniid Planthopper",
     "scientific": null,
     "group": "Ricaniidae",
+    "tags": ["Nepal"],
     "desc": "Family Ricaniidae",
     "images": [
       {
@@ -266,6 +273,7 @@
     "name": "Unidentified Cicada",
     "scientific": null,
     "group": "Cicadidae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -311,6 +319,7 @@
     "name": "Semipunctated Shield Bug",
     "scientific": "Graphosoma semipunctatum",
     "group": "Pentatomidae",
+    "tags": ["Europe 2025"],
     "desc": null,
     "images": [
       {
@@ -402,6 +411,7 @@
     "name": "Macrocheraia grandis",
     "scientific": "Macrocheraia grandis",
     "group": "Largidae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -424,6 +434,7 @@
     "name": "Andrallus spinidens",
     "scientific": "Andrallus spinidens",
     "group": "Pentatomidae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -439,6 +450,7 @@
     "name": "Dinidorid Bug",
     "scientific": null,
     "group": "Dinidoridae",
+    "tags": ["Nepal"],
     "desc": "Family Dinidoridae",
     "images": [
       {
@@ -454,6 +466,7 @@
     "name": "Millipede Assassin Bug",
     "scientific": "Haematorrhophus species",
     "group": "Reduviidae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
@@ -673,6 +686,7 @@
     "name": "Scutellera nepalensis",
     "scientific": "Scutellera nepalensis",
     "group": "Scutelleridae",
+    "tags": ["Nepal"],
     "desc": null,
     "images": [
       {
