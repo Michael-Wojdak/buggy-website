@@ -10,7 +10,7 @@ eleventyComputed:
 ---
 
 <article>
-  <h1>{{ entry.name | default("", true) }}</h1>
+  <h1 class="changa-one-regular">{{ entry.name | default("", true) }}</h1>
 
   <p>{{ entry.desc | default("", true) }}</p>
 
@@ -35,7 +35,6 @@ eleventyComputed:
   <div class="masonry-gallery">
   {% for image in entry.images %}
       <img
-        class="detail-image"
         src="/images/{{ image.path  | default('', true) }}"
         alt="{{ entry.title | default('', true) | escape }}"
         loading="lazy"

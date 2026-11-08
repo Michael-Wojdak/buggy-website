@@ -169,38 +169,16 @@ html[data-theme="Sea and Stars"] {
   --navbar-text-color: var(--lavender-grey);
 }
 
-/* 5. Styling the custom toggle switch */
-.theme-toggle-input {
-  display: none;
+.changa-one-regular {
+  font-family: "Changa One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
-/* .theme-toggle-label {
-  display: inline-block;
-  width: 60px;
-  height: 32px;
-  background-color: var(--toggle-bg);
-  border-radius: 50px;
-  position: relative;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
-  } */
-  
-  .toggle-circle {
-    content: "";
-    position: absolute;
-  top: 4px;
-  left: 4px;
-  width: 24px;
-  height: 24px;
-  background-color: var(--toggle-circle);
-  border-radius: 50%;
-  /* Smooth movement across the track */
-  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1); 
-}
-
-/* Move the slider circle horizontally when checked */
-.theme-toggle-input:checked + .theme-toggle-label .toggle-circle {
-  transform: translateX(28px);
+.changa-one-regular-italic {
+  font-family: "Changa One", sans-serif;
+  font-weight: 400;
+  font-style: italic;
 }
 
 /* for paintbrush button */
@@ -210,7 +188,6 @@ html[data-theme="Sea and Stars"] {
 .theme-toggle-label:hover {
   filter: invert(51%) sepia(65%) saturate(4677%) hue-rotate(203deg) brightness(99%) contrast(96%);
 }
-
 
 
 /* Fixed aspect ratio box that centers its content */
@@ -236,8 +213,6 @@ input, select {
   border-radius: 4px;
   accent-color: var(--accent-color); */
 }
-
-
 
 
 /* Hide native checkbox */
@@ -316,4 +291,20 @@ input, select {
   object-fit: contain;
   border: 1px solid #555;
   /* border-radius: 5px; */
+}
+
+
+.about-background {
+  height: 100%;
+  min-height: 400px;
+  background-image: url("/images/Diplopoda/Pale Cherry Millipede.avif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fade-sides {
+  mask-image: linear-gradient(to right, transparent 0%, black 20%, black 80%, transparent 100%);
+  /* Required for WebKit browsers like Safari, Chrome, and Edge */
+  -webkit-mask-image: linear-gradient(to right, transparent 0%, black 20%, black 80%, transparent 100%);
 }

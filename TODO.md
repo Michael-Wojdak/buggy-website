@@ -1,6 +1,6 @@
 Features:
 - ~~random~~
-- about/home page (could include a featured image)
+- ~~about/home page (could include a featured image)~~
 - search by subgroup
 - click image for an expanded popout
 - group/subgroup pages?
@@ -17,6 +17,7 @@ Improvements:
 - svg icon match theme color
 - custom input fields
 - don't let multi-line names push card size larger than neighbors
+- caption for image of the day
 
 Infrastructure:
 - ~~switch github pages site~~

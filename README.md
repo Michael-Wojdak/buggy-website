@@ -1,7 +1,7 @@
 # Simplified static website for cataloging/sharing bug photos
 using Eleventy static site generate that runs off of Nodejs
 
-Site is deployed on github pages at `https://michael-wojdak.github.io/buggy-website`
+Site is deployed on github pages at https://michael-wojdak.github.io/buggy-website
 
 ## Eleventy Info
 build - `npx @11ty/eleventy`
@@ -34,16 +34,3 @@ Can also use [imagemagick](https://imagemagick.org/download/#windows) command to
 `magick mogrify -format avif *.heic`
 
 May need to convert images to jpg for online image search and to avif for inclusion in the site itself.
-
-
-### Converting Data Files
-find:
-"scientific":(.*),
-and replace:
-"scientific":$1,
-    "order": "Araneae",
-
-and 
-"name":(.*),
-"id":$1,
-    "name":$1,
