@@ -54,19 +54,13 @@
   color-scheme: light dark; /* Tells the browser to adapt default components */
 
   /* Default Colors */
-  --bg-color: #dededeff;
-  --section-bg-color: #bba9f1;
-  --section-pinline-color: #555;
+  --bg-color: var(--vanilla-cream);
+  --section-bg-color: var(--sage-green);
   --navbar-bg-color: var(--section-bg-color);
-  --navbar-text-color: #4e4366;
-  --sidebar-gradient-one: var(--section-bg-color);
-  --sidebar-gradient-two: var(--bg-color);
-  --text-color: #0f172a;
-  --accent-color: #eb5e28ff;
-  --toggle-bg: #cbd5e1;
-  --toggle-circle: #ffffff;
-
-  --border-color: var(--bg-color);
+  --accent-color: var(--blushed-brick);
+  --border-color: var(--dust-grey);
+  --text-color: #333;
+  --navbar-text-color: var(--vanilla-cream);
 }
 
 html[data-theme="Clean"] {
@@ -169,6 +163,10 @@ html[data-theme="Sea and Stars"] {
   --navbar-text-color: var(--lavender-grey);
 }
 
+h1,h2,h3,h4,h5,h6,p,label {
+  color: var(--text-color);
+}
+
 .changa-one-regular {
   font-family: "Changa One", sans-serif;
   font-weight: 400;
@@ -194,10 +192,7 @@ html[data-theme="Sea and Stars"] {
 .image-box {
   display: flex;
   justify-content: center;
-  align-content: center;
   width: 100%;
-  /* allows shrinking content to fit aspect ratio */
-  min-height: 0; 
   aspect-ratio: 4 / 3;
   /* border: 1px solid #555; */
   /* border-radius: 5px; */
