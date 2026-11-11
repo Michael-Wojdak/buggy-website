@@ -56,6 +56,7 @@
   /* Default Colors */
   --bg-color: var(--vanilla-cream);
   --section-bg-color: var(--sage-green);
+  --section-pinline-color: #333;
   --navbar-bg-color: var(--section-bg-color);
   --accent-color: var(--blushed-brick);
   --border-color: var(--dust-grey);
