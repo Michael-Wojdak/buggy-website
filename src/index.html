@@ -124,11 +124,14 @@ title: Search
         }
         case "Name": {
           const result = a.dataset.name.localeCompare(b.dataset.name);
-          return sortingOrder ? result : -result
+          return sortingOrder ? result : -result;
           break;
         }
         case "Group": {
-          return true !== sortingOrder; // TODO subgroup
+          if (!a.dataset.sub_category) {return sortingOrder ? 1 : -1;}
+          if (!b.dataset.sub_category) {return sortingOrder ? -1 : 1;}
+          const result = a.dataset.sub_category.localeCompare(b.dataset.sub_category);
+          return sortingOrder ? result : -result;
         }
       }
     });
