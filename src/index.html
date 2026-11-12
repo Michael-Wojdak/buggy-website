@@ -128,6 +128,10 @@ title: Search
           break;
         }
         case "Group": {
+          if (a.dataset.category != b.dataset.category) {
+            const result = a.dataset.category.localeCompare(b.dataset.category);
+            return sortingOrder ? result : -result;
+          }
           if (!a.dataset.sub_category) {return sortingOrder ? 1 : -1;}
           if (!b.dataset.sub_category) {return sortingOrder ? -1 : 1;}
           const result = a.dataset.sub_category.localeCompare(b.dataset.sub_category);
