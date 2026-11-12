@@ -1,3 +1,13 @@
+{% macro bugImage(entry, image) %}
+    <img
+        src="/images/{{ image.path }}"
+        alt="{{ entry.name | default('', true) | escape }}"
+        title="{{ image.location }}{% if image.location %}, {% endif %}{{ image.date }}{% if (image.location or image.date) and image.desc %}&#10;{% endif %}{{ image.desc }}"
+        loading="lazy"
+    >
+{% endmacro %}
+
+
 {% macro bugCard(entry) %}
     <article
         class="search-result-card"
@@ -20,26 +30,12 @@
         <a href="/entries/{{ entry.id | slugify }}/">
         <img
             src="/images/{{ entry.images[0].path }}"
-            alt="{{ entry.name | escape }}"
+            alt="{{ entry.name | default('', true) | escape }}"
             loading="lazy"
         >
         </a>
     </div>
     {% endif %}
-
-    {# Experimental: display multiple images in each card
-    <div class="search-result-gallery">
-    {% for image in entry.images %}
-        <a href="/entries/{{ entry.id }}/">
-        <img
-            src="/images/{{ image.path }}"
-            alt="{{ entry.name | escape }}"
-            loading="lazy"
-        >
-        </a>
-    {% endfor %}
-    </div>
-    #}
 
     </article>
 {% endmacro %}

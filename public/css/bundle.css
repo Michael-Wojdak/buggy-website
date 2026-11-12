@@ -277,6 +277,7 @@ input, select {
 /* Layout images in equally spaced columns */
 .masonry-gallery {
   column-count: 3;
+  column-width: 250px;
   column-gap: 16px;
 }
 

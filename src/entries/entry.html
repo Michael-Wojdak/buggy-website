@@ -9,6 +9,8 @@ eleventyComputed:
   title: "{{ entry.name | default('', true) }}"
 ---
 
+{% from "src/_includes/macros.njk" import bugImage %}
+
 <article>
   <h1 class="changa-one-regular">{{ entry.name | default("", true) }}</h1>
 
@@ -34,11 +36,7 @@ eleventyComputed:
 
   <div class="masonry-gallery">
   {% for image in entry.images %}
-      <img
-        src="/images/{{ image.path  | default('', true) }}"
-        alt="{{ entry.title | default('', true) | escape }}"
-        loading="lazy"
-      >
+      {{ bugImage(entry, image) }}
   {% endfor %}
   </div>
 

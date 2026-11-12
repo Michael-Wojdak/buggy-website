@@ -1,7 +1,7 @@
 Features:
 - ~~random~~
 - ~~about/home page (could include a featured image)~~
-- search by subgroup
+- ~~search by subgroup~~
 - click image for an expanded popout
 - group/subgroup pages?
 - button to jump back to search bar?
@@ -11,7 +11,7 @@ Data:
 - new bugs
 
 Improvements:
-- image captions
+- ~~image captions~~
 - ~~add tags (nepal/europe)~~
 - new favicon
 - svg icon match theme color
