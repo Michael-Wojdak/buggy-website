@@ -200,132 +200,93 @@
     "order": "Odonata"
   },
   {
-    "name": null,
-    "scientific": null,
-    "group": null,
+    "id": "Eastern Forktail",
+    "name": "Eastern Forktail",
+    "scientific": "Ischnura verticalis",
+    "order": "Odonata",
+    "group": "Coenagrionidae",
     "desc": null,
     "images": [
       {
-        "path": null,
+        "path": "Odonata/Eastern Forktail.avif",
         "location": "Southwest Virginia",
-        "date": "July 2025"
+        "date": "2026-07",
+        "desc": "Immature female. Develops a grayish-blue color over time."
       }
     ]
   },
   {
+    "id": null,
     "name": null,
     "scientific": null,
+    "order": "Odonata",
     "group": null,
     "desc": null,
     "images": [
       {
         "path": null,
         "location": "Southwest Virginia",
-        "date": "July 2025"
+        "date": "2026-07"
       }
     ]
   },
   {
+    "id": null,
     "name": null,
     "scientific": null,
+    "order": "Odonata",
     "group": null,
     "desc": null,
     "images": [
       {
         "path": null,
         "location": "Southwest Virginia",
-        "date": "July 2025"
+        "date": "2026-07"
       }
     ]
   },
   {
+    "id": null,
     "name": null,
     "scientific": null,
+    "order": "Odonata",
     "group": null,
     "desc": null,
     "images": [
       {
         "path": null,
         "location": "Southwest Virginia",
-        "date": "July 2025"
+        "date": "2026-07"
       }
     ]
   },
   {
+    "id": null,
     "name": null,
     "scientific": null,
+    "order": "Odonata",
     "group": null,
     "desc": null,
     "images": [
       {
         "path": null,
         "location": "Southwest Virginia",
-        "date": "July 2025"
+        "date": "2026-07"
       }
     ]
   },
   {
+    "id": null,
     "name": null,
     "scientific": null,
+    "order": "Odonata",
     "group": null,
     "desc": null,
     "images": [
       {
         "path": null,
         "location": "Southwest Virginia",
-        "date": "July 2025"
-      }
-    ]
-  },
-  {
-    "name": null,
-    "scientific": null,
-    "group": null,
-    "desc": null,
-    "images": [
-      {
-        "path": null,
-        "location": "Southwest Virginia",
-        "date": "July 2025"
-      }
-    ]
-  },
-  {
-    "name": null,
-    "scientific": null,
-    "group": null,
-    "desc": null,
-    "images": [
-      {
-        "path": null,
-        "location": "Southwest Virginia",
-        "date": "July 2025"
-      }
-    ]
-  },
-  {
-    "name": null,
-    "scientific": null,
-    "group": null,
-    "desc": null,
-    "images": [
-      {
-        "path": null,
-        "location": "Southwest Virginia",
-        "date": "July 2025"
-      }
-    ]
-  },
-  {
-    "name": null,
-    "scientific": null,
-    "group": null,
-    "desc": null,
-    "images": [
-      {
-        "path": null,
-        "location": "Southwest Virginia",
-        "date": "July 2025"
+        "date": "2026-01"
       }
     ]
   }

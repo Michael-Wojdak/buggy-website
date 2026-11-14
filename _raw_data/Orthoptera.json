@@ -219,6 +219,11 @@
         "path": "Orthoptera/Differential Grasshopper.avif",
         "location": "Southwest Virginia",
         "date": "2024-08"
+      },
+      {
+        "path": "Orthoptera/Differential Grasshopper 2.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-07"
       }
     ],
     "id": "Differential Grasshopper",
@@ -257,6 +262,7 @@
   {
     "name": null,
     "scientific": null,
+    "order": "Orthoptera",
     "group": null,
     "desc": null,
     "images": [
@@ -270,6 +276,7 @@
   {
     "name": null,
     "scientific": null,
+    "order": "Orthoptera",
     "group": null,
     "desc": null,
     "images": [
@@ -283,6 +290,7 @@
   {
     "name": null,
     "scientific": null,
+    "order": "Orthoptera",
     "group": null,
     "desc": null,
     "images": [
@@ -296,6 +304,7 @@
   {
     "name": null,
     "scientific": null,
+    "order": "Orthoptera",
     "group": null,
     "desc": null,
     "images": [
@@ -309,45 +318,7 @@
   {
     "name": null,
     "scientific": null,
-    "group": null,
-    "desc": null,
-    "images": [
-      {
-        "path": "Orthoptera/",
-        "location": "Southwest Virginia",
-        "date": "Aug. 2025"
-      }
-    ]
-  },
-  {
-    "name": null,
-    "scientific": null,
-    "group": null,
-    "desc": null,
-    "images": [
-      {
-        "path": "Orthoptera/",
-        "location": "Southwest Virginia",
-        "date": "Aug. 2025"
-      }
-    ]
-  },
-  {
-    "name": null,
-    "scientific": null,
-    "group": null,
-    "desc": null,
-    "images": [
-      {
-        "path": "Orthoptera/",
-        "location": "Southwest Virginia",
-        "date": "Aug. 2025"
-      }
-    ]
-  },
-  {
-    "name": null,
-    "scientific": null,
+    "order": "Orthoptera",
     "group": null,
     "desc": null,
     "images": [

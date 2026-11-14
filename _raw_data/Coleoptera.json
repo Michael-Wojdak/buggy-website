@@ -541,14 +541,17 @@
       {
         "path": "Coleoptera/dogbane beetle.avif",
         "location": "Southwest Virginia",
-        "date": "2022-06",
-        "width": "49%"
+        "date": "2022-06"
       },
       {
         "path": "Coleoptera/dogbane beetle (2).avif",
         "location": "Southwest Virginia",
-        "date": "2024-07",
-        "width": "49%"
+        "date": "2024-07"
+      },
+      {
+        "path": "Coleoptera/Dogbane Beetle Pair.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-07"
       }
     ]
   },
@@ -957,17 +960,57 @@
     ]
   },
   {
-    "id": null,
-    "name": null,
-    "scientific": null,
+    "id": "Broad-necked Root Borer",
+    "name": "Broad-necked Root Borer",
+    "scientific": "Prionus laticollis",
     "order": "Coleoptera",
-    "group": null,
+    "group": "Cerambycidae",
     "desc": null,
     "images": [
       {
-        "path": "Coleoptera/",
+        "path": "Coleoptera/Broad-necked Root Borer.avif",
         "location": "Southwest Virginia",
-        "date": "April 2026"
+        "date": "2026-07"
+      }
+    ]
+  },
+  {
+    "id": "Calleida viridipennis",
+    "name": "Calleida viridipennis",
+    "scientific": "Calleida viridipennis",
+    "order": "Coleoptera",
+    "group": "Carabidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/Calleida viridipennis.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-07"
+      }
+    ]
+  },
+  {
+    "id": "Locust Borer",
+    "name": "Locust Borer",
+    "scientific": "Megacyllene robiniae",
+    "order": "Coleoptera",
+    "group": "Cerambycidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/Locust Borer.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-09"
+      },
+      {
+        "path": "Coleoptera/Locust Borer 2.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-09"
+      },
+      {
+        "path": "Coleoptera/Locust Borer 3.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-09"
       }
     ]
   },
@@ -982,7 +1025,22 @@
       {
         "path": "Coleoptera/",
         "location": "Southwest Virginia",
-        "date": "April 2026"
+        "date": "2026-01"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": null,
+    "scientific": null,
+    "order": "Coleoptera",
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Coleoptera/",
+        "location": "Southwest Virginia",
+        "date": "2026-01"
       }
     ]
   }

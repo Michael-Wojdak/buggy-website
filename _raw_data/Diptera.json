@@ -85,6 +85,16 @@
     "desc": "They tend to hang by their front legs while consuming prey.",
     "images": [
       {
+        "path": "Diptera/Plain-tailed Hanging Thief 3.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-09"
+      },
+      {
+        "path": "Diptera/Plain-tailed Hanging Thief 4.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-09"
+      },
+      {
         "path": "Diptera/Plain-tailed Hanging Thief.avif",
         "location": "Southwest Virginia",
         "date": "2025-07",
@@ -588,28 +598,107 @@
     "order": "Diptera"
   },
   {
-    "name": null,
-    "scientific": null,
-    "group": null,
+    "id": "Drone Fly",
+    "name": "Drone Fly",
+    "scientific": "Eristalis tenax",
+    "order": "Diptera",
+    "group": "Syrphidae",
     "desc": null,
     "images": [
       {
-        "path": "Diptera/",
-        "location": "Great Smoky Mountains, Tennessee",
-        "date": "May 2026"
+        "path": "Diptera/Drone Fly.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-09"
       }
     ]
   },
   {
+    "id": "Common Eastern Physocephala",
+    "name": "Common Eastern Physocephala",
+    "scientific": "Physocephala tibialis",
+    "order": "Diptera",
+    "group": "Conopidae",
+    "desc": "These flies parasitize bees, laying an egg on a living host where the larva hatches and develops, eventually killing the host and pupating inside its corpse. Newly emerged flies break out of the hosts body by inflating a membrane on their forhead known as a ptilinum.",
+    "images": [
+      {
+        "path": "Diptera/Common Eastern Physocephala.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-08"
+      }
+    ]
+  },
+  {
+    "id": null,
     "name": null,
     "scientific": null,
+    "order": "Diptera",
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Diptera/",
+        "location": "Southwest Virginia",
+        "date": "2026-01"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": null,
+    "scientific": null,
+    "order": "Diptera",
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Diptera/",
+        "location": "Southwest Virginia",
+        "date": "2026-01"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": null,
+    "scientific": null,
+    "order": "Diptera",
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Diptera/",
+        "location": "Southwest Virginia",
+        "date": "2026-01"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": null,
+    "scientific": null,
+    "order": "Diptera",
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Diptera/",
+        "location": "Southwest Virginia",
+        "date": "2026-01"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": null,
+    "scientific": null,
+    "order": "Diptera",
     "group": null,
     "desc": null,
     "images": [
       {
         "path": "Diptera/",
         "location": "Great Smoky Mountains, Tennessee",
-        "date": "May 2026"
+        "date": "2026-01"
       }
     ]
   }

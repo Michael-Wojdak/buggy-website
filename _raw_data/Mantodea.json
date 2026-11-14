@@ -30,12 +30,18 @@
     "name": "Chinese Mantis",
     "scientific": "Tenodera sinensis",
     "group": "Mantidae",
-    "desc": "Egg case known as an ootheca.",
+    "desc": null,
     "images": [
+      {
+        "path": "Mantodea/Chinese Mantis.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-09"
+      },
       {
         "path": "Mantodea/Chinese Mantis Egg.avif",
         "location": "Coastal Virginia",
-        "date": "2023-01"
+        "date": "2023-01",
+        "desc": "Egg case known as an ootheca."
       }
     ],
     "id": "Chinese Mantis",
@@ -99,104 +105,15 @@
     "order": "Mantodea"
   },
   {
+    "id": null,
     "name": null,
     "scientific": null,
+    "order": "Mantodea",
     "group": null,
     "desc": null,
     "images": [
       {
-        "path": null,
-        "location": "Southwest Virginia",
-        "date": "Oct. 2025"
-      }
-    ]
-  },
-  {
-    "name": null,
-    "scientific": null,
-    "group": null,
-    "desc": null,
-    "images": [
-      {
-        "path": null,
-        "location": "Southwest Virginia",
-        "date": "Oct. 2025"
-      }
-    ]
-  },
-  {
-    "name": null,
-    "scientific": null,
-    "group": null,
-    "desc": null,
-    "images": [
-      {
-        "path": null,
-        "location": "Southwest Virginia",
-        "date": "Oct. 2025"
-      }
-    ]
-  },
-  {
-    "name": null,
-    "scientific": null,
-    "group": null,
-    "desc": null,
-    "images": [
-      {
-        "path": null,
-        "location": "Southwest Virginia",
-        "date": "Oct. 2025"
-      }
-    ]
-  },
-  {
-    "name": null,
-    "scientific": null,
-    "group": null,
-    "desc": null,
-    "images": [
-      {
-        "path": null,
-        "location": "Southwest Virginia",
-        "date": "Oct. 2025"
-      }
-    ]
-  },
-  {
-    "name": null,
-    "scientific": null,
-    "group": null,
-    "desc": null,
-    "images": [
-      {
-        "path": null,
-        "location": "Southwest Virginia",
-        "date": "Oct. 2025"
-      }
-    ]
-  },
-  {
-    "name": null,
-    "scientific": null,
-    "group": null,
-    "desc": null,
-    "images": [
-      {
-        "path": null,
-        "location": "Southwest Virginia",
-        "date": "Oct. 2025"
-      }
-    ]
-  },
-  {
-    "name": null,
-    "scientific": null,
-    "group": null,
-    "desc": null,
-    "images": [
-      {
-        "path": null,
+        "path": "Mantodea/",
         "location": "Southwest Virginia",
         "date": "Oct. 2025"
       }

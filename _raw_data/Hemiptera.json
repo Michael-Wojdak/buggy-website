@@ -9,6 +9,21 @@
         "path": "Hemiptera/Broad-headed Sharpshooter.avif",
         "location": "Southwest Virginia",
         "date": "2025-08"
+      },
+      {
+        "path": "Hemiptera/Broad-headed Sharpshooter 2.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-07"
+      },
+      {
+        "path": "Hemiptera/Broad-headed Sharpshooter 3.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-07"
+      },
+      {
+        "path": "Hemiptera/Broad-headed Sharpshooter 4.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-07"
       }
     ],
     "id": "Broad-headed Sharpshooter",
@@ -56,6 +71,11 @@
         "path": "Hemiptera/Large Milkweed Bug.avif",
         "location": "Southwest Virginia",
         "date": "2022-07"
+      },
+      {
+        "path": "Hemiptera/Large Milkweed Bug 2.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-07"
       }
     ],
     "id": "Large Milkweed Bug",
@@ -286,11 +306,21 @@
     "order": "Hemiptera"
   },
   {
-    "name": "Emesaya brevipennis",
+    "name": "Thread-legged Assassin Bug",
     "scientific": "Emesaya brevipennis",
     "group": "Reduviidae",
     "desc": "While this insect closely resembles a stick insect, it is actually a member of the assassin bug family. It possesses raptorial forelegs similar to those found on praying mantids. Reportedly, these insects prey on spiders.",
     "images": [
+      {
+        "path": "Hemiptera/Thread-legged Assassin Bug.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-09"
+      },
+      {
+        "path": "Hemiptera/Thread-legged Assassin Bug 2.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-09"
+      },
       {
         "path": "Hemiptera/Emesaya brevipennis.avif",
         "location": "Southwest Virginia",
@@ -539,19 +569,22 @@
     "desc": null,
     "images": [
       {
+        "path": "Hemiptera/Jagged Ambush Bug Pair.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-09"
+      },
+      {
         "path": "Hemiptera/Jagged Ambush Bug.avif",
         "location": "Southwest Virginia",
-        "date": "2023-07",
-        "width": "49%"
+        "date": "2023-07"
       },
       {
         "path": "Hemiptera/Jagged Ambush Bug2.avif",
         "location": "Southwest Virginia",
-        "date": "2024-07",
-        "width": "49%"
+        "date": "2024-07"
       },
       {
-        "path": "Hemiptera/Jagged Ambush Bug3.avif",
+        "path": "Hemiptera/Jagged Ambush Bug Feeding.avif",
         "location": "Southwest Virginia",
         "date": "2024-08"
       }
@@ -757,67 +790,132 @@
     "order": "Hemiptera"
   },
   {
-    "name": null,
-    "scientific": null,
-    "group": null,
+    "id": "Eastern Leaf-footed Bug",
+    "name": "Eastern Leaf-footed Bug",
+    "scientific": "Leptoglossus phyllopus",
+    "order": "Hemiptera",
+    "group": "Coreidae",
     "desc": null,
     "images": [
       {
-        "path": "Hemiptera/White Rice Leafhopper.avif",
+        "path": "Hemiptera/Eastern Leaf-footed Bug Nymphs.avif",
         "location": "Southwest Virginia",
-        "date": "Oct. 2025"
+        "date": "2026-09"
       }
     ]
   },
   {
-    "name": null,
-    "scientific": null,
-    "group": null,
+    "id": "Green Stink Bug",
+    "name": "Green Stink Bug",
+    "scientific": "Chinavia hilaris",
+    "order": "Hemiptera",
+    "group": "Pentatomidae",
     "desc": null,
     "images": [
       {
-        "path": "Hemiptera/White Rice Leafhopper.avif",
+        "path": "Hemiptera/Green Stink Bug.avif",
         "location": "Southwest Virginia",
-        "date": "Oct. 2025"
+        "date": "2026-09"
       }
     ]
   },
   {
-    "name": null,
-    "scientific": null,
-    "group": null,
+    "id": "Ringed Assassin Bug",
+    "name": "Ringed Assassin Bug",
+    "scientific": "Pselliopus cinctus",
+    "order": "Hemiptera",
+    "group": "Reduviidae",
     "desc": null,
     "images": [
       {
-        "path": "Hemiptera/White Rice Leafhopper.avif",
+        "path": "Hemiptera/Ringed Assassin Bug.avif",
         "location": "Southwest Virginia",
-        "date": "Oct. 2025"
+        "date": "2026-09"
+      },
+      {
+        "path": "Hemiptera/Ringed Assassin Bug 2.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-09"
+      },
+      {
+        "path": "Hemiptera/Ringed Assassin Bug Feeding.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-09"
       }
     ]
   },
   {
-    "name": null,
-    "scientific": null,
-    "group": null,
+    "id": "Velvet-striped Planthopper",
+    "name": "Velvet-striped Planthopper",
+    "scientific": "Aplos simplex",
+    "order": "Hemiptera",
+    "group": "Issida",
     "desc": null,
     "images": [
       {
-        "path": "Hemiptera/White Rice Leafhopper.avif",
+        "path": "Hemiptera/Velvet-striped Planthopper.avif",
         "location": "Southwest Virginia",
-        "date": "Oct. 2025"
+        "date": "2026-09"
       }
     ]
   },
   {
+    "id": null,
     "name": null,
     "scientific": null,
+    "order": "Hemiptera",
     "group": null,
     "desc": null,
     "images": [
       {
-        "path": "Hemiptera/White Rice Leafhopper.avif",
+        "path": "Hemiptera/",
         "location": "Southwest Virginia",
-        "date": "Oct. 2025"
+        "date": "2026-01"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": null,
+    "scientific": null,
+    "order": "Hemiptera",
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Hemiptera/",
+        "location": "Southwest Virginia",
+        "date": "2026-01"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": null,
+    "scientific": null,
+    "order": "Hemiptera",
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Hemiptera/",
+        "location": "Southwest Virginia",
+        "date": "2026-01"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": null,
+    "scientific": null,
+    "order": "Hemiptera",
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Hemiptera/",
+        "location": "Southwest Virginia",
+        "date": "2026-01"
       }
     ]
   }

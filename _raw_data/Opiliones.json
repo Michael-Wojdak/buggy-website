@@ -9,6 +9,11 @@
         "path": "Opiliones/Harvestman.avif",
         "location": "Southwest Virginia",
         "date": "2026-05"
+      },
+      {
+        "path": "Opiliones/Harvestman Eating Lanternfly.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-07"
       }
     ],
     "id": "Harvestmen",
@@ -17,6 +22,7 @@
   {
     "name": null,
     "scientific": null,
+    "order": "Opiliones",
     "group": null,
     "desc": null,
     "images": [

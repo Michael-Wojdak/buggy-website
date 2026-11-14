@@ -7,7 +7,7 @@ Features:
 - button to jump back to search bar?
 
 Data:
-- rotate/new primary images
+- ~~rotate/new primary images~~
 - new bugs
 
 Improvements:

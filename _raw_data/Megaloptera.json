@@ -28,5 +28,25 @@
     ],
     "id": "Serrate Dark Fishfly",
     "order": "Megaloptera"
+  },
+  {
+    "name": "Eastern Dobsonfly",
+    "scientific": "Corydalus cornutus",
+    "order": "Megaloptera",
+    "group": "Corydalidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Megaloptera/Eastern Dobsonfly.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-07"
+      },
+      {
+        "path": "Megaloptera/Eastern Dobsonfly 2.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-07"
+      }
+    ],
+    "id": "Eastern Dobsonfly"
   }
 ]

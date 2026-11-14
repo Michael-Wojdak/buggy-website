@@ -81,7 +81,18 @@ title: About
 
     (async function() {
         // Could build this list using a template, but might want to pull images from different places
-        const images = ["{{ '/images/Cocoon.avif' | htmlBaseUrl }}", "{{ '/images/Hang In There.avif' | htmlBaseUrl }}", "{{ '/images/Camoflauge.avif' | htmlBaseUrl }}"];
+        const images = [
+            "{{ '/images/Cocoon.avif' | htmlBaseUrl }}",
+            "{{ '/images/Hang In There.avif' | htmlBaseUrl }}",
+            "{{ '/images/Camoflauge.avif' | htmlBaseUrl }}",
+            "{{ '/images/Ants Sharing Food.avif' | htmlBaseUrl }}",
+            "{{ '/images/Alate Pair.avif' | htmlBaseUrl }}",
+            "{{ '/images/spider silhouette.avif' | htmlBaseUrl }}",
+            "{{ '/images/treehopper nymph with ants.avif' | htmlBaseUrl }}",
+            "{{ '/images/Spider in Leaf.avif' | htmlBaseUrl }}",
+            "{{ '/images/Perfect Duo.avif' | htmlBaseUrl }}",
+            "{{ '/images/Hemiptera/Jagged Ambush Bug Feeding.avif' | htmlBaseUrl }}",
+        ];
         const shuffledImages = shuffleArray(images, "wallnut");
         const image = shuffledImages[getDaysSince("2026-01-01") % shuffledImages.length];
 

@@ -488,17 +488,22 @@
     ]
   },
   {
-    "id": null,
-    "name": null,
-    "scientific": null,
+    "id": "Humped Trashline Orbweaver",
+    "name": "Humped Trashline Orbweaver",
+    "scientific": "Cyclosa turbinata",
     "order": "Araneae",
-    "group": null,
+    "group": "Araneidae",
     "desc": null,
     "images": [
       {
-        "path": "Araneae/",
+        "path": "Araneae/Humped Trashline Orbweaver.avif",
         "location": "Southwest Virginia",
-        "date": "2025-10"
+        "date": "2026-09"
+      },
+      {
+        "path": "Araneae/Humped Trashline Orbweaver 2.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-09"
       }
     ]
   },

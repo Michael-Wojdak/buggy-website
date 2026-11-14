@@ -213,6 +213,16 @@
     "desc": null,
     "images": [
       {
+        "path": "Lepidoptera/Great Spangled Fritillary 3.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-07"
+      },
+      {
+        "path": "Lepidoptera/Great Spangled Fritillary 2.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-07"
+      },
+      {
         "path": "Lepidoptera/Great Spangled Fritillary.avif",
         "location": "Southwest Virginia",
         "date": "2024-06"
@@ -439,14 +449,14 @@
     "desc": null,
     "images": [
       {
-        "path": "Lepidoptera/Luna Moth.avif",
-        "location": "Southwest Virginia",
-        "date": "2022-06"
-      },
-      {
         "path": "Lepidoptera/Luna Moth2.JPEG",
         "location": "Southwest Virginia",
         "date": "2026-04"
+      },
+      {
+        "path": "Lepidoptera/Luna Moth.avif",
+        "location": "Southwest Virginia",
+        "date": "2022-06"
       }
     ],
     "id": "Luna Moth",
@@ -1425,41 +1435,217 @@
     "order": "Lepidoptera"
   },
   {
-    "name": null,
-    "scientific": null,
-    "group": null,
+    "id": "Orangestriped Oakworm",
+    "name": "Orangestriped Oakworm",
+    "scientific": "Anisota senatoria",
+    "order": "Lepidoptera",
+    "group": "Saturniidae",
     "desc": null,
     "images": [
       {
-        "path": "Lepidoptera/",
+        "path": "Lepidoptera/Orangestriped Oakworm.avif",
         "location": "Southwest Virginia",
-        "date": "Oct. 2025"
+        "date": "2026-09"
       }
     ]
   },
   {
-    "name": null,
-    "scientific": null,
-    "group": null,
+    "id": "Rosy Maple Moth",
+    "name": "Rosy Maple Moth",
+    "scientific": "Dryocampa rubicunda",
+    "order": "Lepidoptera",
+    "group": "Saturniidae",
     "desc": null,
     "images": [
       {
-        "path": "Lepidoptera/",
+        "path": "Lepidoptera/Rosy Maple Moth.avif",
         "location": "Southwest Virginia",
-        "date": "Oct. 2025"
+        "date": "2026-09"
       }
     ]
   },
   {
+    "id": "Imperial Moth",
+    "name": "Imperial Moth",
+    "scientific": "Eacles imperialis",
+    "order": "Lepidoptera",
+    "group": "Saturniidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Imperial Moth2.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-09"
+      }
+    ]
+  },
+  {
+    "id": "Dogbane Saucrobotys Moth",
+    "name": "Dogbane Saucrobotys Moth",
+    "scientific": "Saucrobotys futilalis",
+    "order": "Lepidoptera",
+    "group": "Crambidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Dogbane Saucrobotys Moth Caterpillar.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-08"
+      }
+    ]
+  },
+  {
+    "id": "Sycamore Tussock Moth Caterpillar",
+    "name": "Sycamore Tussock Moth",
+    "scientific": "Halysidota harrisii",
+    "order": "Lepidoptera",
+    "group": "Erebidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Sycamore Tussock Moth Caterpillar.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-07"
+      }
+    ]
+  },
+  {
+    "id": "Skipper",
+    "name": "Skipper",
+    "scientific": null,
+    "order": "Lepidoptera",
+    "group": "Hesperiidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Unidentified Skipper.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-09"
+      }
+    ]
+  },
+  {
+    "id": "Delicate Cycnia Moth",
+    "name": "Delicate Cycnia Moth",
+    "scientific": "Cycnia tenera",
+    "order": "Lepidoptera",
+    "group": "Erebidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Delicate Cycnia Moth.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-07"
+      }
+    ]
+  },
+  {
+    "id": "Pink-Spotted Dart",
+    "name": "Pink-Spotted Dart",
+    "scientific": "Pseudohermonassa bicarnea",
+    "order": "Lepidoptera",
+    "group": "Noctuidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Pink-Spotted Dart.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-07"
+      }
+    ]
+  },
+  {
+    "id": "Catalpa Sphinx Moth",
+    "name": "Catalpa Sphinx Moth",
+    "scientific": "Ceratomia catalpa",
+    "order": "Lepidoptera",
+    "group": "Sphingidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/Catalpa Sphinx Moth Caterpillar.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-07"
+      }
+    ]
+  },
+  {
+    "id": "Virginian Tiger Moth",
+    "name": "Virginian Tiger Moth",
+    "scientific": "Spilosoma virginica",
+    "order": "Lepidoptera",
+    "group": "Erebidae",
+    "desc": "Caterpillars are known as the yellow woollybear.",
+    "images": [
+      {
+        "path": "Lepidoptera/Virginian Tiger Moth.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-07"
+      },
+      {
+        "path": "Lepidoptera/Yellow Woollybear.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-09"
+      }
+    ]
+  },
+  {
+    "id": null,
     "name": null,
     "scientific": null,
+    "order": "Lepidoptera",
     "group": null,
     "desc": null,
     "images": [
       {
         "path": "Lepidoptera/",
         "location": "Southwest Virginia",
-        "date": "Oct. 2025"
+        "date": "2026-01"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": null,
+    "scientific": null,
+    "order": "Lepidoptera",
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/",
+        "location": "Southwest Virginia",
+        "date": "2026-01"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": null,
+    "scientific": null,
+    "order": "Lepidoptera",
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/",
+        "location": "Southwest Virginia",
+        "date": "2026-01"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": null,
+    "scientific": null,
+    "order": "Lepidoptera",
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Lepidoptera/",
+        "location": "Southwest Virginia",
+        "date": "2026-01"
       }
     ]
   }

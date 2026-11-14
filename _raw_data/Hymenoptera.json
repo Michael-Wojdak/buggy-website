@@ -267,6 +267,11 @@
     "desc": "The adults feed on flowers and dig in the ground in search of June beetle larvae to lay their eggs on.",
     "images": [
       {
+        "path": "Hymenoptera/Scolia dubia 3.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-09"
+      },
+      {
         "path": "Hymenoptera/Scolia dubia.avif",
         "location": "Southwest Virginia",
         "date": "2022-08"
@@ -689,28 +694,97 @@
     "order": "Hymenoptera"
   },
   {
-    "name": null,
-    "scientific": null,
-    "group": null,
+    "id": "Parancistrocerus fulvipes",
+    "name": "Parancistrocerus fulvipes",
+    "scientific": "Parancistrocerus fulvipes",
+    "order": "Hymenoptera",
+    "group": "Vespidae",
     "desc": null,
     "images": [
       {
-        "path": "Hymenoptera/",
+        "path": "Hymenoptera/Parancistrocerus fulvipes.avif",
         "location": "Southwest Virginia",
-        "date": "Oct. 2025"
+        "date": "2026-07"
       }
     ]
   },
   {
+    "id": "Four-toothed Mason Wasp",
+    "name": "Four-toothed Mason Wasp",
+    "scientific": "Monobia quadridens",
+    "order": "Hymenoptera",
+    "group": "Vespidae",
+    "desc": null,
+    "images": [
+      {
+        "path": "Hymenoptera/Four-toothed Mason Wasp.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-09"
+      },
+      {
+        "path": "Hymenoptera/Four-toothed Mason Wasp 2.avid",
+        "location": "Southwest Virginia",
+        "date": "2026-09"
+      }
+    ]
+  },
+  {
+    "id": null,
     "name": null,
     "scientific": null,
+    "order": "Hymenoptera",
     "group": null,
     "desc": null,
     "images": [
       {
         "path": "Hymenoptera/",
         "location": "Southwest Virginia",
-        "date": "Oct. 2025"
+        "date": "2026-01"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": null,
+    "scientific": null,
+    "order": "Hymenoptera",
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Hymenoptera/",
+        "location": "Southwest Virginia",
+        "date": "2026-01"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": null,
+    "scientific": null,
+    "order": "Hymenoptera",
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Hymenoptera/",
+        "location": "Southwest Virginia",
+        "date": "2026-01"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "name": null,
+    "scientific": null,
+    "order": "Hymenoptera",
+    "group": null,
+    "desc": null,
+    "images": [
+      {
+        "path": "Hymenoptera/",
+        "location": "Southwest Virginia",
+        "date": "2026-01"
       }
     ]
   }
