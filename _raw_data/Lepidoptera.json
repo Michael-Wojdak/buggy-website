@@ -1293,21 +1293,6 @@
     "order": "Lepidoptera"
   },
   {
-    "name": "Black Swallowtail",
-    "scientific": "Papilio polyxenes",
-    "group": "Papilionidae",
-    "desc": null,
-    "images": [
-      {
-        "path": "Lepidoptera/Black Swallowtail Caterpillar.avif",
-        "location": "Southwest Virginia",
-        "date": "2023-07"
-      }
-    ],
-    "id": "Black Swallowtail",
-    "order": "Lepidoptera"
-  },
-  {
     "name": "Morning-glory Prominent",
     "scientific": "Schizura ipomoeae",
     "group": "Notodontidae",
@@ -1590,47 +1575,67 @@
     ]
   },
   {
-    "id": null,
-    "name": null,
-    "scientific": null,
+    "id": "Black Swallowtail Caterpillar",
+    "name": "Black Swallowtail Caterpillar",
+    "scientific": "Papilio polyxenes",
     "order": "Lepidoptera",
-    "group": null,
+    "group": "Papilionidae",
     "desc": null,
     "images": [
       {
-        "path": "Lepidoptera/",
+        "path": "Lepidoptera/Black Swallowtail Caterpillar 4.avif",
         "location": "Southwest Virginia",
-        "date": "2026-01"
+        "date": "2026-09"
+      },
+      {
+        "path": "Lepidoptera/Black Swallowtail Caterpillar 2.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-09"
+      },
+      {
+        "path": "Lepidoptera/Black Swallowtail Caterpillar 3.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-09"
+      },
+      {
+        "path": "Lepidoptera/Black Swallowtail Caterpillar.avif",
+        "location": "Southwest Virginia",
+        "date": "2023-07"
       }
     ]
   },
   {
-    "id": null,
-    "name": null,
-    "scientific": null,
+    "id": "Variable Reddish Pyrausta Moth",
+    "name": "Variable Reddish Pyrausta Moth",
+    "scientific": "Pyrausta rubricalis",
     "order": "Lepidoptera",
-    "group": null,
+    "group": "Crambidae",
     "desc": null,
     "images": [
       {
-        "path": "Lepidoptera/",
+        "path": "Lepidoptera/Variable Reddish Pyrausta Moth.avif",
         "location": "Southwest Virginia",
-        "date": "2026-01"
+        "date": "2026-10"
       }
     ]
   },
   {
-    "id": null,
-    "name": null,
-    "scientific": null,
+    "id": "Woolly Bear",
+    "name": "Woolly Bear",
+    "scientific": "Pyrrharctia isabella",
     "order": "Lepidoptera",
-    "group": null,
+    "group": "Erebidae",
     "desc": null,
     "images": [
       {
-        "path": "Lepidoptera/",
+        "path": "Lepidoptera/Woolly Bear.avif",
         "location": "Southwest Virginia",
-        "date": "2026-01"
+        "date": "2026-10"
+      },
+      {
+        "path": "Lepidoptera/Woolly Bear 2.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-10"
       }
     ]
   },

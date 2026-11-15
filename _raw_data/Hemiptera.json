@@ -860,17 +860,17 @@
     ]
   },
   {
-    "id": null,
-    "name": null,
-    "scientific": null,
+    "id": "Spined Soldier Bug",
+    "name": "Spined Soldier Bug",
+    "scientific": "Podisus maculiventris",
     "order": "Hemiptera",
-    "group": null,
+    "group": "Pentatomidae",
     "desc": null,
     "images": [
       {
-        "path": "Hemiptera/",
+        "path": "Hemiptera/Spined Soldier Bug.avif",
         "location": "Southwest Virginia",
-        "date": "2026-01"
+        "date": "2026-10"
       }
     ]
   },

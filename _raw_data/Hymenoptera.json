@@ -729,17 +729,37 @@
     ]
   },
   {
-    "id": null,
-    "name": null,
-    "scientific": null,
+    "id": "Dusona species",
+    "name": "Dusona species",
+    "scientific": "Dusona species",
     "order": "Hymenoptera",
-    "group": null,
+    "group": "Ichneumonidae",
     "desc": null,
     "images": [
       {
-        "path": "Hymenoptera/",
+        "path": "Hymenoptera/Dusona species Stinging Caterpillar 2.avif",
         "location": "Southwest Virginia",
-        "date": "2026-01"
+        "date": "2026-10"
+      },
+      {
+        "path": "Hymenoptera/Dusona species Sting Miss.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-10"
+      },
+      {
+        "path": "Hymenoptera/Dusona species.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-10"
+      },
+      {
+        "path": "Hymenoptera/Dusona species 2.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-10"
+      },
+      {
+        "path": "Hymenoptera/Dusona species Stinging Caterpillar.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-10"
       }
     ]
   },

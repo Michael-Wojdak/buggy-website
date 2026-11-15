@@ -178,12 +178,19 @@
     "scientific": "Dolomedes tenebrosus",
     "order": "Araneae",
     "group": "Dolomedidae",
-    "desc": "Like water striders, fishing spiders are able to float on the water's surface using water tension. They hunt along the edges of bodies of water, capturing prey that is trapped on the surface. While this species tends to be more arboreal and less dependent on aquatic habitats, this individual was found only a few feet from the riverside.",
+    "desc": "Like water striders, fishing spiders are able to float on the water's surface using water tension. They hunt along the edges of bodies of water, capturing prey that is trapped on the surface.",
     "images": [
+      {
+        "path": "Araneae/Dark Fishing Spider 2.avif",
+        "location": "Southwest Virginia",
+        "date": "2026-10",
+        "desc": "Though it looks ready for action, this spider was actually dead."
+      },
       {
         "path": "Araneae/dark fishing spider.avif",
         "location": "Southwest Virginia",
-        "date": "2023-06"
+        "date": "2023-06",
+        "desc": "While this species tends to be more arboreal and less dependent on aquatic habitats, this individual was found only a few feet from the riverside."
       }
     ]
   },
@@ -454,21 +461,19 @@
     "desc": null,
     "images": [
       {
-        "path": "Araneae/Bold Jumper.avif",
+        "path": "Araneae/Bold Jumping Spider3.avif",
         "location": "Southwest Virginia",
-        "date": "2022-05"
+        "date": "2026-06"
       },
       {
         "path": "Araneae/Bold Jumping Spider2.avif",
         "location": "Southwest Virginia",
-        "date": "2026-06",
-        "width": "49%"
+        "date": "2026-06"
       },
       {
-        "path": "Araneae/Bold Jumping Spider3.avif",
+        "path": "Araneae/Bold Jumper.avif",
         "location": "Southwest Virginia",
-        "date": "2026-06",
-        "width": "49%"
+        "date": "2022-05"
       }
     ]
   },
@@ -508,17 +513,17 @@
     ]
   },
   {
-    "id": null,
-    "name": null,
-    "scientific": null,
+    "id": "Broad-faced Sac Spider",
+    "name": "Broad-faced Sac Spider",
+    "scientific": "Trachelas tranquillus",
     "order": "Araneae",
-    "group": null,
+    "group": "Trachelidae",
     "desc": null,
     "images": [
       {
-        "path": "Araneae/",
+        "path": "Araneae/Broad-faced Sac Spider.avif",
         "location": "Southwest Virginia",
-        "date": "2025-10"
+        "date": "2026-10"
       }
     ]
   },

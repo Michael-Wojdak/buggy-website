@@ -1,5 +1,6 @@
-# Simplified static website for cataloging/sharing bug photos
-using Eleventy static site generate that runs off of Nodejs
+# Static website for cataloging/sharing bug photos
+
+Built using Eleventy.
 
 Site is deployed on github pages at https://michael-wojdak.github.io/buggy-website
 
@@ -23,14 +24,13 @@ apply the correct site base url so everything works both locally and on github p
 
 
 ### Image formats
-iphone images use heic. image search seems to require jpg, png, or webp. avif or webp seem to have the best compression/quality for displaying on the website.
+iphone images use heic. Currently going with .avif since it seems to have the good compression/quality and Google image search recently added support for it.
 
-Previously was converting everything to jpg and using window's photo app to edit images. Switching to avif to save space and better quality images.
+Previously was converting everything to jpg and using window's photo app to edit images. Switching to avif to save space and keep better quality images.
 
-Can use gimp to crop images and save as avif (check fixed aspect ratio and enter a ratio e.g. `5:4`, export as avif with exif metadata).
+Can use gimp to crop images and save as avif (check fixed aspect ratio and enter a ratio e.g. `4:3`, export as avif with exif metadata).
 
 Can also use [imagemagick](https://imagemagick.org/download/#windows) command to bulk convert images (should keep metadata and have good quality/size balance)
 `magick input.heic output.avif`
 `magick mogrify -format avif *.heic`
 
-May need to convert images to jpg for online image search and to avif for inclusion in the site itself.

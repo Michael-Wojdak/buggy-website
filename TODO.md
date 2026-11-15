@@ -8,7 +8,7 @@ Features:
 
 Data:
 - ~~rotate/new primary images~~
-- new bugs
+- ~~new bugs~~
 
 Improvements:
 - ~~image captions~~
