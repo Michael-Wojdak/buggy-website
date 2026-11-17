@@ -14,7 +14,7 @@ Improvements:
 - ~~image captions~~
 - ~~add tags (nepal/europe)~~
 - new favicon
-- svg icon match theme color
+- ~~svg icon match theme color~~
 - custom input fields
 - don't let multi-line names push card size larger than neighbors
 - caption for image of the day

@@ -182,10 +182,16 @@ h1,h2,h3,h4,h5,h6,p,label {
 
 /* for paintbrush button */
 .theme-toggle-label {
+  fill: var(--navbar-text-color);
   cursor: pointer;
+  /* Smooth movement */
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1); 
 }
 .theme-toggle-label:hover {
-  filter: invert(51%) sepia(65%) saturate(4677%) hue-rotate(203deg) brightness(99%) contrast(96%);
+  transform: translateY(3px);
+}
+.theme-toggle-label:active {
+  fill: var(--accent-color);
 }
 
 
