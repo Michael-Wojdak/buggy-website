@@ -4,7 +4,7 @@ Features:
 - ~~search by subgroup~~
 - click image for an expanded popout
 - group/subgroup pages?
-- button to jump back to search bar?
+- button to jump back to search bar, or pagination?
 
 Data:
 - ~~rotate/new primary images~~
@@ -13,7 +13,7 @@ Data:
 Improvements:
 - ~~image captions~~
 - ~~add tags (nepal/europe)~~
-- new favicon
+- ~~new favicon~~
 - ~~svg icon match theme color~~
 - custom input fields
 - don't let multi-line names push card size larger than neighbors
