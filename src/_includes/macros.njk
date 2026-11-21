@@ -1,5 +1,6 @@
 {% macro bugImage(entry, image) %}
     <img
+        class="expandable-image"
         src="/images/{{ image.path }}"
         alt="{{ entry.name | default('', true) | escape }}"
         title="{{ image.location }}{% if image.location %}, {% endif %}{{ image.date }}{% if (image.location or image.date) and image.desc %}&#10;{% endif %}{{ image.desc }}"

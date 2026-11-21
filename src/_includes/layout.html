@@ -165,15 +165,23 @@
       <main>
         <div class="content-inner">
           {{ content | safe }}
+
+          
         </div>
       </main>
     </div>
     <div class="sidebar right"></div>
   </div>
+
+  <!-- Image pop-out dialog -->
+  <dialog id="lightbox" style="padding: 0; border: none; background: transparent; max-width: 90vw; max-height: 90vh;">
+    <img id="lightbox-img" src="" alt="Full size view" style="max-width: 100%; max-height: 90vh; display: block;">
+  </dialog>
   
 </body>
 
 <script>
+  // Theme options and cycling
   const themes = ["Clean", "Slate", "Berry", "Fresh Greens", "Vibrant Nature", "Coastal Vibes", "Rustic Charm", "Mossy Woods", "Dark Berry", "Sea and Stars"];
   const savedTheme = localStorage.getItem("selected-theme");
   let currentThemeIndex = themes.indexOf(savedTheme) ?? 0;
@@ -189,5 +197,18 @@
     // Save preference in localStorage
     localStorage.setItem("selected-theme", nextTheme);
   });
+
+  // Image pop-out dialog
+  const dialog = document.getElementById('lightbox');
+  const dialogImg = document.getElementById('lightbox-img');
+
+  document.querySelectorAll('.expandable-image').forEach(img => {
+    img.addEventListener('click', () => {
+      dialogImg.src = img.dataset.full || img.src;
+      dialog.showModal();
+    });
+  });
+
+  dialog.addEventListener('click', () => dialog.close());
 </script>
 </html>

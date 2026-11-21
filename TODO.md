@@ -2,7 +2,7 @@ Features:
 - ~~random~~
 - ~~about/home page (could include a featured image)~~
 - ~~search by subgroup~~
-- click image for an expanded popout
+- ~~click image for an expanded popout~~
 - group/subgroup pages?
 - button to jump back to search bar, or pagination?
 
@@ -16,6 +16,7 @@ Improvements:
 - ~~new favicon~~
 - ~~svg icon match theme color~~
 - custom input fields
+- mobile first design
 - don't let multi-line names push card size larger than neighbors
 - caption for image of the day
 

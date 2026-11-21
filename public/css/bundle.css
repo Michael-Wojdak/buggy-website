@@ -206,6 +206,14 @@ h1,h2,h3,h4,h5,h6,p,label {
 }
 
 
+/* --- Image pop-out dialog --- */
+#lightbox::backdrop {
+  background: rgba(0, 0, 0, 0.85);
+  cursor: zoom-out;
+}
+#lightbox:focus { outline: none; }
+
+
 /* --- Input Fields --- */
 input, select {
   padding: 0.5rem;
